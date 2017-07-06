@@ -1,11 +1,20 @@
 {
 	"Introduction": {
 		"What is Rythm Bot?": "Answer 1",
-		"What is Rythm's Discord Server for?": "Answer 2"
+		"What is Rythm's Discord Server for?": "Answer 2",
+		"How do I add Rythm to my Server?": "Answer 3"
 	},
 	"Basics": {
-		"Question 3": "Answer 3",
-		"Question 4": "Answer 4"
+		"Where can I find a list of all Rythm Commands?": "Answer 4"
+		"How do I change the Bot's Nickname?": "Answer 1",
+		"Can I change the Bot's avatar?": "Answer 1",
+		"How do I change the Bot's Prefix?": "Answer 1",
+		"Does Rythm play 24/7?": "Answer 1",
+		"Can I have 2 Rythms in the same server?": "Answer 1",
+		"How can I see the current prefix for Rythm?": "Answer 1",
+		"Can I make a playlist?": "Answer 1",
+		"How can I donate to support Rythm?": "Answer 1"
+		
 	},
 	"Permissions": {
 		"Question 5": "Answer 5",
