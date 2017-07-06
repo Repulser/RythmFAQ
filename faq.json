@@ -13,12 +13,16 @@
 		"Can I have 2 Rythms in the same server?": "Answer 1",
 		"How can I see the current prefix for Rythm?": "Answer 1",
 		"Can I make a playlist?": "Answer 1",
-		"How can I donate to support Rythm?": "Answer 1"
+		"Where can I donate to support Rythm?": "Answer 1"
 		
 	},
 	"Permissions": {
-		"Question 5": "Answer 5",
-		"Question 6": "<i>This text is italic<\/i>"
+		"What users can use what command?": "Answer 5",
+		"How can I make Rythm only respond to Admins/specific roles?": "<i>This text is italic<\/i>",
+		"How do I give regular users access to all music commands?": "Answer 5",
+		"How can I block music commands in a specific text channel?": "Answer 5",
+		"How do I restrict Rythm from joining a voice channel?": "Answer 5"
+		
 	},
 	"Bot no work": "bot does work"
 }
