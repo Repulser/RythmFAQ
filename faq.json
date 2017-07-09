@@ -31,11 +31,14 @@
 		"Can I change the Bot's avatar?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> The bot’s Avatar/Profile picture can’t be changed. This is due to a Discord limitation. <br\/>",
 		
 		
+		"How do I change the Bot's Prefix?": "<br\/> To change the bot’s prefix use the following command format: <br\/> <br\/>  <b>!settings prefix [NewPrefix] <\/b> <br\/> <br\/> Example: <b> !settings prefix +<\/b>",
 		
 		
 		
 		
-		"How do I change the Bot's Prefix?": "Answer 1",
+		
+		
+		
 		"Does Rythm play 24/7?": "Answer 1",
 		"Can I have 2 Rythms in the same server?": "Answer 1",
 		"How can I see the current prefix for Rythm?": "Answer 1",
