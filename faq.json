@@ -40,11 +40,10 @@
 		"Can I make a playlist with Rythm?": "<br\/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud. <br\/> <br\/> To add songs to the queue from an online playlist, use the following command format: <br\/> <br\/> <b> !play [URL] <\/b> <br\/> <br\/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 <\/b> <br\/>",
 		
 		
+		"Can I have 2 Rythms in the same server?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> Discord doesn’t allow 2 instances of the same bot running within one server. <br\/>",
 		
 		
 		
-		
-		"Can I have 2 Rythms in the same server?": "Answer 1",
 		"How can I see the current prefix for Rythm?": "Answer 1",
 		
 		"Where can I donate to support Rythm?": "Answer 1"
