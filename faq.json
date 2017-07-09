@@ -40,6 +40,9 @@
 		"Can I make a playlist with Rythm?": "<br\/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud. <br\/> <br\/> To add songs to the queue from an online playlist, use the following command format: <br\/> <br\/> <b> !play [URL] <\/b> <br\/> <br\/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 <\/b> <br\/>",
 		
 		
+		"Why can some normal users access important music commands? ": "<br/>Normal users with no special permissions are only allowed to use the <br>!play<\/b> command to add songs to the queue by default. <br\/> They can also use other commands that don't affect the playing music in any way. Example: <b>!queue<\/> and <b>!lyrics<\/b>. <br\/> <br\/> However, <b>Normal users can access ALL music commands when they are alone with the bot in the voice channel<\/b>. <br\/>This is because their commands would not affect anyone but themselves. <br\/>",
+		
+		
 		"How do I change the channel where Rythm announces the songs in?": "<br\/> Rythm announces the songs in the same text channel it was originally called from. <br\/> <br\/> If you summon Rythm in channel #general, all Announce Songs messages will appear in that channel. <br\/> <br\/> To change the channel where it’ll show the messages, just <b>!disconnect<\/b> Rythm from the current channel and <b>!summon<\/b> it in the channel you want the songs to be announced in. <br\/>",
 		
 		
