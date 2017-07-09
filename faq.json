@@ -28,10 +28,13 @@
 		"How do I change the Bot's Nickname?": "<br\/> To change the bot’s nickname in your server you must: <br\/> <br\/> <b>1)<\/b> Right Click on the bot > Change nickname > Save. <br\/> <br\/>Done. <br\/>",
 		
 		
+		"Can I change the Bot's avatar?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> The bot’s Avatar/Profile picture can’t be changed. This is due to a Discord limitation. <br\/>",
 		
 		
 		
-		"Can I change the Bot's avatar?": "Answer 1",
+		
+		
+		
 		"How do I change the Bot's Prefix?": "Answer 1",
 		"Does Rythm play 24/7?": "Answer 1",
 		"Can I have 2 Rythms in the same server?": "Answer 1",
