@@ -40,7 +40,7 @@
 		"Can I make a playlist with Rythm?": "<br\/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud. <br\/> <br\/> To add songs to the queue from an online playlist, use the following command format: <br\/> <br\/> <b> !play [URL] <\/b> <br\/> <br\/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 <\/b> <br\/>",
 		
 		
-		"How can I change the channel where Rythm announces the songs?": "<br\/> Rythm announces the songs in the same text channel it was originally called from. <br\/> <br\/> If you summon Rythm in channel #general, all Announce Songs messages will appear in that channel. <br\/> <br\/> To change the channel where it’ll show the messages, just <b>!disconnect<\/b> Rythm from the current channel and <b>!summon<\/b> it in the channel you want the songs to be announced in. <br\/>",
+		"How can I change the channel where Rythm announces songs?": "<br\/> Rythm announces the songs in the same text channel it was originally called from. <br\/> <br\/> If you summon Rythm in channel #general, all Announce Songs messages will appear in that channel. <br\/> <br\/> To change the channel where it’ll show the messages, just <b>!disconnect<\/b> Rythm from the current channel and <b>!summon<\/b> it in the channel you want the songs to be announced in. <br\/>",
 		
 		
 		"Can I have 2 Rythms in the same server?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> Discord doesn’t allow 2 instances of the same bot running within one server. <br\/>",
