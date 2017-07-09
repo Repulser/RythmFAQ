@@ -43,8 +43,9 @@
 		"Can I have 2 Rythms in the same server?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> Discord doesn’t allow 2 instances of the same bot running within one server. <br\/>",
 		
 		
+		"How can I see the current prefix for Rythm?": "<br\/> You can see the current prefix for Rythm by typing: <br\/> <br\/> <b> @Rythm#3722 <\/b> <br\/> <br\/> A message should be returned by Rythm stating its current prefix. <br\/>",
 		
-		"How can I see the current prefix for Rythm?": "Answer 1",
+		
 		
 		"Where can I donate to support Rythm?": "Answer 1"
 		
