@@ -9,7 +9,7 @@
 		"How do I add Rythm to my server?": " <br\/> You can add Rythm to your Discord server using the following link: <br\/> <br\/> <br\/> <a href=\"https:\/\/discord.io\/rythm\">https:\/\/discord.io\/rythm<\/a> <br\/> <br\/> <br\/> <b> Note: <\/b> You need to be an Admin in the server OR have a role with “Manage server” permission to be able to add Rythm to a Discord Server. Also make sure you’re logged in into the right account in the web browser.",
 		
 		
-		"What is Rythm's Discord Server for?":" <br\/> Rythm’s Discord server is the official platform for everything related to Rythm bot. <br\/> <br\/> Here you’ll be able to: <br\/> <br\/> \u2022 See Information about Rythm’s latest features and updates. <br\/> \u2022 Keep up with all the news and announcements. <br\/> \u2022 Hang out with the members of our fast growing community! <br\/> \u2022 Suggest new features for the bot. <br\/> \u2022 Get support from our Staff members. <br\/> <br\/> <b> Note: <\/b> for an invite to Rythm's Discord server, use the following link:  <a href=\"https:\/\/discord.io\/botz\">https:\/\/discord.io\/botz<\/a> <br\/>  "
+		"What is Rythm's Discord Server for?":" <br\/> Rythm’s Discord server is the official platform for everything related to Rythm bot. <br\/> <br\/> Here you’ll be able to: <br\/> <br\/> \u2022 See Information about Rythm’s latest features and updates. <br\/> \u2022 Keep up with all the news and announcements. <br\/> \u2022 Hang out with the members of our fast growing community! <br\/> \u2022 Suggest new features for the bot. <br\/> \u2022 Get support from our Staff members. <br\/> <br\/> <b> Note: <\/b> For an invite to Rythm's Discord server, use the following link:  <a href=\"https:\/\/discord.io\/botz\">https:\/\/discord.io\/botz<\/a> <br\/>  "
 			 
 			 
 	},
@@ -17,6 +17,7 @@
 	
 	
 	"Basics": {
+		"How can I play a song with Rythm?": "<br\/> To play a song use the following command format: <br\/> <br\/> <b> !play <songname/url> <\/b> <br\/> Example: !play retrograde <br\/> <br\/> For a full list of commands type <b> !help <\/b> in your server with Rythm in it.",
 		"Where can I find a list of all Rythm Commands?": "Answer 4",
 		"How do I change the Bot's Nickname?": "Answer 1",
 		"Can I change the Bot's avatar?": "Answer 1",
