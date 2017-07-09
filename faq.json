@@ -34,12 +34,14 @@
 		"How do I change the Bot's Prefix?": "<br\/> To change the bot’s prefix use the following command format: <br\/> <br\/>  <b>!settings prefix [NewPrefix] <\/b> <br\/> <br\/> Example: <b> !settings prefix +<\/b>",
 		
 		
+		"Does Rythm play 24/7?": "<br\/> <b>Short answer<\/b>: No. <br\/> <br\/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature. <br\/>",
 		
 		
 		
 		
 		
-		"Does Rythm play 24/7?": "Answer 1",
+		
+		
 		"Can I have 2 Rythms in the same server?": "Answer 1",
 		"How can I see the current prefix for Rythm?": "Answer 1",
 		"Can I make a playlist?": "Answer 1",
