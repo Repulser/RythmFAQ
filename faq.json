@@ -22,8 +22,14 @@
 		"How can I play a song with Rythm?": "<br\/> To play a song use the following command format: <br\/> <br\/> <b> !play [songname/URL] <\/b> <br\/> <br\/> <b> Example <\/b>: !play retrograde <br\/> <br\/> For a full list of commands type <b> !help <\/b> in your server with Rythm in it.",
 		
 		
+		"Where can I find a list of all Rythm Commands?": "<br\/> You can see a list of commands by typing <b> !help <\/b> in your server, or by visiting the following link: <br\/> <br\/> <a href="https://rythmbot.co/#commands">https://rythmbot.co/#commands</a> <br\/> <br\/> <b>Note<\/b>: in order to execute any command, you must type a prefix. The default prefix for Rhythm is: <b>!<\/b> <br\/>",
 		
-		"Where can I find a list of all Rythm Commands?": "Answer 4",
+		
+		
+		
+		
+		
+		
 		"How do I change the Bot's Nickname?": "Answer 1",
 		"Can I change the Bot's avatar?": "Answer 1",
 		"How do I change the Bot's Prefix?": "Answer 1",
@@ -34,6 +40,11 @@
 		"Where can I donate to support Rythm?": "Answer 1"
 		
 	},
+	
+	
+	
+	
+	
 	"Permissions": {
 		"What users can use what command?": "Answer 5",
 		"How can I make Rythm only respond to Admins/specific roles?": "<i>This text is italic<\/i>",
