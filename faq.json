@@ -43,10 +43,14 @@
 		"How do I change the channel where Rythm announces the songs in?": "<br\/> Rythm announces the songs in the same text channel it was originally called from. <br\/> <br\/> If you summon Rythm in channel #general, all Announce Songs messages will appear in that channel. <br\/> <br\/> To change the channel where it’ll show the messages, just <b>!disconnect<\/b> Rythm from the current channel and <b>!summon<\/b> it in the channel you want the songs to be announced in. <br\/>",
 		
 		
+		"How many votes are needed for a song to be vote skipped?": "<br\/> For a vote skip to take effect, 75% of the voice chat's population need to vote yes. <br\/> <br\/> <b>Here's an example<\/b>: <br\/> <br\/> Let's assume there are 10 users in a voice chat, 75% of 10 = 7,50. Since the results are rounded down, it would count as 7. For the vote skip to take effect, you would then need 7 positive votes. <br\/>",
+		
+		
 		"Can I have 2 Rythms in the same server?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> Discord doesn’t allow 2 instances of the same bot running within one server. <br\/>",
 		
 		
 		"How can I see the current prefix for Rythm?": "<br\/> You can see the current prefix for Rythm by typing: <br\/> <br\/> <b> @Rythm#3722 <\/b> <br\/> <br\/> A message should be returned by Rythm stating its current prefix. <br\/>",
+		
 		
 		"How can I donate to support Rythm?": "<br\/> Love Rythm? Want to support its development? you can do so by becoming a donator today! plus, you'll also get access to donator-only features along the way! <br\/> <br\/> <b> If you're interested in donating, please visit the following link<\/b>: <br\/> <br\/> <a href=\"https:\/\/patreon.com\/rythm\">https:\/\/patreon.com\/rythm<\/a> <br\/>"
 		
