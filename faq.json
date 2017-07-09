@@ -1,7 +1,9 @@
 {
-	"Introduction": { "<b>What is Rythm Bot?</b>": " <br\/> Rythm is a feature-rich, high-performance music bot for Discord, specially designed to deliver high quality music, stability and ease of use while also providing advanced music functionalities in order to create the ultimate music bot experience.",
-
+	"Introduction": 
+	{ 
 		
+		
+		"<b>What is Rythm Bot?</b>": " <br\/> Rythm is a feature-rich, high-performance music bot for Discord, specially designed to deliver high quality music, stability and ease of use while also providing advanced music functionalities in order to create the ultimate music bot experience.",
 			 
 		"How do I add Rythm to my server?": " <br\/> You can add Rythm to your Discord server using the following link: <br\/> <br\/> <br\/> <a href=\"https:\/\/discord.io\/rythm\">https:\/\/discord.io\/rythm<\/a> <br\/> <br\/> <br\/> <b> Note: <\/b> You need to be an Admin in the server OR have a role with “Manage server” permission to be able to add Rythm to a Discord Server. Also make sure you’re logged in into the right account in the web browser.",
 			 
@@ -9,8 +11,10 @@
 		"What is Rythm's Discord Server for?": "Answer 2"
 			 
 			 
-	
 	},
+	
+	
+	
 	"Basics": {
 		"Where can I find a list of all Rythm Commands?": "Answer 4",
 		"How do I change the Bot's Nickname?": "Answer 1",
