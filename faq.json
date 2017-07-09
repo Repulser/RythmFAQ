@@ -19,7 +19,7 @@
 	"Basics": 
 	{
 		
-		"How can I play a song with Rythm?": "<br\/> To play a song use the following command format: <br\/> <br\/> <b> !play <songname\/url> <\/b> <br\/> <br\/> <b> Example <\/b>: !play retrograde <br\/> <br\/> For a full list of commands type <b> !help <\/b> in your server with Rythm in it.",
+		"How can I play a song with Rythm?": "<br\/> To play a song use the following command format: <br\/> <br\/> <b> !play [songname/URL] <\/b> <br\/> <br\/> <b> Example <\/b>: !play retrograde <br\/> <br\/> For a full list of commands type <b> !help <\/b> in your server with Rythm in it.",
 		
 		
 		
