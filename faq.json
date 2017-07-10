@@ -40,6 +40,9 @@
 		"Can I make a playlist with Rythm?": "<br\/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud. <br\/> <br\/> To add songs to the queue from an online playlist, use the following command format: <br\/> <br\/> <b> !play [URL] <\/b> <br\/> <br\/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 <\/b> <br\/>",
 		
 		
+		"Can Rythm play from Spotify?": "<br\/> <b> Short answer<\/b>: No. <br\/> <br\/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it. <br\/> <br\/> However, you can use a <a href=\"https:\/\/playlistbuddy.com\">Spotify to Youtube playlist convertor<\/a>  instead. ",
+		
+		
 		"Why can some normal users access important music commands? ": "<br/>Normal users with no special permissions are only allowed to use the <b>!play<\/b> command to add songs to the queue by default. <br\/> They can also use other commands that don't affect the playing music in any way. Example: <b>!queue<\/b> and <b>!lyrics<\/b>. <br\/> <br\/> However, <b>Normal users can access ALL music commands when they are alone with the bot in the voice channel<\/b>. <br\/>This is because their commands would not affect anyone but themselves. <br\/> <br\/>For more information about users their command permissions, refer to the <b>>Permissions<\/b> section in this FAQ. <br\/>",
 		
 		
