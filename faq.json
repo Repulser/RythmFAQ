@@ -68,7 +68,7 @@
 	"Permissions": 
 	{
 		
-		"What users can use what command?": "<b> <u> This is fucked up yo <\/u> <\/b>",
+		"What users can use what command?": "<br\/>Rythm’s  built-in permission system can be divided in the following tiers: <br\/> <br\/> <b> <u> Normal<\/b> Users/Users <b>without<\/b> any special roles<\/u>: <br\/> <br\/> <b>\u2022<\/b> Are able to add songs to the list (queue) but can’t remove them. <br\/> <b>\u2022<\/b> Are able to use commands that don’t interfere with other people’s music. Example: lyrics, np, queue, etc. <br\/> <b>\u2022<\/b> Can't skip a song without voting. <br\/> <b>\u2022<\/b> Don’t have access to control the music in any way. <br\/>",
 		
 		
 		
