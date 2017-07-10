@@ -74,7 +74,6 @@
 		"How can I make Rythm only respond to Admins/specific roles?": "<br\/> In order to make Rythm commands just available to specific roles you need to: <br\/> <br\/> <b>1<\/b>- Make a text channel that can only be <b>seen<\/b> by users with the <b>specific role<\/b>. <br\/> <br\/> <b>2<\/b>- Blacklist <b>all the other text channels<\/b> in the server with Rythm’s function <b>!blacklist<\/b>. <br\/> <br\/> <br\/> To blacklist channels use the following command format: <br\/> <br\/> <b>!settings blacklist [#channel]<\/b> <br\/> <b>Example<\/b>: !settings blacklist #general",
 		
 		
-		
 		"How do I give normal users access to all music commands?": "Answer 5",
 		"How can I block music commands in a specific text channel?": "Answer 5",
 		"How do I restrict Rythm from joining a voice channel?": "Answer 5"
