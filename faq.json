@@ -80,7 +80,9 @@
 		"How do I give normal users access to all music commands?": "<br\/> Users with <b>Manage Channels<\/b> permissions have access to all music commands by <b>default<\/b>. <br\/> Users with <b>Manage Server<\/b> permissions <b>don’t<\/b>.<br\/> <br\/> However, if you wish to give <b>some users<\/b> access to <b>all music commands<\/b> without having to give <br\/> them the <b>Manage Channels<\/b> permission, you can do so by creating a role named <b>DJ<\/b> in your server and <br\/> assigning it to the users. This role doesn’t need to have any special discord permissions. <br\/> <br\/> The <b>DJ<\/b> role has to be assigned manually and <b>cannot<\/b> be given to all users at once. <br\/> <br\/> <br\/> <b>Note<\/b>: Users with the <b>DJ<\/b> role <b>will not<\/b> be able to change or modify the bot’s <b>Settings<\/b>.",
 		
 		
-		"How can I block music commands in a specific text channel?": "Answer 5",
+		"How can I block music commands in a specific text channel?": "<br\/>To restrict music commands from working in some text channels, you must <b>blacklist<\/b> <br\/> the channels with Rythm’s function <b>!Blacklist<\/b>. <br\/> <br\/> To blacklist a channel use the following command format: <br\/> <br\/> <b>!settings blacklist <#channel> <\/b> <br\/> <br\/> <b>Example<\/b>: !settings blacklist #general",
+		
+		
 		"How do I restrict Rythm from joining a voice channel?": "Answer 5"
 		
 	}
