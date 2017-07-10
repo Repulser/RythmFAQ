@@ -65,8 +65,14 @@
 	
 	
 	
-	"Permissions": {
-		"What users can use what command?": "Answer 5",
+	"Permissions": 
+	{
+		
+		"What users can use what command?": "<b> <u> This is fucked up yo <\/u> <\/b>",
+		
+		
+		
+		
 		"How can I make Rythm only respond to Admins/specific roles?": "<i>This text is italic<\/i>",
 		"How do I give normal users access to all music commands?": "Answer 5",
 		"How can I block music commands in a specific text channel?": "Answer 5",
