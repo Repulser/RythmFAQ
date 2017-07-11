@@ -85,9 +85,14 @@
 		
 		"How do I restrict Rythm from joining a voice channel?": "<br\/>To block Rythm from joining a specific voice channel you must: <br\/> <br\/> <br\/> <b>1<\/b>) Go to your Discord <b>Server Settings<\/b> > <b>Roles<\/b>. <br\/> <br\/> <b>2<\/b>) Find the role that belongs to <b>Rythm<\/b>. <br\/> <br\/> <b>3<\/b>) Turn <b>OFF<\/b> the Administrator permission for Rythm. <br\/> <br\/> <b>4<\/b>)Turn <b>ON<\/b> Manage Server, Manage Channels, Read messages, Send Messages, Connect and Speak Permissions. <br\/> <br\/> <b>5<\/b>) Go to the voice channel you want to <b>restrict<\/b> Rythm from connecting to. <br\/> <br\/> <b>6<\/b>) Click <b>Edit channel<\/b> > <b>Permissions<\/b> > <b>Rythm Role<\/b>. <br\/> <br\/> <b>7<\/b>) Turn <b>OFF<\/b> the \"Connect\"\r\n permission for Rythm. Save. <br\/> <br\/> Done. <br\/> <br\/> <br\/> <b>Note<\/b>: To blacklist multiple channels, just repeat steps 5 to 7 <br\/> separately with all the voice channels you wish to blacklist. <br\/> <br\/>"
 		
-	}
+	},
 	
 	  
+	"Settings":
+	{ 
+		"<br\/> These are the options you can access through Rythm’s settings menu: <br\/> <br\/> <br\/> <b>1<\/b>- \u2022 <b> <u> Changing the bot’s prefix <\/u> <\/b> <br\/> <br\/> Makes the bot respond to a different prefix. <br\/> <br\/> <u>Command format<\/u>: !settings prefix <NewPrefix> <br\/> <b> <u>Example<\/u> <\/b>: !settings prefix + <br\/> <br\/> <br\/> <b>2<\/b>- \u2022 <b> <u> Blacklisting text channels <\/u> <\/b> <br\/> <br\/> By blacklisting a text channel, you make it impossible for <br\/> anyone to access music commands through that channel. <br\/> <br\/> <u>Command format<\/u>: !settings blacklist <#channel> <br\/> <b> <u>Example<\/u> <\/b>: !settings blacklist #general <br\/> <br\/> <b>Note<\/b>: To \"Whitelist\" a text channel and put it back <br\/> to normal, just run the Blacklist command on it again. <br\/> <br\/> <br\/> <b>3<\/b>- \u2022 <b> <u>Enabling/disabling autoplay<\/u> <\/b>:<b>*<\/b> <br\/> <br\/> <b>Autoplay feature<\/b>: once setup with your own playlist, <br\/> Rythm will queue songs from it once the queue is empty. <br\/> <br\/> <u>Command format<\/u>: !settings autoplay <URL/disable> <br\/> <b> <u>Example<\/u> <\/b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 <br\/> <br\/> Note: <b> <u>This feature is donator exclusive<\/u> <\/b>. <br\/> <br\/> <br\/> <b>1<\/b>- \u2022 <b> <u>Turning On/Off Announcesongs <\/u> <\/b>: <br\/> <br\/> Sends a message to a text channel announcing every song when <br\/> they start. <br\/> <br\/> <u>Command format<\/u>: !settings announcesongs <on/off> <br\/> <b> <u>Example<\/u> <\/b>: !settings announcesongs on "
+	
+	}
 	
 	
 	
