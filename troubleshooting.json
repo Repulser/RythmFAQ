@@ -6,7 +6,7 @@
 		
 		"When adding Rythm I can't see my server on the list": "<br\/> You need to have a role with “<b>Administrator<\/b>” or “<b>Manage server<\/b>” permissions to be able to add a Bot (Rythm) to a <b>Discord Server<\/b>. <br\/> <br\/> If you have the right permissions and <b>still can’t see<\/b> your server in the list, make sure you’re <b>logged in<\/b> into the correct <b>discord account<\/b> in your <b>web browser<\/b>. <br\/> ",
 		
-		"Rythm left the voice channel after 2 minutes": "<br\/> For performance reasons, Rythm leaves after 2 minutes of it being alone in the voice channel. <br\/> This helps Rhythm save resources while no one is listening to it and keeps the music quality <br\/> consistent for all users at any given time! <br\/> <br\/> Don't worry though, as long as you are in a voice channel, just type <b>!summon<\/b> to make Rythm join your channel!",
+		"Rythm left the voice channel after 2 minutes": "<br\/> For performance reasons, Rythm leaves after 2 minutes of it being alone in a voice channel. <br\/> This helps Rhythm save resources while no one is listening to it and keeps the music quality <br\/> consistent for all users at any given time! <br\/> <br\/> Don't worry though, as long as you are in a voice channel, just type <b>!summon<\/b> to make Rythm join your channel!",
 		
 		"Question 3": "Answer 3",
 		
