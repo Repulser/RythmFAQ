@@ -8,7 +8,7 @@
 		
 		"Rythm left the voice channel after 2 minutes": "<br\/> For performance reasons, Rythm leaves after 2 minutes of it being alone in a voice channel. <br\/> This helps Rhythm save resources while no one is listening to it and keeps the music quality <br\/> consistent for all users at any given time! <br\/> <br\/> Don't worry though, as long as you are in a voice channel, just type <b>!summon<\/b> to make Rythm join your channel!",
 		
-		"Rythm messages come out blank": "<\/br> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled<\/b> on your client. Make sure to <b>enable<\/b> it! <br\/> <br\/> To do so: <br\/> <br\/> Go to your <b>discord settings<\/b> > click on \"<b>Text & Images<\/b>\"\r\n > <b>Enable<\/b> \"Show website preview info from links pasted into chat\u201D\r\n. <br\/> <br\/> <img src=\"http:\/\/i.imgur.com\/dvmYgs9.png\" alt=\"Mountain View\" style=\"width:600px;height:200px;\" >\r\n",
+		"Rythm messages come out blank": "<\/br> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled<\/b> on your client. Make sure to <b>enable<\/b> it! <br\/> <br\/> To do so: <br\/> <br\/> Go to your <b>discord settings<\/b> > click on \"<b>Text & Images<\/b>\"\r\n > <b>Enable<\/b> \"Show website preview info from links pasted into chat\u201D\r\n. <br\/> <br\/> <img src=\"http:\/\/i.imgur.com\/dvmYgs9.png\" alt=\"Mountain View\" style=\"width:600px;height:300px;\" >\r\n",
 		
 		
 		"Question 3": "Answer 3"
