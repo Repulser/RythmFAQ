@@ -46,15 +46,7 @@ Basics:
         <br/> 
         <br/> <b>1)</b> <b>Right Click on the bot</b> > <b> Change nickname</b> > <b>Save</b>.
         <br/> 
-        <br/>Done.
-    Can I change the Bot's avatar?: |
-        <br/> <b> Short answer</b>: No.
-        <br/> 
-        <br/> The bot’s Avatar/Profile picture can’t be changed. This is due to a Discord limitation.
-    Does Rythm play 24/7?: |
-        <br/> <b>Short answer</b>: No.
-        <br/> 
-        <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature.
+        <br/> Done.
     Can I make a playlist with Rythm?: |
         <br/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud.
         <br/> 
@@ -63,12 +55,6 @@ Basics:
         <br/> <b> !play [URL] </b>
         <br/> 
         <br/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 </b>
-    Can Rythm play from Spotify?: |
-        <br/> <b> Short answer</b>: No.
-        <br/> 
-        <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
-        <br/> 
-        <br/> However, you can use a <a href="www.playlistbuddy.com">Spotify to Youtube playlist convertor</a> instead.
     Why can some normal users access important music commands?: |
         <br/> Normal users with no special permissions are only allowed to use the <b>!play</b> command to add songs to the queue by default.
         <br/> They can also use other commands that don't affect the playing music in any way. Example: <b>!queue</b> and <b>!lyrics</b>.
@@ -89,10 +75,6 @@ Basics:
         <br/> <b>Here's an example</b>:
         <br/> 
         <br/> Let's assume there are 10 users in a voice chat, 75% of 10 = 7,50. Since the results are rounded down, it would count as 7. For the vote skip to take effect, you would then need 7 positive votes.
-    Can I have 2 Rythms in the same server?: |
-        <br/> <b> Short answer</b>: No.
-        <br/> 
-        <br/> Discord doesn’t allow 2 instances of the same bot running within one server.
     How can I see the current prefix for Rythm?: |
         <br/> You can see the current prefix for Rythm by typing:
         <br/> 
@@ -107,6 +89,25 @@ Basics:
         <br/> <b> If you're interested in donating, please visit the following link</b>:
         <br/> 
         <br/> <a href="https://patreon.com/rythm">https://patreon.com/rythm</a>
+Limitations:
+    Can I have 2 Rythms in the same server?: |
+        <br/> <b> Short answer</b>: No.
+        <br/> 
+        <br/> Discord doesn’t allow 2 instances of the same bot running within one server.
+    Can Rythm play from Spotify?: |
+        <br/> <b> Short answer</b>: No.
+        <br/> 
+        <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
+        <br/> 
+        <br/> However, you can use a <a href="www.playlistbuddy.com">Spotify to Youtube playlist convertor</a> instead.
+    Does Rythm play 24/7?: |
+        <br/> <b>Short answer</b>: No.
+        <br/> 
+        <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature, such as <a href="https://github.com/repulser/moosic">this bot</a>.
+    Can I change the Bot's avatar?: |
+        <br/> <b> Short answer</b>: No.
+        <br/> 
+        <br/> The bot’s Avatar/Profile picture can’t be changed. This is due to a Discord limitation.
 Permissions:
     What users can use what command?: |
         <br/> Rythm’s built-in permission system can be divided in the following groups:
