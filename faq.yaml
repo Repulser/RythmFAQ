@@ -1,4 +1,4 @@
-
+# YAML does not support tab characters. Ensure each tab is represented as 4 spaces.
 ---
 Introduction:
     What is Rythm Bot?: |
