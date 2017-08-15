@@ -4,14 +4,37 @@ Introduction:
     What is Rythm Bot?: |
         <br/> Rythm is a feature-rich, high-performance music bot for Discord, specially designed to deliver High Quality music, stability and ease of use while also providing advanced music functionalities in order to create the ultimate music bot experience.
     How do I add Rythm to my server?: |
-        <br/> You can add Rythm to your Discord server by clicking on the following link: <br/> <br/> <br/> <a href="https://discord.io/rythm">https://discord.io/rythm</a> <br/> <br/> <br/> <b> Note: </b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add Rythm to a Discord Server. <br/> Also make sure you’re logged in into the right account in the web browser when adding the bot.
+        <br/> You can add Rythm to your Discord server by clicking on the following link:
+        <br/> <a href="https://discord.io/rythm">https://discord.io/rythm</a>
+        <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add Rythm to a Discord Server.
+        <br/> Also make sure you’re logged in into the right account in the web browser when adding the bot.
     What is Rythm's Discord Server for?: |
-        <br/> Rythm’s Discord server is the official platform for everything related to Rythm bot. <br/> <br/> Here you’ll be able to: <br/> <br/> • See Information about Rythm’s latest features and updates. <br/> • Keep up with all the news and announcements. <br/> • Hang out with the members of our fast growing community! <br/> • Suggest new features for the bot. <br/> • Get support from our Staff members. <br/> <br/> <b> Note: </b> For an invite to Rythm's Discord server, use the following link:  <a href="https://discord.io/botz">https://discord.io/botz</a> <br/>
+        <br/> Rythm’s Discord server is the official platform for everything related to Rythm bot.
+        <br/> 
+        <br/> Here you’ll be able to:
+        <br/> 
+        <br/> • See Information about Rythm’s latest features and updates.
+        <br/> • Keep up with all the news and announcements.
+        <br/> • Hang out with the members of our fast growing community!
+        <br/> • Suggest new features for the bot.
+        <br/> • Get support from our Staff members.
+        <br/> 
+        <br/> <b>Note:</b> For an invite to Rythm's Discord server, use the following link: <a href="https://discord.io/botz">https://discord.io/botz</a>
 Basics:
     How can I play a song with Rythm?: |
-        <br/> To play a song use the following command format: <br/> <br/> <b> !play [songname/URL] </b> <br/> <br/>  Example: <b>!play retrograde</b> <br/> <br/> For a full list of commands type <b> !help </b> in your server with Rythm in it.
+        <br/> To play a song use the following command format:
+        <br/> 
+        <br/> <b>!play [songname/URL]</b>
+        <br/> 
+        <br/> Example: <b>!play retrograde</b>
+        <br/> 
+        <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     Where can I find a list of all Rythm Commands?: |
-        <br/> You can see a list of commands by typing <b> !help </b> in your server, or by visiting the following link: <br/> <br/> <a href="https://rythmbot.co/#commands">https://rythmbot.co/#commands</a> <br/> <br/> <b>Note</b>: In order to execute any command, you must type the bot's prefix followed by the command. The default prefix for Rhythm is:   <b>!</b> <br/>
+        <br/> You can see a list of commands by typing <b>!help</b> in your server, or by visiting the following link:
+        <br/> 
+        <br/> <a href="https://rythmbot.co/#commands">https://rythmbot.co/#commands</a>
+        <br/> 
+        <br/> <b>Note</b>: In order to execute any command, you must type the bot's prefix followed by the command. The default prefix for Rhythm is: <b>!</b>
     How do I change the Bot's Prefix?: |
         <br/> To change the bot’s prefix use the following command format: <br/> <br/>  <b>!settings prefix [NewPrefix] </b> <br/> <br/> Example: <b> !settings prefix +</b>
     How do I change the Bot's Nickname?: |
