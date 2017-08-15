@@ -36,15 +36,33 @@ Basics:
         <br/> 
         <br/> <b>Note</b>: In order to execute any command, you must type the bot's prefix followed by the command. The default prefix for Rhythm is: <b>!</b>
     How do I change the Bot's Prefix?: |
-        <br/> To change the bot’s prefix use the following command format: <br/> <br/>  <b>!settings prefix [NewPrefix] </b> <br/> <br/> Example: <b> !settings prefix +</b>
+        <br/> To change the bot’s prefix use the following command format:
+        <br/> 
+        <br/> <b>!settings prefix [NewPrefix]</b>
+        <br/> 
+        <br/> Example: <b> !settings prefix +</b>
     How do I change the Bot's Nickname?: |
-        <br/> To change the bot’s nickname in your server you must: <br/> <br/> <b>1)</b> <b>Right Click on the bot</b> > <b> Change nickname</b> > <b>Save</b>. <br/> <br/>Done. <br/>
+        <br/> To change the bot’s nickname in your server you must:
+        <br/> 
+        <br/> <b>1)</b> <b>Right Click on the bot</b> > <b> Change nickname</b> > <b>Save</b>.
+        <br/> 
+        <br/>Done.
     Can I change the Bot's avatar?: |
-        <br/> <b> Short answer</b>: No. <br/> <br/> The bot’s Avatar/Profile picture can’t be changed. This is due to a Discord limitation. <br/>
+        <br/> <b> Short answer</b>: No.
+        <br/> 
+        <br/> The bot’s Avatar/Profile picture can’t be changed. This is due to a Discord limitation.
     Does Rythm play 24/7?: |
-        <br/> <b>Short answer</b>: No. <br/> <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature. <br/>
+        <br/> <b>Short answer</b>: No.
+        <br/> 
+        <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature.
     Can I make a playlist with Rythm?: |
-        <br/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud. <br/> <br/> To add songs to the queue from an online playlist, use the following command format: <br/> <br/> <b> !play [URL] </b> <br/> <br/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 </b> <br/>
+        <br/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud.
+        <br/> 
+        <br/> To add songs to the queue from an online playlist, use the following command format:
+        <br/> 
+        <br/> <b> !play [URL] </b>
+        <br/> 
+        <br/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 </b>
     Can Rythm play from Spotify?: |
         <br/> <b> Short answer</b>: No. <br/> <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it. <br/> <br/> However, you can use a <a href="www.playlistbuddy.com">Spotify to Youtube playlist convertor</a> instead.
     Why can some normal users access important music commands?: |
