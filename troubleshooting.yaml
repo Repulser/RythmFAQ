@@ -1,3 +1,5 @@
+# DO NOT USE YET - USE THE JSON | I AM STILL TESTING THIS IS A HAPPY FILE
+# YAML does not support tab characters. Ensure each tab is represented as 4 spaces.
 ---
 Basics:
     When adding Rythm I can't see my server on the list: |
