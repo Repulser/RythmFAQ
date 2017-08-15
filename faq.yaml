@@ -20,6 +20,10 @@ Introduction:
         <br/> • Get support from our Staff members.
         <br/> 
         <br/> <b>Note:</b> For an invite to Rythm's Discord server, use the following link: <a href="https://discord.io/botz">https://discord.io/botz</a>
+    How can Rythm be in so many guilds at once?: |
+        <br/> Rythm uses a system called "sharding".
+        <br/> 
+        <br/> For more information by discord's developers <a ref="https://discordapp.com/developers/docs/topics/gateway#sharding">click here</a>.
 Basics:
     How can I play a song with Rythm?: |
         <br/> To play a song use the following command format:
