@@ -1,0 +1,78 @@
+---
+Basics:
+    When adding Rythm I can't see my server on the list: |
+        <br/> You need to have a role with “<b>Administrator</b>” or “<b>Manage server</b>” permissions to be able to add a Bot (Rythm) to a <b>Discord Server</b>.
+        <br/> 
+        <br/> If you have the right permissions and <b>still can’t see</b> your server in the list, make sure you’re <b>logged in</b> into the correct <b>discord account</b> in your <b>web browser</b>.
+    Rythm left the voice channel after 2 minutes: |
+        <br/> For performance reasons, Rythm leaves after 2 minutes of it being alone in a voice channel.
+        <br/> This helps Rhythm save resources while no one is listening to it and keeps the music quality consistent for all users at any given time!
+        <br/> 
+        <br/> Don't worry though, as long as you are in a voice channel, just type <b>!summon</b> to make Rythm join your channel!
+    Rythm messages come out blank: |
+        <br/> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled</b> on your client. Make sure to <b>enable</b> it!
+        <br/> 
+        <br/> To do so:
+        <br/> 
+        <br/> Go to your <b>discord settings</b> > click on "<b>Text & Images</b>" > <b>Enable</b> "Show website preview info from links pasted into chat”.
+        <br/> 
+        <br/> <img src="http://i.imgur.com/dvmYgs9.png" alt="" style="width:500px;height:330px;" />
+    Rythm does not respond to commands: |
+        <br/> If Rhythm isn’t responding to commands, try the following:
+        <br/> 
+        <br/> 
+        <br/> • <b>Make sure you’re using the right Rythm prefix</b>. You can see the current prefix for Rythm by Mentioning the bot. <u>Example</u>: <b>@Rythm#3722</b>
+        <br/> 
+        <br/> Mentioning the bot won't work if the channel you're using is <b>blacklisted</b>.
+        <br/> When you mention the bot, do it in a channel where Rythm can read and execute commands in.
+        <br/> 
+        <br/> 
+        <br/> • <b>Make sure Rythm has permissions to send messages in the text channel.</b>
+        <br/> You can give “<b>Administrator</b>” permissions to the bot to make this easier.
+        <br/> 
+        <br/> 
+        <br/> • <b>Change Server region</b>. If none of the above work, you can try changing the Server Region in order to fix the issue. Any other should work, although a USA region is recommended for better Bot performance.
+    Tried to be smart and changed the Rythm prefix to some weird ass shit and now I can't go back to the last one: |
+        <br/> If you have changed the default Rythm prefix to a custom one and now can’t make Rythm work or aren’t able to change the prefix back, do the following:
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>1-</b> <u>Mention the bot.</u>
+        <br/> 
+        <br/> You can do this by typing: <b>@Rythm3722 <b/>
+        <br/> 
+        <br/> <b>Note</b>: Mentioning the bot won’t work if the channel you used is <b>Blacklisted</b>.
+        <br/> When you mention the bot, do it in a channel the bot can read in.</b>
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>2-</b> <u>Copy the Prefix response </u>.
+        <br/> 
+        <br/> After mentioning Rythm, it should give you a message similar to this:
+        <br/> 
+        <br/> <img src="http://i.imgur.com/feWAbi0.jpg" alt="" style="width:450px;height:150px;" >
+        <br/> 
+        <br/> <b>You must Copy the part that is marked in red</b>.
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>3-</b> <u>Run the prefix command.</u>
+        <br/> 
+        <br/> Paste the copied text in the chat box and <b>right next to it</b> with <b>no spaces</b> type: settings prefix ! <br/> <br/> <u>Example</u>: To set the prefix back to <b>!</b> in the above picture, the command would be this:
+        <br/> 
+        <br/> <b>;2Test-)29dsettings prefix ! </b>
+        <br/> 
+        <br/> 
+        <br/> Note: You must have a role with “Administrator” or “Manage Server” permissions to be able to change Rythm’s prefix.
+    Question 3: |
+        <br/> Answer 3
+Sound issues:
+    Question 3: |
+        <br/> Answer 3
+    Question 4: |
+        <br/> Answer 4
+Other:
+    Question 5: |
+        <br/> Answer 5
+    Question 6: |
+        <br/> Answer 6
