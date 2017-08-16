@@ -67,7 +67,7 @@ Basics:
         <br/> Note: You must have a role with “Administrator” or “Manage Server” permissions to be able to change Rythm’s prefix.
 Sound issues:
     Rythm is lagging: |
-        <br/> If you find that Rythm's sound has started to lag try the following methods in order:
+        <br/> If you find that Rythm's sound has started to lag, perform the following checks in order:
         <br/>
         <br/> <b>1.</b> Kick Rythm out of the voice channel and resummon him using the commands <b>!dc</b> and then <b>!summon</b>.
         <br/>
@@ -76,8 +76,17 @@ Sound issues:
         <br/> <b>3.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #announcements channel to see if Rythm is currently having an issue with lagging.
         <br/> 
         <br/> <b>4.</b> Kick and reinvite Rythm to your Discord Guild.
-    Question 4: |
-        <br/> Answer 4
+    Rythm doesn't play any sound: |
+        <br/> If you find that Rythm does not play any sound, perform the following checks in order:
+        <br/>
+        <br/> <b>1.</b> Ensure that Rythm is not muted, if you right click on Rythm while it is in a music channel <b>ensure the options in red are not ticked</b>:
+        <br/> <img src="http://i.imgur.com/976UBx9.png">
+        <br/>
+        <br/> <b>2.</b> Go to <b>server settings</b> and change the server region a few times until you find a server where Rythm does not lag.
+        <br/>
+        <br/> <b>3.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #announcements channel to see if Rythm is currently having an issue with lagging.
+        <br/> 
+        <br/> <b>4.</b> Kick and reinvite Rythm to your Discord Guild.
 Other:
     Question 5: |
         <br/> Answer 5
