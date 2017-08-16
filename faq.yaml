@@ -118,7 +118,7 @@ Limitations/Restrictions:
         <br/> • Rythm's code isn't portable in any sense so the code isn't built for anyone to deploy it.
         <br/> • We do not wish for Rythm to become the next bot everyone ends up emulating.
         <br/> • We do not want people to rip apart any credit we have from the code and redistributing.
-Permissions:
+Roles/Permissions:
     What users can use what command?: |
         <br/> Rythm’s built-in permission system can be divided in the following groups:
         <br/> 
