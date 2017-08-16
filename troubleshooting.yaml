@@ -7,7 +7,7 @@ Basics:
         <br/> If you have the right permissions and <b>still can’t see</b> your server in the list, make sure you’re <b>logged in</b> into the correct <b>discord account</b> in your <b>web browser</b>.
     Rythm left the voice channel after 2 minutes: |
         <br/> For performance reasons, Rythm leaves after 2 minutes of it being alone in a voice channel.
-        <br/> This helps Rhythm save resources while no one is listening to it and keeps the music quality consistent for all users at any given time!
+        <br/> This helps Rythm save resources while no one is listening to it and keeps the music quality consistent for all users at any given time!
         <br/> 
         <br/> Don't worry though, as long as you are in a voice channel, just type <b>!summon</b> to make Rythm join your channel!
     Rythm messages come out blank: |
@@ -19,10 +19,10 @@ Basics:
         <br/> 
         <br/> <img src="http://i.imgur.com/dvmYgs9.png" alt="" style="width:500px;height:330px;" />
     Rythm does not respond to commands: |
-        <br/> If Rhythm isn’t responding to commands, try the following:
+        <br/> If Rythm isn’t responding to commands, try the following:
         <br/> 
         <br/> 
-        <br/> • <b>Make sure you’re using the right Rythm prefix</b>. You can see the current prefix for Rythm by Mentioning the bot. <u>Example</u>: <b>@Rythm#3722</b>
+        <br/> • <b>Make sure you’re using the right Rythm prefix</b>. You can see the current prefix for Rythm by Mentioning the bot. <u>Example</u>: <b>@Rythm#3722</b> or <b><@235088799074484224> </b>
         <br/> 
         <br/> Mentioning the bot won't work if the channel you're using is <b>blacklisted</b>.
         <br/> When you mention the bot, do it in a channel where Rythm can read and execute commands in.
@@ -65,11 +65,17 @@ Basics:
         <br/> 
         <br/> 
         <br/> Note: You must have a role with “Administrator” or “Manage Server” permissions to be able to change Rythm’s prefix.
-    Question 3: |
-        <br/> Answer 3
 Sound issues:
-    Question 3: |
-        <br/> Answer 3
+    Rythm is lagging: |
+        <br/> If you find that Rythm's sound has started to lag try the following methods in order:
+        <br/>
+        <br/> <b>1.</b> Kick Rythm out of the voice channel and resummon him using the commands <b>!dc</b> and then <b>!summon</b>.
+        <br/>
+        <br/> <b>2.</b> Go to <b>server settings</b> and change the server region a few times until you find a server where Rythm does not lag.
+        <br/>
+        <br/> <b>3.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #announcements channel to see if Rythm is currently having an issue with lagging.
+        <br/> 
+        <br/> <b>4.</b> Kick and reinvite Rythm to your Discord Guild.
     Question 4: |
         <br/> Answer 4
 Other:
