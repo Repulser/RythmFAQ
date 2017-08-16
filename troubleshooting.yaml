@@ -85,10 +85,21 @@ Sound issues:
         <br/> <b>2.</b> Ensure that Rythm's volume is not set to 0, if you right click on Rythm while it is in a music channel <b>ensure the slider in red is not set to 0</b>:
         <br/> <img src="http://i.imgur.com/9AnLpgR.png">
         <br/> <img src="http://i.imgur.com/omXLR57.png">
+        <br/> <b>N.B: For donators:</b> use the <b>!vol</b> command to check that the server's volume has not been set to 0.
         <br/> 
-        <br/> <b>3.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #announcements channel to see if Rythm is currently having an issue with lagging.
+        <br/> <b>3.</b> <b>Disconnect</b> from the voice channel and <b>Reconnect</b>.
+        <br/>
+        <br/> <b>4.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #announcements channel to see if Rythm is currently having an issue with not playing music.
         <br/> 
-        <br/> <b>4.</b> Kick and reinvite Rythm to your Discord Guild.
+        <br/> <b>5.</b> Check your output options in Discord settings.
+        <br/> User settings --> Voice --> Output Device and Output Volume
+        <br/>
+        <br/> <b>6.</b> Check your computer's system volume.
+        <br/> 
+        <br/> <b>7.</b> Try reconnecting Rythm to your voice channel using the <b>!dc</b? and <b>!summon</b> commands.
+        <br/> 
+        <br/> <b>8.</b> Try changing your Discord server's region a few times until you find a server where Rythm plays music.
+        <br/> Server settings --> Overview --> Server Region
 Other:
     Question 5: |
         <br/> Answer 5
