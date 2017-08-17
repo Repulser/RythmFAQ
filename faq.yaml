@@ -218,7 +218,6 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> 
         <br/> <b>1</b>- • <b> <u> Changing the bot’s prefix </u> </b>
         <br/> 
         <br/> Makes the bot respond to a different prefix.
@@ -226,7 +225,6 @@ Settings: |
         <br/> <u>Command format</u>: !settings prefix [NewPrefix]
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings prefix +
-        <br/> 
         <br/> 
         <br/> 
         <br/> 
@@ -239,7 +237,6 @@ Settings: |
         <br/> <b> <u>Example</u> </b>: !settings blacklist #general
         <br/> 
         <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
-        <br/> 
         <br/> 
         <br/> 
         <br/> 
@@ -256,7 +253,6 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> 
         <br/> <b>4</b>- • <b> <u>Turning On/Off Announcesongs </u> </b>:
         <br/> 
         <br/> Sends a message to a text channel announcing every song when they start.
@@ -264,7 +260,7 @@ Settings: |
         <br/> <u>Command format</u>: !settings announcesongs [On/Off]
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings announcesongs on
-External Links:
+Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm.
         <br/>
