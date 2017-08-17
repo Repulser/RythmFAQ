@@ -7,7 +7,7 @@ Introduction:
         <br/> You can add Rythm to your Discord server by clicking on the following link:
         <br/> <a href="https://discord.io/rythm">https://discord.io/rythm</a>
         <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add Rythm to a Discord Server.
-        <br/> Also make sure you’re logged in into the right account in the web browser when adding the bot.
+        <br/> Also make sure you’re logged in into the right account in the web browser when adding Rythm.
     What is Rythm's Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to Rythm bot.
         <br/> 
@@ -16,7 +16,7 @@ Introduction:
         <br/> • See Information about Rythm’s latest features and updates.
         <br/> • Keep up with all the news and announcements.
         <br/> • Hang out with the members of our fast growing community!
-        <br/> • Suggest new features for the bot.
+        <br/> • Suggest new features for Rythm.
         <br/> • Get support from our Staff members.
         <br/> 
         <br/> <b>Note:</b> For an invite to Rythm's Discord server, use the following link: <a href="https://discord.io/botz">https://discord.io/botz</a>
@@ -38,17 +38,17 @@ Basics:
         <br/> 
         <br/> <a href="https://rythmbot.co/#commands">https://rythmbot.co/#commands</a>
         <br/> 
-        <br/> <b>Note</b>: In order to execute any command, you must type the bot's prefix followed by the command. The default prefix for Rhythm is: <b>!</b>
-    How do I change the Bot's Prefix?: |
-        <br/> To change the bot’s prefix use the following command format:
+        <br/> <b>Note</b>: In order to execute any command, you must type Rythm's prefix followed by the command. The default prefix for Rhythm is: <b>!</b>
+    How do I change Rythm's Prefix?: |
+        <br/> To change Rythm’s prefix use the following command format:
         <br/> 
         <br/> <b>!settings prefix [NewPrefix]</b>
         <br/> 
         <br/> Example: <b> !settings prefix +</b>
-    How do I change the Bot's Nickname?: |
-        <br/> To change the bot’s nickname in your server you must:
+    How do I change Rythm's Nickname?: |
+        <br/> To change Rythm’s nickname in your server you must:
         <br/> 
-        <br/> <b>1)</b> <b>Right Click on the bot</b> > <b> Change nickname</b> > <b>Save</b>.
+        <br/> <b>1)</b> <b>Right Click on Rythm</b> > <b> Change nickname</b> > <b>Save</b>.
         <br/> 
         <br/> Done.
     Can I make a playlist with Rythm?: |
@@ -63,7 +63,7 @@ Basics:
         <br/> Normal users with no special permissions are only allowed to use the <b>!play</b> command to add songs to the queue by default.
         <br/> They can also use other commands that don't affect the playing music in any way. Example: <b>!queue</b> and <b>!lyrics</b>.
         <br/> 
-        <br/> However, <b>Normal users can access ALL music commands when they are alone with the bot in the voice channel</b>.
+        <br/> However, <b>Normal users can access ALL music commands when they are alone with Rythm in the voice channel</b>.
         <br/> This is because their commands would not affect anyone but themselves.
         <br/> 
         <br/> For more information about users their command permissions, refer to the <b>>Permissions</b> section in this FAQ.
@@ -214,53 +214,62 @@ Roles/Permissions:
         <br/> <b>Note</b>: To blacklist multiple channels, just repeat steps 5 to 7
         <br/> separately with all the voice channels you wish to blacklist.
 Settings: |
-    <br/> <strong> These are the options you can access through Rythm’s settings menu: </strong>
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> <b>1</b>- • <b> <u> Changing the bot’s prefix </u> </b>
-    <br/> 
-    <br/> Makes the bot respond to a different prefix.
-    <br/> 
-    <br/> <u>Command format</u>: !settings prefix [NewPrefix]
-    <br/> 
-    <br/> <b> <u>Example</u> </b>: !settings prefix +
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> <b>2</b>- • <b> <u> Blacklisting text channels </u> </b>
-    <br/> 
-    <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
-    <br/> 
-    <br/> <u>Command format</u>: !settings blacklist [#channel]
-    <br/> 
-    <br/> <b> <u>Example</u> </b>: !settings blacklist #general
-    <br/> 
-    <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> <b>3</b>- • <b> <u>Enabling/disabling autoplay</u> </b>:<b>*</b>
-    <br/> 
-    <br/> <b>Autoplay feature</b>: once setup with your own playlist,
-    <br/> Rythm will queue songs from it once the queue is empty.
-    <br/> 
-    <br/> <u>Command format</u>: !settings autoplay [URL/disable]
-    <br/> 
-    <br/> <b> <u>Example</u> </b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
-    <br/> 
-    <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> 
-    <br/> <b>4</b>- • <b> <u>Turning On/Off Announcesongs </u> </b>:
-    <br/> 
-    <br/> Sends a message to a text channel announcing every song when they start.
-    <br/> 
-    <br/> <u>Command format</u>: !settings announcesongs [On/Off]
-    <br/> 
-    <br/> <b> <u>Example</u> </b>: !settings announcesongs on
+        <br/> <strong> These are the options you can access through Rythm’s settings menu: </strong>
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>1</b>- • <b> <u> Changing the bot’s prefix </u> </b>
+        <br/> 
+        <br/> Makes the bot respond to a different prefix.
+        <br/> 
+        <br/> <u>Command format</u>: !settings prefix [NewPrefix]
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings prefix +
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>2</b>- • <b> <u> Blacklisting text channels </u> </b>
+        <br/> 
+        <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
+        <br/> 
+        <br/> <u>Command format</u>: !settings blacklist [#channel]
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings blacklist #general
+        <br/> 
+        <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>3</b>- • <b> <u>Enabling/disabling autoplay</u> </b>:<b>*</b>
+        <br/> 
+        <br/> <b>Autoplay feature</b>: once setup with your own playlist,
+        <br/> Rythm will queue songs from it once the queue is empty.
+        <br/> 
+        <br/> <u>Command format</u>: !settings autoplay [URL/disable]
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
+        <br/> 
+        <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>4</b>- • <b> <u>Turning On/Off Announcesongs </u> </b>:
+        <br/> 
+        <br/> Sends a message to a text channel announcing every song when they start.
+        <br/> 
+        <br/> <u>Command format</u>: !settings announcesongs [On/Off]
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings announcesongs on
+External Links:
+    I have encountered an issue with Rythm: |
+        <br/> If you find that you have encountered an issue with Rythm.
+        <br/>
+        <br/> <a href="https://rythmbot.co/troubleshooting/">Click here to go to the Troubleshooting page</a>
+    None of this helped me with my problem: |
+        <br/> If you find that your question was not answered by the FAQ or troubleshooting page.
+        <br/>
+        <br/> <a href="https://discord.io/botz">Click here to join the official Rythm Bot Discord Server</a>.
