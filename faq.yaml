@@ -23,7 +23,7 @@ Introduction:
     How can Rythm be in so many guilds at once?: |
         <br/> Rythm uses a system called "sharding".
         <br/> 
-        <br/> For more information by discord's developers <a ref="https://discordapp.com/developers/docs/topics/gateway#sharding">click here</a>.
+        <br/> For more information by discord's developers <a ref="https://discordapp.com/developers/docs/topics/gateway#sharding">click here (https://discordapp.com/developers/docs/topics/gateway)</a>.
 Basics:
     How can I play a song with Rythm?: |
         <br/> To play a song use the following command format:
@@ -103,11 +103,11 @@ Limitations/Restrictions:
         <br/> 
         <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
         <br/> 
-        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist convertor</a> instead.
+        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist convertor (http://playlistbuddy.com)</a> instead.
     Can Rythm play 24/7?: |
         <br/> <b>Short answer</b>: No.
         <br/> 
-        <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature, such as <a href="https://github.com/repulser/moosic">this bot</a>.
+        <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature, such as <a href="https://github.com/repulser/moosic">this bot (https://github.com/repulser/moosic)</a>.
     Can I change the Bot's avatar?: |
         <br/> <b> Short answer</b>: No.
         <br/> 
