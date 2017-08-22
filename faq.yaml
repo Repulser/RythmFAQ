@@ -222,7 +222,7 @@ Settings: |
         <br/> 
         <br/> Makes the bot respond to a different prefix.
         <br/> 
-        <br/> <u>Command format</u>: !settings prefix [NewPrefix]
+        <br/> <u>Command format</u>: !settings prefix <code>NewPrefix</code>
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings prefix +
         <br/> 
@@ -232,7 +232,7 @@ Settings: |
         <br/> 
         <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
         <br/> 
-        <br/> <u>Command format</u>: !settings blacklist [#channel]
+        <br/> <u>Command format</u>: !settings blacklist <code>#channel</code>
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings blacklist #general
         <br/> 
@@ -245,7 +245,7 @@ Settings: |
         <br/> <b>Autoplay feature</b>: once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
         <br/> 
-        <br/> <u>Command format</u>: !settings autoplay [URL/disable]
+        <br/> <u>Command format</u>: !settings autoplay <code>URL/disable</code>
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/> 
@@ -257,7 +257,7 @@ Settings: |
         <br/> 
         <br/> Sends a message to a text channel announcing every song when they start.
         <br/> 
-        <br/> <u>Command format</u>: !settings announcesongs [On/Off]
+        <br/> <u>Command format</u>: !settings announcesongs <code>On/Off</code>
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings announcesongs on
 Links:
