@@ -28,7 +28,7 @@ Basics:
     How can I play a song with Rythm?: |
         <br/> To play a song use the following command format:
         <br/> 
-        <br/> <b>!play [songname/URL]</b>
+        <br/> <b>!play <code>songname/URL</code></b>
         <br/> 
         <br/> Example: <b>!play retrograde</b>
         <br/> 
@@ -42,7 +42,7 @@ Basics:
     How do I change Rythm's Prefix?: |
         <br/> To change Rythm’s prefix use the following command format:
         <br/> 
-        <br/> <b>!settings prefix [NewPrefix]</b>
+        <br/> <b>!settings prefix <code>NewPrefix</code></b>
         <br/> 
         <br/> Example: <b> !settings prefix +</b>
     How do I change Rythm's Nickname?: |
@@ -56,7 +56,7 @@ Basics:
         <br/> 
         <br/> To add songs to the queue from an online playlist, use the following command format:
         <br/> 
-        <br/> <b> !play [URL] </b>
+        <br/> <b> !play <code>URL</code> </b>
         <br/> 
         <br/> Example: <b> !play https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4 </b>
     Why can some normal users access important music commands?: |
@@ -166,7 +166,7 @@ Roles/Permissions:
         <br/> 
         <br/> To blacklist channels use the following command format:
         <br/> 
-        <br/> <b>!settings blacklist [#channel] </b>
+        <br/> <b>!settings blacklist <code>#channel</code> </b>
         <br/> 
         <br/> <b>Example</b>: !settings blacklist #general
     How do I give normal users access to all music commands?: |
@@ -187,7 +187,7 @@ Roles/Permissions:
         <br/> 
         <br/> To blacklist a channel use the following command format:
         <br/> 
-        <br/> <b>!settings blacklist [#channel]</b>
+        <br/> <b>!settings blacklist <code>#channel</code></b>
         <br/> 
         <br/> <b>Example</b>: !settings blacklist #general
     How do I restrict Rythm from joining a voice channel?: |
