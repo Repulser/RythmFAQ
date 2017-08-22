@@ -38,7 +38,7 @@ Basics:
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>1-</b> <u>Mention the bot.</u>
+        <br/> <b>1.</b> <u>Mention the bot.</u>
         <br/> 
         <br/> You can do this by typing: <b>@Rythm#3722 </b> or <b><@235088799074484224> </b>
         <br/> 
@@ -47,7 +47,7 @@ Basics:
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>2-</b> <u>Copy the Prefix response </u>.
+        <br/> <b>2.</b> <u>Copy the Prefix response </u>.
         <br/> 
         <br/> After mentioning Rythm, it should give you a message similar to this:
         <br/> 
@@ -57,7 +57,7 @@ Basics:
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>3-</b> <u>Run the prefix command.</u>
+        <br/> <b>3.</b> <u>Run the prefix command.</u>
         <br/> 
         <br/> Paste the copied text in the chat box and <b>right next to it</b> with <b>no spaces</b> type: settings prefix ! <br/> <br/> <u>Example</u>: To set the prefix back to <b>!</b> in the above picture, the command would be this:
         <br/> 
@@ -65,6 +65,18 @@ Basics:
         <br/> 
         <br/> 
         <br/> Note: You must have a role with “Administrator” or “Manage Server” permissions to be able to change Rythm’s prefix.
+    Rythm is responding to commands but not joining voice channel: |
+        <br/> If you find that Rythm is responding to your commands but not joining a voice channel use the following method:
+        <br/>
+        <br/> <b>1.</b> Move to a different voice channel.
+        <br/> <b>2.</b> <b>!summon</b> the bot into that voice channel.
+        <br/> <b>3.</b> Move back to the original voice channel.
+        <br/> <b>4.</b> <b>!summon</b> the bot back into the original voice channel.
+        <br/>
+        <br/> If the above method does not work:
+        <br/> Try changing server region or kicking and re-adding Rythm from the discord server.
+        <br/>
+        <br/> This problem can exist due to multiple issues, mostly Discord API lagging.
 Sound issues:
     Rythm is lagging: |
         <br/> If you find that Rythm's sound has started to lag, perform the following checks in order:
