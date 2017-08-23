@@ -22,17 +22,18 @@ Basics:
         <br/> If Rythm isn’t responding to commands, try the following:
         <br/> 
         <br/> 
-        <br/> • <b>Make sure you’re using the right Rythm prefix</b>. You can see the current prefix for Rythm by Mentioning the bot. <u>Example</u>: <b>@Rythm#3722</b> or <b><@235088799074484224> </b>
+        <br/> <b>1.</b> <b>Ensure you’re using the correct prefix</b>. You can see the current prefix for Rythm by Mentioning the bot. <u>Example</u>: <b>@Rythm#3722</b> or <b><@235088799074484224> </b>
         <br/> 
-        <br/> Mentioning the bot won't work if the channel you're using is <b>blacklisted</b>.
-        <br/> When you mention the bot, do it in a channel where Rythm can read and execute commands in.
-        <br/> 
-        <br/> 
-        <br/> • <b>Make sure Rythm has permissions to send messages in the text channel.</b>
+        <br/> <b>2.</b> <b>Ensure Rythm has permissions to send messages in the text channel.</b>
         <br/> You can give “<b>Administrator</b>” permissions to the bot to make this easier.
-        <br/> 
-        <br/> 
-        <br/> • <b>Change Server region</b>. If none of the above work, you can try changing the Server Region in order to fix the issue. Any other should work, although a USA region is recommended for better Bot performance.
+        <br/>
+        <br/> <b>3.</b> Check the #announcements section of the Rythm bot Discord server to see if there is an outage
+        <br/>
+        <br/> <b>4.</b> If the above methods do not work send your server ID to one of the members of the support team like so:
+        <br/> - enable developer mode as shown below <code>(User Settings -> Appearance -> Developer Mode)</code>
+        <br/> <img src="http://i.imgur.com/nAIWAPa.png"/>
+        <br/> - Right-click on your server name at the top left and select <code>Copy ID</code>
+        <br/> <img src="http://i.imgur.com/CxXP2Ch.png"/>
     How can I reset Rythm's prefix: |
         <br/> If you have changed the default Rythm prefix to a custom one and now can’t make Rythm work or aren’t able to change the prefix back, do the following:
         <br/> 
