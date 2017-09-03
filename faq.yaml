@@ -184,9 +184,9 @@ Roles/Permissions:
         <br/> The <b>DJ</b> role has to be assigned manually and <b>cannot</b> be given to all users at once.
         <br/> 
         <br/> 
-        <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify the bot’s <b>Settings</b>.
+        <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify Rythm's <b>Settings</b>.
     How can I block music commands in a specific text channel?: |
-        <br/>To restrict music commands from working in a text channel, you must <b>blacklist</b>
+        <br/> To restrict music commands from working in a text channel, you must <b>blacklist</b>
         <br/> the channel with Rythm’s function <b>!Blacklist</b>.
         <br/> 
         <br/> To blacklist a channel use the following command format:
@@ -194,6 +194,16 @@ Roles/Permissions:
         <br/> <b>!settings blacklist <code>#channel</code></b>
         <br/> 
         <br/> <b>Example</b>: !settings blacklist #general
+    How can I limit the number of songs that can be added to the queue?: |
+        <br/> To restrict Rythm's queue to a specific number of songs you must use the settings menu
+        <br/> 
+        <br/> To limit the number of songs use the following command format:
+        <br/> 
+        <br/> <b>!settings maxqueuelength <code>Number</code></b>
+        <br/> 
+        <br/> <b>Example</b>: !settings maxqueuelength 25
+        <br/> 
+        <br/> Now any songs added that will put the queue over this number will be ignored
     How do I restrict Rythm from joining a voice channel?: |
         <br/>To block Rythm from joining a specific voice channel you must:
         <br/> 
@@ -221,7 +231,7 @@ Settings: |
         <br/> <strong> These are the options you can access through Rythm’s settings menu: </strong>
         <br/> 
         <br/> 
-        <br/> <b>1</b>- • <b> <u> Changing the bot’s prefix </u> </b>
+        <br/> <b>1</b>- <b> <u> Changing the bot’s prefix </u> </b>
         <br/> 
         <br/> Makes the bot respond to a different prefix.
         <br/> 
@@ -231,7 +241,7 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>2</b>- • <b> <u> Blacklisting text channels </u> </b>
+        <br/> <b>2</b>- <b> <u> Blacklisting text channels </u> </b>
         <br/> 
         <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
         <br/> 
@@ -243,7 +253,7 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>3</b>- • <b> <u>Enabling/disabling autoplay</u> </b>:<b>*</b>
+        <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u> </b>:<b>*</b>
         <br/> 
         <br/> <b>Autoplay feature</b>: once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
@@ -256,7 +266,7 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>4</b>- • <b> <u>Turning On/Off Announcesongs </u> </b>:
+        <br/> <b>4</b>- <b> <u>Turning On/Off Announcesongs </u> </b>:
         <br/> 
         <br/> Sends a message to a text channel announcing every song when they start.
         <br/> 
@@ -266,7 +276,7 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>5</b>- • <b> <u>Limiting queue length </u> </b>:
+        <br/> <b>5</b>- <b> <u>Limiting queue length </u> </b>:
         <br/> 
         <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
         <br/> 
