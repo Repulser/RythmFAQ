@@ -221,7 +221,6 @@ Settings: |
         <br/> <strong> These are the options you can access through Rythm’s settings menu: </strong>
         <br/> 
         <br/> 
-        <br/> 
         <br/> <b>1</b>- • <b> <u> Changing the bot’s prefix </u> </b>
         <br/> 
         <br/> Makes the bot respond to a different prefix.
@@ -264,6 +263,16 @@ Settings: |
         <br/> <u>Command format</u>: !settings announcesongs <code>On/Off</code>
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings announcesongs on
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>5</b>- • <b> <u>Limiting queue length </u> </b>:
+        <br/> 
+        <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
+        <br/> 
+        <br/> <u>Command format</u>: !settings maxqueuelength <code>Number</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings maxqueuelength 25
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm.
