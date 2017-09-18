@@ -181,6 +181,12 @@ Roles/Permissions:
         <br/> 
         <br/> 
         <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify Rythm's <b>Settings</b>.
+    How can I remove all the duplicate songs in the current queue?: |
+        <br/> To restrict duplicates from Rythm's queue you must use the following command:
+        <br/> 
+        <br/> <b>!removedupes</b>
+        <br/> 
+        <br/> Rythm should then purge its queue of any duplicate songs
     How can I block music commands in a specific text channel?: |
         <br/> To restrict music commands from working in a text channel, you must <b>blacklist</b>
         <br/> the channel with Rythm’s function <b>!Blacklist</b>.
@@ -190,6 +196,26 @@ Roles/Permissions:
         <br/> <b>!settings blacklist <code>#channel</code></b>
         <br/> 
         <br/> <b>Example</b>: !settings blacklist #general
+    How can I limit the number of songs that one user can add to the queue?: |
+        <br/> To restrict Rythm's queue to a specific number of songs per user you must use the settings menu
+        <br/> 
+        <br/> To limit the number of songs per user use the following command format:
+        <br/> 
+        <br/> <b>!settings maxusersongs <code>Number</code>/<code>disable</code></b>
+        <br/> 
+        <br/> <b>Example</b>: !settings maxusersongs 5
+        <br/> 
+        <br/> Now any songs added that will put the queue over this number for a specific user will be ignored
+    How can I prevent duplicate songs from being added to the queue?: |
+        <br/> To restrict duplicates from Rythm's queue you must use the settings menu
+        <br/> 
+        <br/> To prevent duplicate songs from being added to the queue use the following command format:
+        <br/> 
+        <br/> <b>!settings preventduplicates <code>on</code>/<code>off</code></b>
+        <br/> 
+        <br/> <b>Example</b>: !settings preventduplicates on
+        <br/> 
+        <br/> Now any songs added to the queue that are already in the queue will be ignored
     How can I limit the number of songs that can be added to the queue?: |
         <br/> To restrict Rythm's queue to a specific number of songs you must use the settings menu
         <br/> 
@@ -276,9 +302,29 @@ Settings: |
         <br/> 
         <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
         <br/> 
-        <br/> <u>Command format</u>: !settings maxqueuelength <code>Number</code>
+        <br/> <u>Command format</u>: !settings maxqueuelength <code>Number</code>/<code>disable</code>
         <br/> 
         <br/> <b> <u>Example</u> </b>: !settings maxqueuelength 25
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>6</b>- <b> <u>Limiting the amount of songs a single user can request </u> </b>:
+        <br/> 
+        <br/> Limits how many songs the user can queue at one time, can be disabled by typing <code>disable</code> instead of a number.
+        <br/> 
+        <br/> <u>Command format</u>: !settings maxusersongs <code>Number</code>/<code>disable</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings maxusersongs 5
+        <br/> 
+        <br/> 
+        <br/> 
+        <br/> <b>7</b>- <b> <u>Getting Rythm to automatically remove duplicate songs </u> </b>:
+        <br/> 
+        <br/> Prevents users from adding songs to the queue that are already in the current queue.
+        <br/> 
+        <br/> <u>Command format</u>: !settings preventduplicates <code>on</code>/<code>off</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b>: !settings preventduplicates on
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm.
