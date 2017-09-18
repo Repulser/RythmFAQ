@@ -73,6 +73,12 @@ Basics:
         <br/> If you summon Rythm in channel #general, all Announce Songs messages will appear in that channel.
         <br/> 
         <br/> To change the channel where it’ll show the messages, just <b>!disconnect</b> Rythm from the current channel and <b>!summon</b> it in the channel you want the songs to be announced in.
+    How can I remove all the duplicate songs in the current queue?: |
+        <br/> To restrict duplicates from Rythm's queue you must use the following command:
+        <br/> 
+        <br/> <b>!removedupes</b>
+        <br/> 
+        <br/> Rythm should then purge its queue of any duplicate songs
     How many votes are needed for a song to be vote skipped?: |
         <br/> For a vote skip to take effect, 75% of the voice chat's population need to vote yes.
         <br/> 
@@ -181,12 +187,6 @@ Roles/Permissions:
         <br/> 
         <br/> 
         <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify Rythm's <b>Settings</b>.
-    How can I remove all the duplicate songs in the current queue?: |
-        <br/> To restrict duplicates from Rythm's queue you must use the following command:
-        <br/> 
-        <br/> <b>!removedupes</b>
-        <br/> 
-        <br/> Rythm should then purge its queue of any duplicate songs
     How can I block music commands in a specific text channel?: |
         <br/> To restrict music commands from working in a text channel, you must <b>blacklist</b>
         <br/> the channel with Rythm’s function <b>!Blacklist</b>.
