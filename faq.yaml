@@ -327,10 +327,6 @@ Settings: |
         <br/> <b> <u>Example</u> </b>: !settings preventduplicates on
 Links:
     I have encountered an issue with Rythm: |
-        <br/> If you find that you have encountered an issue with Rythm.
-        <br/>
-        <br/> <a href="https://rythmbot.co/troubleshooting/">Click here to go to the Troubleshooting page</a>
+        <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
     None of this helped me with my problem: |
-        <br/> If you find that your question was not answered by the FAQ or troubleshooting page.
-        <br/>
-        <br/> <a href="https://discord.io/botz">Click here to join the official Rythm Bot Discord Server</a>.
+        <br/> If you find that your question was not answered by the FAQ or troubleshooting page, please <a href="https://discord.io/botz">click here to join the official Rythm Bot Discord Server</a>.
