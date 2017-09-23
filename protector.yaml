@@ -1,1 +1,8 @@
-
+# YAML does not support tab characters. Ensure each tab is represented as 4 spaces.
+# Whenever a question is asked in support about Protector I will try to add it to here.
+---
+Basics:
+    How do I control what users can use Protector commands?: |
+        <br/> All the protector commands rely on the standard Discord permissions system.
+        <br/> If a user has the Ban Members Discord permission, they can use the ban command. The same goes for kick, mute. etc.
+    
