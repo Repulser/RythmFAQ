@@ -85,7 +85,7 @@ Basics:
         <br/> 
         <br/> <b>Here's an example</b>:
         <br/> 
-        <br/> Let's assume there are 10 users in a voice chat, 75% of 10 = 7,50. Since the results are rounded down, it would count as 7. For the vote skip to take effect, you would then need 7 positive votes.
+        <br/> Let's assume there are 10 users in a voice chat, 75% of 10 = 7.50. Since the results are rounded down, it would count as 7. For the vote skip to take effect, you would then need 7 positive votes.
     How can I see the current prefix for Rythm?: |
         <br/> You can see the current prefix for Rythm by typing:
         <br/> 
@@ -108,27 +108,27 @@ Basics:
         <br/> <a href="https://rythmbot.co/rythm2">https://rythmbot.co/rythm2</a>
 Limitations/Restrictions:
     Can I have 2 Rythms in the same server?: |
-        <br/> <b> Short answer</b>: Yes.
+        <br/> <b> Short answer</b>: <code>Yes.</code>
         <br/> 
         <br/> We now allow you to get a second version of Rythm at: <a href="https://rythmbot.co/rythm2">https://rythmbot.co/rythm2</a>.
     Can I change Rythm's profile picture in my server?: |
-        <br/> <b> Short answer</b>: No.
+        <br/> <b> Short answer</b>: <code>No.</code>
         <br/> 
         <br/> Discord doesn’t allow for users or bots to have a different profile pic per server.
     Can Rythm play from Spotify?: |
-        <br/> <b> Short answer</b>: No.
+        <br/> <b> Short answer</b>: <code>No.</code>
         <br/> 
         <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
         <br/> 
-        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist convertor (http://playlistbuddy.com)</a> instead.
+        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist converter (http://playlistbuddy.com)</a> instead.
     Can I make custom commands for Rythm?: |
-        <br/> <b>Short answer</b>: No.
+        <br/> <b>Short answer</b>: <code>No.</code>
         <br/> 
         <br/> We do not allow custom commands/aliases however we do allow for suggestions of aliases to be added.
         <br/>
         <br/> Use the <code>!aliases</code> command to view aliaes, you can suggest any you can think of in the server channel <code>#rythm-suggestions</code>
     Can Rythm play 24/7?: |
-        <br/> <b>Short answer</b>: No.
+        <br/> <b>Short answer</b>: <code>No.</code>
         <br/> 
         <br/> Rythm is not a 24/7 bot. However, you can host your own bot to access such feature, such as <a href="https://github.com/repulser/moosic">this bot (https://github.com/repulser/moosic)</a>.
     Why isn't Rythm open source?: |
