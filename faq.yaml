@@ -24,6 +24,7 @@ Introduction:
         <br/> Rythm uses a system called "sharding".
         <br/> 
         <br/> For more information by discord's developers <a href="https://discordapp.com/developers/docs/topics/gateway#sharding">click here (https://discordapp.com/developers/docs/topics/gateway)</a>.
+        <br/> (Scroll down until you reach a section titled <code>sharding</code>)
 Basics:
     How can I play a song with Rythm?: |
         <br/> To play a song use the following command format:
