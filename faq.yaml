@@ -288,7 +288,7 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u> </b>:<b>*</b>
+        <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u> </b><b>*</b>
         <br/> 
         <br/> <b>Autoplay feature</b> once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
@@ -305,7 +305,7 @@ Settings: |
         <br/> 
         <br/> Sends a message to a text channel announcing every song when they start.
         <br/> 
-        <br/> <u>Command format</u> <b>!settings announcesongs</b> <code>On/Off</code>
+        <br/> <u>Command format</u> <b>!settings announcesongs</b> <code>on/off</code>
         <br/> 
         <br/> <b> <u>Example</u> </b> !settings announcesongs on
         <br/> 
