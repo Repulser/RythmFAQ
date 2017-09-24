@@ -263,16 +263,16 @@ Roles/Permissions:
         <br/> <b>Note</b>: To blacklist multiple channels, just repeat steps 5 to 7
         <br/> separately with all the voice channels you wish to blacklist.
 Settings: |
-        <br/> <strong> These are the options you can access through Rythm’s settings menu: </strong>
+        <br/> <strong> These are the options you can access through Rythm’s settings menu </strong>
         <br/> 
         <br/> 
         <br/> <b>1</b>- <b> <u> Changing the bot’s prefix </u> </b>
         <br/> 
         <br/> Makes the bot respond to a different prefix.
         <br/> 
-        <br/> <u>Command format</u>: !settings prefix <code>NewPrefix</code>
+        <br/> <u>Command format</u> <b>!settings prefix</b> <code>NewPrefix</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings prefix +
+        <br/> <b> <u>Example</u> </b> !settings prefix +
         <br/> 
         <br/> 
         <br/> 
@@ -280,9 +280,9 @@ Settings: |
         <br/> 
         <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
         <br/> 
-        <br/> <u>Command format</u>: !settings blacklist <code>#channel</code>
+        <br/> <u>Command format</u> <b>!settings blacklist</b> <code>#channel</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings blacklist #general
+        <br/> <b> <u>Example</u> </b> !settings blacklist #general
         <br/> 
         <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
         <br/> 
@@ -290,24 +290,24 @@ Settings: |
         <br/> 
         <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u> </b>:<b>*</b>
         <br/> 
-        <br/> <b>Autoplay feature</b>: once setup with your own playlist,
+        <br/> <b>Autoplay feature</b> once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
         <br/> 
-        <br/> <u>Command format</u>: !settings autoplay <code>URL/disable</code>
+        <br/> <u>Command format</u> <b>!settings autoplay</b> <code>URL/disable</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
+        <br/> <b> <u>Example</u> </b>!settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/> 
         <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>4</b>- <b> <u>Turning On/Off Announcesongs </u> </b>:
+        <br/> <b>4</b>- <b> <u>Turning On/Off Announcesongs </u> </b>
         <br/> 
         <br/> Sends a message to a text channel announcing every song when they start.
         <br/> 
-        <br/> <u>Command format</u>: !settings announcesongs <code>On/Off</code>
+        <br/> <u>Command format</u> <b>!settings announcesongs</b> <code>On/Off</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings announcesongs on
+        <br/> <b> <u>Example</u> </b> !settings announcesongs on
         <br/> 
         <br/> 
         <br/> 
@@ -315,29 +315,29 @@ Settings: |
         <br/> 
         <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
         <br/> 
-        <br/> <u>Command format</u>: !settings maxqueuelength <code>Number</code>/<code>disable</code>
+        <br/> <u>Command format</u> <b>!settings maxqueuelength</b> <code>Number</code>/<code>disable</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings maxqueuelength 25
+        <br/> <b> <u>Example</u> </b> !settings maxqueuelength 25
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>6</b>- <b> <u>Limiting the amount of songs a single user can request </u> </b>:
+        <br/> <b>6</b>- <b> <u>Limiting the amount of songs a single user can request </u> </b>
         <br/> 
         <br/> Limits how many songs the user can queue at one time, can be disabled by typing <code>disable</code> instead of a number.
         <br/> 
-        <br/> <u>Command format</u>: !settings maxusersongs <code>Number</code>/<code>disable</code>
+        <br/> <u>Command format</u> <b>!settings maxusersongs</b> <code>Number</code>/<code>disable</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings maxusersongs 5
+        <br/> <b> <u>Example</u> </b> !settings maxusersongs 5
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>7</b>- <b> <u>Getting Rythm to automatically remove duplicate songs </u> </b>:
+        <br/> <b>7</b>- <b> <u>Getting Rythm to automatically remove duplicate songs </u> </b>
         <br/> 
         <br/> Prevents users from adding songs to the queue that are already in the current queue.
         <br/> 
-        <br/> <u>Command format</u>: !settings preventduplicates <code>on</code>/<code>off</code>
+        <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>: !settings preventduplicates on
+        <br/> <b> <u>Example</u> </b> !settings preventduplicates on
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
