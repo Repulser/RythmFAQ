@@ -120,6 +120,12 @@ Limitations/Restrictions:
         <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
         <br/> 
         <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist convertor (http://playlistbuddy.com)</a> instead.
+    Can I make custom commands for Rythm?: |
+        <br/> <b>Short answer</b>: No.
+        <br/> 
+        <br/> We do not allow custom commands/aliases however we do allow for suggestions of aliases to be added.
+        <br/>
+        <br/> Use the <code>!aliases</code> command to view aliaes, you can suggest any you can think of in the server channel <code>#rythm-suggestions</code>
     Can Rythm play 24/7?: |
         <br/> <b>Short answer</b>: No.
         <br/> 
