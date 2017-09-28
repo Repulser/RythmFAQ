@@ -288,7 +288,7 @@ Settings: |
         <br/> 
         <br/> 
         <br/> 
-        <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u></b><b>*</b>
+        <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u>*</b>
         <br/> 
         <br/> <b>Autoplay feature</b> once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
@@ -338,6 +338,18 @@ Settings: |
         <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
         <br/> 
         <br/> <b> <u>Example</u> </b> !settings preventduplicates on
+        <br/>
+        <br/>
+        <br/>
+        <br/> <b>8</b>- <b> <u>Setting Rythm's default volume</u>* </b>
+        <br/> 
+        <br/> Sets the default volume for Rythm when joining a channel after being summoned.
+        <br/> 
+        <br/> <u>Command format</u> <b>!settings defaultvolume</b> <code>Number</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b> !settings defaultvolume 100
+        <br/>
+        <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
