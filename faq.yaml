@@ -121,6 +121,14 @@ Limitations/Restrictions:
         <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
         <br/> 
         <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist converter (http://playlistbuddy.com)</a> instead.
+    What sites does Rythm allow?: |
+        <br/> Rythm allows the following audio streaming services:
+        <br/> 
+        <br/> <b>•</b> Youtube
+        <br/> <b>•</b> Twitch
+        <br/> <b>•</b> Soundcloud
+        <br/> <b>•</b> Vimeo
+        <br/> <b>•</b> Beam
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/> 
