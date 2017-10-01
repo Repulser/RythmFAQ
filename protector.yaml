@@ -1,1 +1,17 @@
-
+# YAML does not support tab characters. Ensure each tab is represented as 4 spaces.
+# Whenever a question is asked in support about Protector I will try to add it to here.
+---
+Basics:
+    How do I control what users can use Protector commands?: |
+        <br/> All the protector commands rely on the standard Discord permissions system.
+        <br/> If a user has the Ban Members Discord permission, they can use the ban command. The same goes for kick, mute. etc.
+    How is the data for -history created?: |
+        <br/> All data in the history command for a user is global. If a user advertises on any server and Protector removes it, it will up the count.
+        <br/> In the same way if a user gets banned from any server this will up the ban count for the user in their history.
+    Is the mute role a sticky role?: |
+        <br/> Short answer: <b>Yes</b>.
+        <br/>
+        <br/> Long answer: The mute role is sticky and will be re-applied to the user instantly if they leave and re-join.
+    Is Protector open-source?: |
+        <br/> Yes it is!
+        <br/> If you know Java (JDA) and feel like helping out, you can head over to <a href="https://github.com/Repulser/Protector">https://github.com/Repulser/Protector</a> to get started!
