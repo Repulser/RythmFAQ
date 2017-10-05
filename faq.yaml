@@ -86,12 +86,14 @@ Basics:
         <br/> <b>Here's an example</b>:
         <br/> 
         <br/> Let's assume there are 10 users in a voice chat, 75% of 10 = 7.50. Since the results are rounded down, it would count as 7. For the vote skip to take effect, you would then need 7 positive votes.
-    How can I see the current prefix for Rythm?: |
-        <br/> You can see the current prefix for Rythm by typing:
+    How can I see the current prefix for Rythm or Rythm 2?: |
+        <br/> You can see the current prefix for either bot by mentioning them.
         <br/> 
-        <br/> <b> @Rythm#3722 </b>
-        <br/> OR
-        <br/> <b> <@235088799074484224> </b>
+        <br/> For Rythm:
+        <br/> <b> @Rythm#3722 </b> OR <b> <@235088799074484224> </b>
+        <br/> 
+        <br/> For Rythm 2:
+        <br/> <b> @Rythm 2#2000 </b> OR <b> <@252128902418268161> </b>
         <br/> 
         <br/> A message should be returned by Rythm stating its current prefix.
     How can I donate to support Rythm?: |
