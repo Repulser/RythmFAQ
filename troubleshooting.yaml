@@ -12,7 +12,6 @@ Basics:
         <br/> Don't worry though, as long as you are in a voice channel, just type <b>!summon</b> to make Rythm join your channel!
     Rythm forgets the playlist I queued after it leaves: |
         <br/> For performance reasons, Rythm resets the queue when it leaves.
-        <br/>
         <br/> To get round this. We suggest creating a Youtube playlist for this.
     Rythm messages come out blank: |
         <br/> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled</b> on your client. Make sure to <b>enable</b> it!
