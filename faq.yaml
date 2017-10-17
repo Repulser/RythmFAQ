@@ -220,6 +220,8 @@ Roles/Permissions:
         <br/> assigning it to the users. This role doesn’t need to have any special discord permissions.
         <br/> 
         <br/> The <b>DJ</b> role has to be assigned manually and <b>cannot</b> be given to all users at once.
+        <br/>
+        <br/> <b>Users alone in a room with Rythm will be treated as though they have the DJ role until another user is inside the room with them even if they have no roles</b>
         <br/> 
         <br/> 
         <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify Rythm's <b>Settings</b>.
