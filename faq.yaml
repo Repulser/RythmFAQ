@@ -342,7 +342,7 @@ Settings:
         <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
         <br/> 
         <br/> <b> <u>Example</u> </b> !settings preventduplicates on
-    Autoplay: |
+    Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/> 
         <br/> <b>Autoplay feature</b> once setup with your own playlist,
@@ -353,7 +353,7 @@ Settings:
         <br/> <b> <u>Example</u> </b>!settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/> 
         <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
-    Server Default Volume: |
+    Server Default Volume*: |
         <br/> <b><u>Setting Rythm's default volume</u>* </b>
         <br/> 
         <br/> Sets the default volume for Rythm when joining a channel after being summoned.
