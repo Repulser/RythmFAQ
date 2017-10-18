@@ -292,6 +292,8 @@ Settings:
         <br/> <strong> These are the options you can access through Rythm’s settings menu </strong>
         <br/>
         <br/> To access this menu use the command <b>!settings</b>
+        <br/>
+        <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive
     Bot Prefix: |
         <br/> <b><u>Changing the bot’s prefix</u> </b>
         <br/> 
