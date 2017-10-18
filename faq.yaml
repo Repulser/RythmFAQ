@@ -9,7 +9,7 @@ Introduction:
         <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add Rythm to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
     What is Rythm's Discord Server for?: |
-        <br/> Rythm’s Discord server is the official platform for everything related to Rythm bot.
+        <br/> Rythm’s Discord server is the official platform for everything related to Rythm.
         <br/> 
         <br/> Here you’ll be able to:
         <br/> 
@@ -176,7 +176,7 @@ Roles/Permissions:
         <br/> <u>Users with a <b>DJ role</b> / <b>Manage Channel</b> permissions</u>:
         <br/> 
         <br/> • Have full access to all music commands.
-        <br/> • Can’t change the bot’s settings.
+        <br/> • Can’t change Rythm’s settings.
         <br/> 
         <br/> <b>Note</b>: If there isn’t a role named "<b>DJ</b>" in your server, one can be created
         <br/> with no special permissions assigned and it will still access these features.
@@ -184,16 +184,17 @@ Roles/Permissions:
         <br/> 
         <br/> <u>Users with <b>Manage Server</b> / <b>Administrator</b> permissions</u>:
         <br/> 
-        <br/> • <b>Manage Server</b>: Users with Manage server permissions can change the bot’s settings,
+        <br/> • <b>Manage Server</b>: Users with Manage server permissions can change Rythm’s settings,
         <br/> but are limited to <b>only</b> use the normal user's music commands.
         <br/> 
         <br/> • <b>Administrator</b>: Users with Administrator permissions have full access to all music commands
-        <br/> and can also change the bot’s settings.
+        <br/> and can also change Rythm’s settings.
         <br/> 
         <br/> 
         <br/> 
         <br/> *******************************************<b>NOTICE</b>*******************************************:
-        <br/> If a user is <b>ALONE WITH THE BOT</b> in a voice channel, It <b>WILL</b> have access to <b>ALL</b> music commands <br/> even if the user has <b>NO ROLES</b> in the server. This is because these commands wouldn't affect anyone
+        <br/> If a user is <b>ALONE WITH RYTHM</b> in a voice channel, It <b>WILL</b> have access to <b>ALL</b> music commands
+        <br/> even if the user has <b>NO ROLES</b> in the server. This is because these commands wouldn't affect anyone
         <br/> but the user, as there would be no one else in the channel.
         <br/> 
         <br/> If you want all Rythm commands to be only available to people with a specific role, read the next entry in this FAQ.
@@ -294,10 +295,10 @@ Settings:
         <br/> To access this menu use the command <b>!settings</b>
         <br/>
         <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive
-    Bot Prefix: |
-        <br/> <b><u>Changing the bot’s prefix</u> </b>
+    Rythm Prefix: |
+        <br/> <b><u>Changing Rythm’s prefix</u> </b>
         <br/> 
-        <br/> Makes the bot respond to a different prefix.
+        <br/> Makes Rythm respond to a different prefix.
         <br/> 
         <br/> <u>Command format</u> <b>!settings prefix</b> <code>NewPrefix</code>
         <br/> 
