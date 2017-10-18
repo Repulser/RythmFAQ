@@ -74,6 +74,8 @@ Commands: |
         <br/> - A role has been removed from a member. (Includes both the Username and the Role)
         <br/>
     <br/> <b>Note:<b/> All events in modlog are timestamped with the UTC timezone.
+    <br/> In order to disable the modlog feature use <code>-modlog off<code/>
+    <br/>
     <br/> <b>Note:<b/> You need to have the <b><u>Manage Server<u/><b/> permission to use this command.
     <br/>
     <br/>
