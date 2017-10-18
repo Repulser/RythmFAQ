@@ -287,21 +287,21 @@ Roles/Permissions:
         <br/> 
         <br/> <b>Note</b>: To blacklist multiple channels, just repeat steps 5 to 7
         <br/> separately with all the voice channels you wish to blacklist.
-Settings: |
+Settings:
+    Intro: |
         <br/> <strong> These are the options you can access through Rythm’s settings menu </strong>
-        <br/> 
-        <br/> 
-        <br/> <b>1</b>- <b> <u> Changing the bot’s prefix</u> </b>
+        <br/>
+        <br/> To access this menu use the command <b>!settings</b>
+    Bot Prefix: |
+        <br/> <b><u>Changing the bot’s prefix</u> </b>
         <br/> 
         <br/> Makes the bot respond to a different prefix.
         <br/> 
         <br/> <u>Command format</u> <b>!settings prefix</b> <code>NewPrefix</code>
         <br/> 
         <br/> <b> <u>Example</u> </b> !settings prefix +
-        <br/> 
-        <br/> 
-        <br/> 
-        <br/> <b>2</b>- <b> <u> Blacklisting text channels</u> </b>
+    Text Channel Blacklist: |
+        <br/> <b><u>Blacklisting text channels</u> </b>
         <br/> 
         <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
         <br/> 
@@ -310,10 +310,40 @@ Settings: |
         <br/> <b> <u>Example</u> </b> !settings blacklist #general
         <br/> 
         <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
+    Announcing Songs: |
+        <br/> <b><u>Turning On/Off Announcesongs</u> </b>
         <br/> 
+        <br/> Sends a message to a text channel announcing every song when they start.
         <br/> 
+        <br/> <u>Command format</u> <b>!settings announcesongs</b> <code>on/off</code>
         <br/> 
-        <br/> <b>3</b>- <b> <u>Enabling/disabling autoplay</u>*</b>
+        <br/> <b> <u>Example</u> </b> !settings announcesongs on
+    Queue Length Limit: |
+        <br/> <b><u>Limiting queue length</u> </b>
+        <br/> 
+        <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
+        <br/> 
+        <br/> <u>Command format</u> <b>!settings maxqueuelength</b> <code>Number</code>/<code>disable</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b> !settings maxqueuelength 25
+    User Songs Limit: |
+        <br/> <b><u>Limiting the amount of songs a single user can request</u> </b>
+        <br/> 
+        <br/> Limits how many songs the user can queue at one time, can be disabled by typing <code>disable</code> instead of a number.
+        <br/> 
+        <br/> <u>Command format</u> <b>!settings maxusersongs</b> <code>Number</code>/<code>disable</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b> !settings maxusersongs 5
+    Duplicate Song Removal: |
+        <br/> <b><u>Getting Rythm to automatically remove duplicate songs</u> </b>
+        <br/> 
+        <br/> Prevents users from adding songs to the queue that are already in the current queue.
+        <br/> 
+        <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
+        <br/> 
+        <br/> <b> <u>Example</u> </b> !settings preventduplicates on
+    Autoplay: |
+        <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/> 
         <br/> <b>Autoplay feature</b> once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
@@ -323,50 +353,8 @@ Settings: |
         <br/> <b> <u>Example</u> </b>!settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/> 
         <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
-        <br/> 
-        <br/> 
-        <br/> 
-        <br/> <b>4</b>- <b> <u>Turning On/Off Announcesongs</u> </b>
-        <br/> 
-        <br/> Sends a message to a text channel announcing every song when they start.
-        <br/> 
-        <br/> <u>Command format</u> <b>!settings announcesongs</b> <code>on/off</code>
-        <br/> 
-        <br/> <b> <u>Example</u> </b> !settings announcesongs on
-        <br/> 
-        <br/> 
-        <br/> 
-        <br/> <b>5</b>- <b> <u>Limiting queue length</u> </b>
-        <br/> 
-        <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
-        <br/> 
-        <br/> <u>Command format</u> <b>!settings maxqueuelength</b> <code>Number</code>/<code>disable</code>
-        <br/> 
-        <br/> <b> <u>Example</u> </b> !settings maxqueuelength 25
-        <br/> 
-        <br/> 
-        <br/> 
-        <br/> <b>6</b>- <b> <u>Limiting the amount of songs a single user can request</u> </b>
-        <br/> 
-        <br/> Limits how many songs the user can queue at one time, can be disabled by typing <code>disable</code> instead of a number.
-        <br/> 
-        <br/> <u>Command format</u> <b>!settings maxusersongs</b> <code>Number</code>/<code>disable</code>
-        <br/> 
-        <br/> <b> <u>Example</u> </b> !settings maxusersongs 5
-        <br/> 
-        <br/> 
-        <br/> 
-        <br/> <b>7</b>- <b> <u>Getting Rythm to automatically remove duplicate songs</u> </b>
-        <br/> 
-        <br/> Prevents users from adding songs to the queue that are already in the current queue.
-        <br/> 
-        <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
-        <br/> 
-        <br/> <b> <u>Example</u> </b> !settings preventduplicates on
-        <br/>
-        <br/>
-        <br/>
-        <br/> <b>8</b>- <b> <u>Setting Rythm's default volume</u>* </b>
+    Server Default Volume: |
+        <br/> <b><u>Setting Rythm's default volume</u>* </b>
         <br/> 
         <br/> Sets the default volume for Rythm when joining a channel after being summoned.
         <br/> 
