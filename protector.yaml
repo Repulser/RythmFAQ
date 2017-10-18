@@ -8,7 +8,7 @@ Introduction:
     How do I add The Protector to my server?: |
         You can add The Protector to your Discord server by clicking on the following link:
         <br/> <a href="https://rythmbot.co/protector">https://rythmbot.co/protector</a>
-        <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add The Protector to a Discord Server.
+        <br/> <b>Note:</b> You must have a role with "Administrator" or "Manage Server" permissions to be able to add The Protector to a Discord Server.
             If you have either of these permissions you should be able to change the name of your server.
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
     What is Protector (Rythm Bot)'s Discord Server for?: |
@@ -16,11 +16,11 @@ Introduction:
         <br/>
         Here you’ll be able to:
             <br/>
-            <br/> • See Information about The Protector’s latest features and updates.
-            <br/> • Keep up with all the news and announcements.
-            <br/> • Hang out with the members of our fast growing community!
-            <br/> • Suggest new features for The Protector.
-            <br/> • Get support from our Staff members.
+            <br/> - See Information about The Protector’s latest features and updates.
+            <br/> - Keep up with all the news and announcements.
+            <br/> - Hang out with the members of our fast growing community!
+            <br/> - Suggest new features for The Protector.
+            <br/> - Get support from our Staff members.
             <br/>
             <br/> <b>Note:</b> For an invite to The Protector's Discord server (This is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
 Basics:
@@ -78,7 +78,7 @@ Commands: |
     <br/> <b>Note:</b> All events in modlog are timestamped with the UTC timezone.
     <br/> In order to disable the modlog feature use <code>-modlog off</code>
     <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Manage Server</u/></b> permission to use this command.
+    <br/> <b>Note:</b> You need to have the <b><u>Manage Server</u></b> permission to use this command.
     <br/>
     <br/>
     <br/> <code>-mute [@user]</code>
