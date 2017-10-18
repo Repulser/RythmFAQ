@@ -7,9 +7,9 @@ Introduction:
         <br/>
     How do I add The Protector to my server?: |
         You can add The Protector to your Discord server by clicking on the following link:
-            <br/> <a href="https://rythmbot.co/protector">https://rythmbot.co/protector</a>
-            <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add The Protector to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
-            <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
+            <br/> <a href="https://rythmbot.co/protector">https://rythmbot.co/protector<a/>
+            <br/> <b>Note:<b/> You must have a role with “Administrator” or “Manage Server” permissions to be able to add The Protector to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
+            <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in<a/><b/> to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login<a/>.
     What is Protector (Rythm Bot)'s Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to The Protector bot.
         <br/>
@@ -21,7 +21,7 @@ Introduction:
             <br/> • Suggest new features for The Protector.
             <br/> • Get support from our Staff members.
             <br/>
-            <br/> <b>Note:</b> For an invite to The Protector's Discord server (This is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
+            <br/> <b>Note:<b/> For an invite to The Protector's Discord server (This is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support<a/>
 Basics:
     What users can use Protector's commands?: |
         <br/>
@@ -30,17 +30,17 @@ Basics:
     How can I see the current prefix for Protector?: |
         <br/> You can see the current prefix by mentioning Protector.
         <br/>
-        <br/> <b> @The Protector#3210 </b> OR <b> <@301424917474443264> </b>
+        <br/> <b> @The Protector#3210 <b/> OR <b> <@301424917474443264> <b/>
         <br/>
     How do I change Protector's Prefix?: |
-        <br/> Short answer: <b>Yes</b>
+        <br/> Short answer: <b>Yes<b/>
         <br/>
-        <br/> Long answer: Protector's prefix can be changed using this command <code>-serverprefix [prefix]</code>
+        <br/> Long answer: Protector's prefix can be changed using this command <code>-serverprefix [prefix]<code/>
         <br/>
     How do I change Protector's Nickname?: |
         <br/> To change Protector’s nickname in your server you must:
         <br/>
-        <br/> <b>1)</b> <b>Right Click on The Protector</b> > <b> Change nickname</b> > <b>Save</b>.
+        <br/> <b>1)<b/> <b>Right Click on The Protector<b/> > <b> Change nickname<b/> > <b>Save<b/>.
         <br/>
         <br/> Done.
     How is the data for -history created?: |
@@ -50,98 +50,98 @@ Basics:
         <br/>
     Is Protector open-source?: |
         <br/> Yes it is!
-        <br/> If you know Java (JDA) and feel like helping out, you can head over to <a href="https://github.com/Repulser/Protector">https://github.com/Repulser/Protector</a> to get started!
+        <br/> If you know Java (JDA) and feel like helping out, you can head over to <a href="https://github.com/Repulser/Protector">https://github.com/Repulser/Protector<a/> to get started!
 Commands: |
-    </br> This is a list of Protector's commands and explanation of what they do.
-    </br>
-    </br> <b><u>Note</u></b>: Do not include [] in the commands.
-    </br> <b><u>Note</u></b>: The <b><u>Administrator</u></b> permission grants full control of The Protector.</u>
-    </br>
-    </br>
-    </br> <code>-modlog [#channel]</code>
-    </br> Enables Protector's logging mode.
-    </br> This includes.
-        </br>
-        </br> - Member has joined the server (Includes account creation date)
-        </br> - Member has left the server.
-        </br> - Member was banned from the server
-        </br> - Member has changed username.
-        </br>
-        </br> - Message was deleted from the channel. (This includes the message)
-        </br> - Message was edited. (This includes both the original and edited message)
-        </br>
-        </br> - A role has been added to a member. (Includes both the Username and the Role)
-        </br> - A role has been removed from a member. (Includes both the Username and the Role)
-        </br>
-    </br> <b>Note:</b> All events in modlog are timestamped with the UTC timezone.
-    </br> <b>Note:</b> You need to have the <b><u>Manage Server</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-mute [@user]</code>
-    </br> Adds the <u>Muted</u> role to the mentioned user,
-    </br> Which revokes the permission to send messages.
-    </br> This role will get re-applied if the user leaves the server and then rejoins.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-unmute [@user]</code>
-    </br> Removes the <u>Muted</u> role from the mentioned user,
-    </br> Which grants the permission to send messages again.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-mutelist</code>
-    </br> Displays a list of the current muted users in the server.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-antilink</code>
-    </br> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed. And the user that posted it will be warned.
-    </br>
-    </br> <b>Note:</b> In order to enable it, You need the <u><b>Manage Server</b></u> permission.
-    </br>
-    </br>
-    </br> <code>-kick [@user]</code>
-    </br> Kicks the mentioned user from the server.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Kick Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-ban [@user]</code>
-    </br> Bans the mentioned user from the server.
-    </br> This adds to the History of the banned user
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-hackban [user ID]</code>
-    </br> Bans the the user without them being in the server.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-tempban [@user]</code>
-    </br> Kicks the user and removes all messages send by them.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-prune [number]</code>
-    </br> Deletes the amount of messages you specify in the channel.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-prune [@user]</code>
-    </br> Deletes all messages from the mentioned user in the current channel.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
-    </br>
-    </br>
-    </br> <code>-prune [@user] [number]</code>
-    </br> Deletes a certain amount of most recent messages from the mentioned user in the current channel.
-    </br>
-    </br> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+    <br/> This is a list of Protector's commands and explanation of what they do.
+    <br/>
+    <br/> <b><u>Note<u/><b/>: Do not include [] in the commands.
+    <br/> <b><u>Note<u/><b/>: The <b><u>Administrator<u/><b/> permission grants full control of The Protector.<u/>
+    <br/>
+    <br/>
+    <br/> <code>-modlog [#channel]<code/>
+    <br/> Enables Protector's logging mode.
+    <br/> This includes.
+        <br/>
+        <br/> - Member has joined the server (Includes account creation date)
+        <br/> - Member has left the server.
+        <br/> - Member was banned from the server
+        <br/> - Member has changed username.
+        <br/>
+        <br/> - Message was deleted from the channel. (This includes the message)
+        <br/> - Message was edited. (This includes both the original and edited message)
+        <br/>
+        <br/> - A role has been added to a member. (Includes both the Username and the Role)
+        <br/> - A role has been removed from a member. (Includes both the Username and the Role)
+        <br/>
+    <br/> <b>Note:<b/> All events in modlog are timestamped with the UTC timezone.
+    <br/> <b>Note:<b/> You need to have the <b><u>Manage Server<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-mute [@user]<code/>
+    <br/> Adds the <u>Muted<u/> role to the mentioned user,
+    <br/> Which revokes the permission to send messages.
+    <br/> This role will get re-applied if the user leaves the server and then rejoins.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Mute Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-unmute [@user]<code/>
+    <br/> Removes the <u>Muted<u/> role from the mentioned user,
+    <br/> Which grants the permission to send messages again.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Mute Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-mutelist<code/>
+    <br/> Displays a list of the current muted users in the server.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Mute Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-antilink<code/>
+    <br/> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed. And the user that posted it will be warned.
+    <br/>
+    <br/> <b>Note:<b/> In order to enable it, You need the <u><b>Manage Server<b/><u/> permission.
+    <br/>
+    <br/>
+    <br/> <code>-kick [@user]<code/>
+    <br/> Kicks the mentioned user from the server.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Kick Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-ban [@user]<code/>
+    <br/> Bans the mentioned user from the server.
+    <br/> This adds to the History of the banned user
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Ban Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-hackban [user ID]<code/>
+    <br/> Bans the the user without them being in the server.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Ban Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-tempban [@user]<code/>
+    <br/> Kicks the user and removes all messages send by them.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Ban Members<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-prune [number]<code/>
+    <br/> Deletes the amount of messages you specify in the channel.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Manage Messages<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-prune [@user]<code/>
+    <br/> Deletes all messages from the mentioned user in the current channel.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Manage Messages<u/><b/> permission to use this command.
+    <br/>
+    <br/>
+    <br/> <code>-prune [@user] [number]<code/>
+    <br/> Deletes a certain amount of most recent messages from the mentioned user in the current channel.
+    <br/>
+    <br/> <b>Note:<b/> You need to have the <b><u>Manage Messages<u/><b/> permission to use this command.
