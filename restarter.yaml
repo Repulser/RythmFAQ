@@ -28,5 +28,42 @@ Basics:
 # To Be Completed
 User Commands:
 # To Be Completed
+    Basic Commands: |
+        <br/> <code>help </code>
+        <br/> <code>adminhelp </code>
+        <br/> <code>invite </code>
+        <br/> <code>info </code>
+        <br/> <code>ping </code>
+    Roles: |
+        <br/> <code>roles </code>
+        <br/> <code>autoroles </code>
+    Voting: |
+        <br/> <code>votetop </code>
+        <br/> <code>votechannels </code>
+        <br/> <code>votebottom</code>
+    Youtube Downloader: |
+        <br/> <code>download </code>
+    Decancer: |
+        <br/> <code>softdecancer </code>
+        <br/> <code>decancer </code>
+    Feedback: |
+        <br/> <code>rrf </code>
+    
 Admin Commands:
 # To Be Completed
+    Finding Role IDs: |
+        <br/> <code>findrole </code>
+    Voting: |
+        <br/> <code>voteadd </code>
+        <br/> <code>voteremove </code>
+    Auto Role Addition: |
+        <br/> <code>autoroleadd </code>
+        <br/> <code>autoroledelete </code>
+    Role Adding / Deletion: |
+        <br/> <code>rolesadd </code>
+        <br/> <code>rolesdelete </code>
+    Possible Alt Accounts: |
+        <br/> <code>altalert </code>
+        <br/> <code>altdiff </code>
+        <br/> <code>altrecord </code>
+    
