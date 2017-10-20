@@ -4,17 +4,16 @@ Introduction:
     What is The Protector?: |
         <br/> The Protector is a beta moderation bot that is still in active development.
         <br/> It is being developed by the Rythm developement team.
-        <br/>
     How do I add The Protector to my server?: |
         You can add The Protector to your Discord server by clicking on the following link:
         <br/> <a href="https://rythmbot.co/protector">https://rythmbot.co/protector</a>
         <br/> <b>Note:</b> You must have a role with "Administrator" or "Manage Server" permissions to be able to add The Protector to a Discord Server.
-            If you have either of these permissions you should be able to change the name of your server.
+        <br/> If you have either of these permissions you should be able to change the name of your server.
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding The Protector, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
     What is Protector (Rythm Bot)'s Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to The Protector bot.
         <br/>
-        Here you’ll be able to:
+        <br/> Here you’ll be able to:
             <br/>
             <br/> - See Information about The Protector’s latest features and updates.
             <br/> - Keep up with all the news and announcements.
@@ -25,19 +24,15 @@ Introduction:
             <br/> <b>Note:</b> For an invite to The Protector's Discord server (This is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
 Basics:
     What users can use Protector's commands?: |
-        <br/>
         <br/> The Protector operates based on the Discord permissions system. This is further explained in the Commands section.
-        <br/>
     How can I see the current prefix for Protector?: |
         <br/> You can see the current prefix by mentioning Protector.
         <br/>
         <br/> <b> @The Protector#3210 </b> OR <b> &lt;@301424917474443264&gt; </b>
-        <br/>
     How do I change Protector's Prefix?: |
         <br/> Short answer: <b>Yes</b>
         <br/>
         <br/> Long answer: Protector's prefix can be changed using this command <code>-serverprefix [prefix]</code>
-        <br/>
     How do I change Protector's Nickname?: |
         <br/> To change Protector’s nickname in your server you must:
         <br/>
@@ -45,11 +40,9 @@ Basics:
         <br/>
         <br/> Done.
     How is the data for -history created?: |
-        <br/>
         <br/> All data in the history command for a user is global.
         <br/> If a user advertises on any server and Protector removes it, it will up the count.
         <br/> In the same way if a user gets banned from any server this will up the ban count for the user in their history.
-        <br/>
     Is Protector open-source?: |
         <br/> Yes it is!
         <br/> If you know Java (JDA) and feel like helping out, you can head over to <a href="https://github.com/Repulser/Protector">https://github.com/Repulser/Protector</a> to get started!
@@ -104,8 +97,7 @@ Commands:
         <br/> in the meantime we ask that you use discord's server settings to view the member list and check muted members until this issue is resolved
     Discord Link Removal: |
         <br/> <code>-antilink</code>
-        <br/> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed.
-        And the user that posted it will be warned.
+        <br/> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed and the user that posted it will be warned.
         <br/>
         <br/> <b>Note:</b> In order to enable it, You need the <u><b>Manage Server</b></u> permission.
     Kicking Users: |
