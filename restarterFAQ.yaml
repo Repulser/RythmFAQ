@@ -5,6 +5,9 @@ Introduction:
         <br/> The Protector is a Utility bot that is still actively developed.
         <br/> It is being developed by <a href="https://unreal-designs.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm developement team.
         <br/>
+        <br/> Restarter is a simple utility bot originally created for the Rythm discord server, now public.
+        <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles.
+        <br/> The bot also provides a custom vote channels feature where users can vote on a post via reactions alongside an alt alert feature and a decancer nick/username function.
     How do I add Restarter to my server?: |
         <br/> Restarter can be added to your server via the following link:
         <br/> <a href="https://botz.mattcowley.co.uk/restarter/?invite">https://botz.mattcowley.co.uk/restarter/?invite</a>
@@ -13,3 +16,11 @@ Introduction:
         <br/> You can check you have either of the above permissions by checking whether you can edit the name of your discord server.
         <br/>
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Restarter, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
+    How do I access the commands for Restarter?: |
+        <br/> To access the commands for restarter, first ensure you have invited restarter you your server.
+        <br/>
+        <br/> Once this is complete for regular commands type the following command:
+        <br/> <code>r.help</code>
+        <br/>
+        <br/> For admin commands type the following command:
+        <br/> <code>r.adminhelp</code>
