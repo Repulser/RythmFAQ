@@ -1,0 +1,15 @@
+# YAML does not support tab characters. Ensure each tab is represented as 4 spaces.
+---
+Introduction: 
+    What is Restarter?: |
+        <br/> The Protector is a Utility bot that is still actively developed.
+        <br/> It is being developed by <a href="https://unreal-designs.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm developement team.
+        <br/>
+    How do I add Restarter to my server?: |
+        <br/> Restarter can be added to your server via the following link:
+        <br/> <a href="https://botz.mattcowley.co.uk/restarter/?invite">https://botz.mattcowley.co.uk/restarter/?invite</a>
+        <br/>
+        <br/> <b>Note:</b> You must have a role with "Administrator" or "Manage Server" permissions to be able to add Restarter to a Discord Server.
+        <br/> You can check you have either of the above permissions by checking whether you can edit the name of your discord server.
+        <br/>
+        <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Restarter, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
