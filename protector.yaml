@@ -47,22 +47,22 @@ Basics:
     How is the data for -history created?: |
         <br/>
         <br/> All data in the history command for a user is global.
-            If a user advertises on any server and Protector removes it, it will up the count.
+        <br/> If a user advertises on any server and Protector removes it, it will up the count.
         <br/> In the same way if a user gets banned from any server this will up the ban count for the user in their history.
         <br/>
     Is Protector open-source?: |
         <br/> Yes it is!
         <br/> If you know Java (JDA) and feel like helping out, you can head over to <a href="https://github.com/Repulser/Protector">https://github.com/Repulser/Protector</a> to get started!
-Commands: |
-    <br/> This is a list of Protector's commands and explanation of what they do.
-    <br/>
-    <br/> <b><u>Note</u></b>: Do not include [] in the commands.
-    <br/> <b><u>Note</u></b>: The <b><u>Administrator</u></b> permission grants full control of The Protector.
-    <br/>
-    <br/>
-    <br/> <code>-modlog [#channel]</code>
-    <br/> Enables Protector's logging mode.
-    <br/> This includes.
+Commands:
+    Intro: |
+        <br/> This is a list of Protector's commands and explanation of what they do.
+        <br/>
+        <br/> <b><u>Note</u></b> Do not include [] in the commands.
+        <br/> <b><u>Note</u></b> The <b><u>Administrator</u></b> permission grants full control of The Protector.
+    Moderation Logging: |
+        <br/> <code>-modlog [#channel]</code>
+        <br/> Enables Protector's logging mode.
+        <br/> This includes.
         <br/>
         <br/> - Member has joined the server (Includes account creation date)
         <br/> - Member has left the server.
@@ -75,78 +75,76 @@ Commands: |
         <br/> - A role has been added to a member. (Includes both the Username and the Role)
         <br/> - A role has been removed from a member. (Includes both the Username and the Role)
         <br/>
-    <br/> <b>Note:</b> All events in modlog are timestamped with the UTC timezone.
-    <br/> In order to disable the modlog feature use <code>-modlog off</code>
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Manage Server</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-mute [@user]</code>
-    <br/> Adds the <u>Muted</u> role to the mentioned user,
-    <br/> Which revokes the permission to send messages.
-    <br/> This role will get re-applied if the user leaves the server and then rejoins.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-unmute [@user]</code>
-    <br/> Removes the <u>Muted</u> role from the mentioned user,
-    <br/> Which grants the permission to send messages again.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-mutelist</code>
-    <br/> Displays a list of the current muted users in the server.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-antilink</code>
-    <br/> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed.
+        <br/> <b>Note:</b> All events in modlog are timestamped with the UTC timezone.
+        <br/> In order to disable the modlog feature use <code>-modlog off</code>
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Server</u></b> permission to use this command.
+    Muting Users: |
+        <br/> <code>-mute [@user]</code>
+        <br/> Adds the <u>Muted</u> role to the mentioned user,
+        <br/> Which revokes the permission to send messages.
+        <br/> This role will get re-applied if the user leaves the server and then rejoins.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
+        <br/>
+        <br/>
+        <br/> <code>-unmute [@user]</code>
+        <br/> Removes the <u>Muted</u> role from the mentioned user,
+        <br/> Which grants the permission to send messages again.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
+        <br/>
+        <br/>
+        <br/> <code>-mutelist</code>
+        <br/> Displays a list of the current muted users in the server.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
+        <br/>
+        <br/> <b>Note:</b> This command is currently broken if the message length exceeds 2000 characters and is currently being moved into a page system
+        <br/> in the meantime we ask that you use discord's server settings to view the member list and check muted members until this issue is resolved
+    Discord Link Removal: |
+        <br/> <code>-antilink</code>
+        <br/> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed.
         And the user that posted it will be warned.
-    <br/>
-    <br/> <b>Note:</b> In order to enable it, You need the <u><b>Manage Server</b></u> permission.
-    <br/>
-    <br/>
-    <br/> <code>-kick [@user]</code>
-    <br/> Kicks the mentioned user from the server.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Kick Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-ban [@user]</code>
-    <br/> Bans the mentioned user from the server.
-    <br/> This adds to the History of the banned user
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-hackban [user ID]</code>
-    <br/> Bans the the user without them being in the server.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-tempban [@user]</code>
-    <br/> Kicks the user and removes all messages send by them.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-prune [number]</code>
-    <br/> Deletes the amount of messages you specify in the channel.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-prune [@user]</code>
-    <br/> Deletes all messages from the mentioned user in the current channel.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
-    <br/>
-    <br/>
-    <br/> <code>-prune [@user] [number]</code>
-    <br/> Deletes a certain amount of most recent messages from the mentioned user in the current channel.
-    <br/>
-    <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/> <b>Note:</b> In order to enable it, You need the <u><b>Manage Server</b></u> permission.
+    Kicking Users: |
+        <br/> <code>-kick [@user]</code>
+        <br/> Kicks the mentioned user from the server.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Kick Members</u></b> permission to use this command.
+    Banning Users: |
+        <br/> <code>-ban [@user]</code>
+        <br/> Bans the mentioned user from the server.
+        <br/> This adds to the History of the banned user
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
+        <br/>
+        <br/>
+        <br/> <code>-hackban [user ID]</code>
+        <br/> Bans the the user without the requirement of the user being present in the server.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
+        <br/>
+        <br/>
+        <br/> <code>-tempban [@user]</code>
+        <br/> Kicks the user and removes all messages send by them.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
+    Message Deletion / Pruning: |
+        <br/> <code>-prune [number]</code>
+        <br/> Deletes the amount of messages you specify in the channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/>
+        <br/> <code>-prune [@user]</code>
+        <br/> Deletes all messages from the mentioned user in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/>
+        <br/> <code>-prune [@user] [number]</code>
+        <br/> Deletes a certain amount of most recent messages from the mentioned user in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
