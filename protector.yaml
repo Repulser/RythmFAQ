@@ -10,7 +10,7 @@ Introduction:
         <br/> <b>Note:</b> You must have a role with "Administrator" or "Manage Server" permissions to be able to add The Protector to a Discord Server.
         <br/> If you have either of these permissions you should be able to change the name of your server.
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding The Protector, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
-    What is Protector (Rythm Bot)'s Discord Server for?: |
+    What is The Protector (Rythm Bot)'s Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to The Protector.
         <br/>
         <br/> Here you’ll be able to:
@@ -23,25 +23,25 @@ Introduction:
             <br/>
             <br/> <b>Note:</b> For an invite to The Protector's Discord server (This is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
 Basics:
-    What users can use Protector's commands?: |
+    What users can use The Protector's commands?: |
         <br/> The Protector operates based on the Discord permissions system. This is further explained in the Commands section.
-    How can I see the current prefix for Protector?: |
-        <br/> You can see the current prefix by mentioning Protector.
+    How can I see the current prefix for The Protector?: |
+        <br/> You can see the current prefix by mentioning The Protector.
         <br/>
         <br/> <b> @The Protector#3210 </b> OR <b> &lt;@301424917474443264&gt; </b>
-    Can I change Protector's Prefix?: |
+    Can I change The Protector's Prefix?: |
         <br/> Short answer: <b>Yes</b>
         <br/>
         <br/> Long answer: Protector's prefix can be changed using this command <code>-serverprefix [prefix]</code>
-    How do I change Protector's Nickname?: |
-        <br/> To change Protector’s nickname in your server you must:
+    How do I change The Protector's Nickname?: |
+        <br/> To change The Protector’s nickname in your server you must:
         <br/>
         <br/> <b>1)</b> <b>Right Click on The Protector</b> &gt; <b> Change nickname</b> &gt; <b>Save</b>.
         <br/>
         <br/> Done.
     How is the data for -history created?: |
         <br/> All data in the history command for a user is global.
-        <br/> If a user advertises on any server and Protector removes it, it will up the count.
+        <br/> If a user advertises on any server and The Protector removes it, it will up the count.
         <br/> In the same way if a user gets banned from any server this will up the ban count for the user in their history.
     Is The Protector open-source?: |
         <br/> Yes it is!
