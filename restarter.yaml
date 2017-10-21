@@ -52,18 +52,57 @@ User Commands:
 Admin Commands:
 # To Be Completed
     Finding Role IDs: |
-        <br/> <code>findrole </code>
+        <br/> <code>findrole</code>
+        <br/>
+        <br/> Searches the guild for any role with the given name and gives the ID of that role.
+        <br/> <b>Command usage:</b> - <code>r.findrole [role_name]</code>
+        <br/>
     Voting: |
-        <br/> <code>voteadd </code>
-        <br/> <code>voteremove </code>
+        <br/> <code>voteadd</code>
+        <br/>
+        <br/> Adds the mentioned text-channel as a vote-channel.
+        <br/> <b>Command usage:</b> - <code>r.voteadd [#text-channel]</code>
+        <br/>
+        <br/> <code>voteremove</code>
+        <br/>
+        <br/> Removes the mentioned text-channel as a vote-channel.
+        <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
+        <br/>
     Auto Role Addition: |
-        <br/> <code>autoroleadd </code>
+        <br/> <code>autoroleadd</code>
+        <br/>
+        <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
+        <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
+        <br/>
         <br/> <code>autoroledelete </code>
+        <br/>
+        <br/> Removes the entered role ID from the automaticly added roles upon joining the guild.
+        <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
+        <br/>
     Role Adding / Deletion: |
-        <br/> <code>rolesadd </code>
-        <br/> <code>rolesdelete </code>
+        <br/> <code>rolesadd</code>
+        <br/>
+        <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
+        <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
+        <br/>
+        <br/> <code>rolesdelete</code>
+        <br/> 
+        <br/> Deletes a self-assignable role.
+        <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
+        <br/>
     Possible Alt Accounts: |
-        <br/> <code>altalert </code>
-        <br/> <code>altdiff </code>
-        <br/> <code>altrecord </code>
-    
+        <br/> <code>altalert</code>
+        <br/>
+        <br/> Sets the alt-alert channel using Channel ID.
+        <br/> <b>Command usage:</b> - <code>r.alt-alert [channel_id]</code>
+        <br/>
+        <br/> <code>altdiff</code>
+        <br/>
+        <br/> Sets the time difference (Minutes) needed between creation date and join date.
+        <br/> <b>Command usage:</b> - <code>r.altdiff [minutes]</code>
+        <br/>
+        <br/> <code>altrecord</code>
+        <br/>
+        <br/> Shows a list of the shortest times between creation date and join date.
+        <br/> <b>Command usage:</b> - <code>r.altrecord</code>
+        <br/>
