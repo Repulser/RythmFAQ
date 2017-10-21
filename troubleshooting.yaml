@@ -5,6 +5,8 @@ Basics:
         <br/> You need to have a role with “<b>Administrator</b>” or “<b>Manage server</b>” permissions to be able to add a Bot (Rythm) to a <b>Discord Server</b>.
         <br/>
         <br/> If you have the right permissions and <b>still can’t see</b> your server in the list, make sure you’re <b>logged in</b> into the correct <b>discord account</b> in your <b>web browser</b>.
+        <br/>
+        <br/> <b>Note</b>: If that still didn't work, We suggest trying a <b>different browser</b> to invite Rythm to your server. <b>(Incognito Mode will not work.)</b>
     Rythm left the voice channel while not playing anything: |
         <br/> For performance reasons, Rythm leaves after a while of being alone or unused in a voice channel.
         <br/> This helps Rythm save resources while no one is listening to it and keeps the music quality consistent for all users at any given time!
