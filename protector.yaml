@@ -9,7 +9,7 @@ Introduction:
         <br/> <a href="https://rythmbot.co/protector">https://rythmbot.co/protector</a>
         <br/> <b>Note:</b> You must have a role with "Administrator" or "Manage Server" permissions to be able to add The Protector to a Discord Server.
         <br/> If you have either of these permissions you should be able to change the name of your server.
-        <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding The Protector, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
+        <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding The Protector, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>
     What is The Protector (Rythm Bot)'s Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to The Protector.
         <br/>
@@ -60,7 +60,7 @@ Commands:
         <br/> - Member has joined the server (Includes account creation date)
         <br/> - Member has left the server.
         <br/> - Member was banned from the server
-        <br/> - Member has changed username.
+        <br/> - Member has changed username/nickname.
         <br/>
         <br/> - Message was deleted from the channel. (This includes the message)
         <br/> - Message was edited. (This includes both the original and edited message)
@@ -82,7 +82,7 @@ Commands:
         <br/>
         <br/>
         <br/> <code>-unmute [@user]</code>
-        <br/> Removes the <u>Muted</u> role from the mentioned user,
+        <br/> Removes the <u>Muted</u> role from the mentioned user.
         <br/> Which grants the permission to send messages again.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
@@ -93,22 +93,24 @@ Commands:
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
         <br/>
-        <br/> <b>Note:</b> This command is currently broken if the message length exceeds 2000 characters and is currently being moved into a page system
-        <br/> in the meantime we ask that you use discord's server settings to view the member list and check muted members until this issue is resolved
+        <br/> <b>Note:</b> This command is currently broken if the message length exceeds 2000 characters and is currently being moved into a page system,
+        <br/> in the meantime we ask that you use Discord's server settings to view the member list and check muted members until this issue is resolved
     Discord Link Removal: |
         <br/> <code>-antilink</code>
-        <br/> This toggles Protectors anti-advertisment mode. Any posted discord invite link will be instantly removed and the user that posted it will be warned.
+        <br/> This toggles The Protector's anti-advertisment mode. Any posted Discord invite link will be instantly removed and the user that posted it will be warned.
         <br/>
-        <br/> <b>Note:</b> In order to enable it, You need the <u><b>Manage Server</b></u> permission.
+        <br/> <b>Note:</b> You need the <u><b>Manage Server</b></u> permission in order to enable it.
     Kicking Users: |
         <br/> <code>-kick [@user]</code>
         <br/> Kicks the mentioned user from the server.
+        <br/> <b>Important:</b> This command also accepts usernames, though it is not advised, due to the issue of multiple users with the same username.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Kick Members</u></b> permission to use this command.
     Banning Users: |
         <br/> <code>-ban [@user]</code>
         <br/> Bans the mentioned user from the server.
-        <br/> This adds to the History of the banned user
+        <br/> This adds to the History of the banned user.
+        <br/> <b>Important:</b> This command also accepts usernames, though it is not advised, due to the issue of multiple users with the same username.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
         <br/>
@@ -120,7 +122,8 @@ Commands:
         <br/>
         <br/>
         <br/> <code>-tempban [@user]</code>
-        <br/> Kicks the user and removes all messages send by them.
+        <br/> Kicks the user and removes all messages sent by them within the last 7 days.
+        <br/> <b>Important:</b> This command also accepts usernames, though it is not advised, due to the issue of multiple users with the same username.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
     Message Deletion / Pruning: |
@@ -138,5 +141,25 @@ Commands:
         <br/>
         <br/> <code>-prune [@user] [number]</code>
         <br/> Deletes a certain amount of most recent messages from the mentioned user in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/> <code>-prune has <Text> [number]</code>
+        <br/> Deletes messages containing certain text in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/> <code>-prune embeds [number]</code>
+        <br/> Deletes messages containing embeds in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/> <code>-prune bot [number]</code>
+        <br/> Deletes all messages sent by bots in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/> <code>-prune after [message ID]</code>
+        <br/> Deletes all messages sent after a certain message in the current channel.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
