@@ -34,6 +34,13 @@ Basics:
         <br/> Example: <b>!play retrograde</b>
         <br/> 
         <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
+    How can I view more than one page using the queue command?: |
+        <br/>
+        <br/> <b>!play <code>queue [page number]</code></b>
+        <br/>
+        <br/> Example: <b>!queue 2</b>
+        <br/>
+        <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     Where can I find a list of all Rythm Commands?: |
         <br/> You can see a list of commands by typing <b>!help</b> in your server, or by visiting the following link:
         <br/> 
