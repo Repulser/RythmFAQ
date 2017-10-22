@@ -30,28 +30,29 @@ User Commands:
     Basic Commands: |
         <br/> <code>r.help</code>
         <br/>
-        <br/> DM's a short list of commands to the user.
+        <br/> Messages a short list of commands to the user that requested them.
         <br/>
         <br/> <code>r.adminhelp</code>
         <br/>
-        <br/> DM's a short list of admin-commands to the user.
+        <br/> Messages a short list of admin-commands to the user that requested them.
+        <br/> The user <b>must>/b> have "" permissions to use this command.
         <br/>
         <br/> <code>r.invite</code>
         <br/>
-        <br/> DM's a link to invite Restarter to a discord server.
+        <br/> Messages a link to invite Restarter to a discord server to the user that requested it.
         <br/>
         <br/> <code>r.info</code>
         <br/>
-        <br/> DM's Information about Restarter to the user.
+        <br/> Messages Information about Restarter to the user that requested it.
         <br/>
         <br/> <code>r.ping</code>
         <br/>
-        <br/> Measures the ping to Discord, and the ping of the websocket.
+        <br/> Measures the ping to Discord (<img src="https://i.imgur.com/CdIXrwJ.png"/>), and the ping of the websocket (<img src="https://i.imgur.com/2XkzXMp.png"/>).
         <br/>
     Roles: |
         <br/> <code>r.roles</code>
         <br/>
-        <br/> Shows a list of the self-assignable roles in the guild.
+        <br/> Shows a list of the self-assignable roles in the guild/server.
         <br/>
         <br/> <code>r.autoroles</code>
         <br/>
@@ -60,7 +61,7 @@ User Commands:
     Voting: |
         <br/> <code>r.votechannels</code>
         <br/>
-        <br/> Shows a list of the active vote channels in the guild.
+        <br/> Shows a list of the active vote channels in the guild/server.
         <br/>
         <br/> <code>r.votetop</code>
         <br/>
