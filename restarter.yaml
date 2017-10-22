@@ -24,48 +24,58 @@ Introduction:
         <br/>
         <br/> For admin commands type the following command:
         <br/> <code>r.adminhelp</code>
-Basics:
-# To Be Completed
 User Commands:
     Basic Commands: |
         <br/> <code>r.help</code>
         <br/>
-        <br/> DM's a short list of commands to the user.
+        <br/> Messages a short list of commands to the user that requested them.
+        <br/>
         <br/>
         <br/> <code>r.adminhelp</code>
         <br/>
-        <br/> DM's a short list of admin-commands to the user.
+        <br/> Messages a short list of admin-commands to the user that requested them.
+        <br/> The user <b>must>/b> have "" permissions to use this command.
+        <br/>
         <br/>
         <br/> <code>r.invite</code>
         <br/>
-        <br/> DM's a link to invite Restarter to a discord server.
+        <br/> Messages a link to invite Restarter to a discord server to the user that requested it.
+        <br/>
         <br/>
         <br/> <code>r.info</code>
         <br/>
-        <br/> DM's Information about Restarter to the user.
+        <br/> Messages Information about Restarter to the user that requested it.
+        <br/>
         <br/>
         <br/> <code>r.ping</code>
         <br/>
-        <br/> Measures the ping to Discord, and the ping of the websocket.
+        <br/> Measures the ping to Discord (<img src="https://i.imgur.com/CdIXrwJ.png"/>), and the ping of the websocket (<img src="https://i.imgur.com/2XkzXMp.png"/>).
         <br/>
     Roles: |
         <br/> <code>r.roles</code>
         <br/>
-        <br/> Shows a list of the self-assignable roles in the guild.
+        <br/> Shows a list of the self-assignable roles in the guild/server.
+        <br/> These roles can be self-assigned using the following command:
+        <br/> <code>r.rolename</code>
+        <br/>
         <br/>
         <br/> <code>r.autoroles</code>
         <br/>
         <br/> Shows a list of the roles that are automatically applied to a member upon joining.
+        <br/> <i>all of these roles will be added 5 seconds after a user joins the server</i>
         <br/>
     Voting: |
         <br/> <code>r.votechannels</code>
         <br/>
-        <br/> Shows a list of the active vote channels in the guild.
+        <br/> Shows a list of the active vote channels in the guild/server.
+        <br/> <i>Vote channels are channels in which restarter will add a <img src="https://i.imgur.com/wOfQqDh.png"/> and <img src="https://i.imgur.com/xWGengK.png"/> to each message posted there</i>
+        <br/>
         <br/>
         <br/> <code>r.votetop</code>
         <br/>
         <br/> Shows a list of the most upvoted items in the mentioned text-channel.
         <br/> <b>Command usage:</b> - <code>r.votetop [#text-channel]</code>
+        <br/>
         <br/>
         <br/> <code>r.votebottom</code>
         <br/>
@@ -83,6 +93,7 @@ User Commands:
         <br/>
         <br/> Runs a simulation of what the nickname of the mentioned user would look like without special characters.
         <br/> <b>Command usage:</b> - <code>r.softclean [@member]</code>
+        <br/>
         <br/>
         <br/> <code>r.decancer</code>
         <br/>
@@ -108,6 +119,7 @@ Admin Commands:
         <br/> Adds the mentioned text-channel as a vote-channel.
         <br/> <b>Command usage:</b> - <code>r.voteadd [#text-channel]</code>
         <br/>
+        <br/>
         <br/> <code>voteremove</code>
         <br/>
         <br/> Removes the mentioned text-channel as a vote-channel.
@@ -118,6 +130,7 @@ Admin Commands:
         <br/>
         <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
         <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
+        <br/>
         <br/>
         <br/> <code>autoroledelete </code>
         <br/>
@@ -130,6 +143,7 @@ Admin Commands:
         <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
         <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
         <br/>
+        <br/>
         <br/> <code>rolesdelete</code>
         <br/> 
         <br/> Deletes a self-assignable role.
@@ -141,10 +155,12 @@ Admin Commands:
         <br/> Sets the alt-alert channel using Channel ID.
         <br/> <b>Command usage:</b> - <code>r.alt-alert [channel_id]</code>
         <br/>
+        <br/>
         <br/> <code>altdiff</code>
         <br/>
         <br/> Sets the time difference (Minutes) needed between creation date and join date.
         <br/> <b>Command usage:</b> - <code>r.altdiff [minutes]</code>
+        <br/>
         <br/>
         <br/> <code>altrecord</code>
         <br/>
