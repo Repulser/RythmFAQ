@@ -27,43 +27,127 @@ Introduction:
 Basics:
 # To Be Completed
 User Commands:
-# To Be Completed
     Basic Commands: |
-        <br/> <code>help </code>
-        <br/> <code>adminhelp </code>
-        <br/> <code>invite </code>
-        <br/> <code>info </code>
-        <br/> <code>ping </code>
+        <br/> <code>r.help</code>
+        <br/>
+        <br/> DM's a short list of commands to the user.
+        <br/>
+        <br/> <code>r.adminhelp</code>
+        <br/>
+        <br/> DM's a short list of admin-commands to the user.
+        <br/>
+        <br/> <code>r.invite</code>
+        <br/>
+        <br/> DM's a link to invite Restarter to a discord server.
+        <br/>
+        <br/> <code>r.info</code>
+        <br/>
+        <br/> DM's Information about Restarter to the user.
+        <br/>
+        <br/> <code>r.ping</code>
+        <br/>
+        <br/> Measures the ping to Discord, and the ping of the websocket.
+        <br/>
     Roles: |
-        <br/> <code>roles </code>
-        <br/> <code>autoroles </code>
+        <br/> <code>r.roles</code>
+        <br/>
+        <br/> Shows a list of the self-assignable roles in the guild.
+        <br/>
+        <br/> <code>r.autoroles</code>
+        <br/>
+        <br/> Shows a list of the roles that are automatically applied to a member upon joining.
+        <br/>
     Voting: |
-        <br/> <code>votetop </code>
-        <br/> <code>votechannels </code>
-        <br/> <code>votebottom</code>
+        <br/> <code>r.votechannels</code>
+        <br/>
+        <br/> Shows a list of the active vote channels in the guild.
+        <br/>
+        <br/> <code>r.votetop</code>
+        <br/>
+        <br/> Shows a list of the most upvoted items in the mentioned text-channel.
+        <br/> <b>Command usage:</b> - <code>r.votetop [#text-channel]</code>
+        <br/>
+        <br/> <code>r.votebottom</code>
+        <br/>
+        <br/> Shows a list of the most downvoted items in the mentioned text-channel.
+        <br/> <b>Command usage:</b> - <code>r.votebottom [#text-channel]</code>
+        <br/>
     Youtube Downloader: |
-        <br/> <code>download </code>
+        <br/> <code>r.download</code>
+        <br/>
+        <br/> Downloads a song from Youtube and converts it to a .mp3 file.
+        <br/> <b>Command usage:</b> - <code>r.download [song_name/url]</code>
+        <br/>
     Decancer: |
-        <br/> <code>softdecancer </code>
-        <br/> <code>decancer </code>
+        <br/> <code>r.softclean</code>
+        <br/>
+        <br/> Runs a simulation of what the nickname of the mentioned user would look like without special characters.
+        <br/> <b>Command usage:</b> - <code>r.softclean [@member]</code>
+        <br/>
+        <br/> <code>r.decancer</code>
+        <br/>
+        <br/> Removes any special characters from the mentioned user and makes that their nickname.
+        <br/> <b>Command usage:</b> - <code>r.clean [@member]</code>
+        <br/>
     Feedback: |
-        <br/> <code>rrf </code>
-    
+        <br/> <code>r.rrf</code>
+        <br/>
+        <br/> The official way to make Requests, Reports or give Feedback. 
+        <br/> <b>Command usage:</b> - <code>r.rrf</code>
+        <br/>
 Admin Commands:
-# To Be Completed
     Finding Role IDs: |
-        <br/> <code>findrole </code>
+        <br/> <code>findrole</code>
+        <br/>
+        <br/> Searches the guild for any role with the given name and gives the ID of that role.
+        <br/> <b>Command usage:</b> - <code>r.findrole [role_name]</code>
+        <br/>
     Voting: |
-        <br/> <code>voteadd </code>
-        <br/> <code>voteremove </code>
+        <br/> <code>voteadd</code>
+        <br/>
+        <br/> Adds the mentioned text-channel as a vote-channel.
+        <br/> <b>Command usage:</b> - <code>r.voteadd [#text-channel]</code>
+        <br/>
+        <br/> <code>voteremove</code>
+        <br/>
+        <br/> Removes the mentioned text-channel as a vote-channel.
+        <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
+        <br/>
     Auto Role Addition: |
-        <br/> <code>autoroleadd </code>
+        <br/> <code>autoroleadd</code>
+        <br/>
+        <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
+        <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
+        <br/>
         <br/> <code>autoroledelete </code>
+        <br/>
+        <br/> Removes the entered role ID from the automaticly added roles upon joining the guild.
+        <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
+        <br/>
     Role Adding / Deletion: |
-        <br/> <code>rolesadd </code>
-        <br/> <code>rolesdelete </code>
+        <br/> <code>rolesadd</code>
+        <br/>
+        <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
+        <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
+        <br/>
+        <br/> <code>rolesdelete</code>
+        <br/> 
+        <br/> Deletes a self-assignable role.
+        <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
+        <br/>
     Possible Alt Accounts: |
-        <br/> <code>altalert </code>
-        <br/> <code>altdiff </code>
-        <br/> <code>altrecord </code>
-    
+        <br/> <code>altalert</code>
+        <br/>
+        <br/> Sets the alt-alert channel using Channel ID.
+        <br/> <b>Command usage:</b> - <code>r.alt-alert [channel_id]</code>
+        <br/>
+        <br/> <code>altdiff</code>
+        <br/>
+        <br/> Sets the time difference (Minutes) needed between creation date and join date.
+        <br/> <b>Command usage:</b> - <code>r.altdiff [minutes]</code>
+        <br/>
+        <br/> <code>altrecord</code>
+        <br/>
+        <br/> Shows a list of the shortest times between creation date and join date.
+        <br/> <b>Command usage:</b> - <code>r.altrecord</code>
+        <br/>
