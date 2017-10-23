@@ -144,22 +144,32 @@ Commands:
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
         <br/>
+        <br/>
         <br/> <code>-prune has <Text> [number]</code>
         <br/> Deletes messages containing certain text in the current channel.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
         <br/>
         <br/> <code>-prune embeds [number]</code>
         <br/> Deletes messages containing embeds in the current channel.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
         <br/>
-        <br/> <code>-prune bot [number]</code>
-        <br/> Deletes all messages sent by bots in the current channel.
+        <br/>
+        <br/> <code>-prune attachments [number]</code>
+        <br/> Deletes messages containing attachments (uploaded files & images) in the current channel.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
         <br/>
+        <br/>
+        <br/> <code>-prune bot [number]</code>
+        <br/> Deletes messages sent by bots in the current channel.
+        <br/>
+        <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
+        <br/>
+        <br/>
         <br/> <code>-prune after [message ID]</code>
-        <br/> Deletes all messages sent after a certain message in the current channel.
+        <br/> Deletes messages sent after a certain message in the current channel.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
