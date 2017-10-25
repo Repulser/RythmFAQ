@@ -17,11 +17,11 @@ Introduction:
             <br/>
             <br/> - See Information about The Protector’s latest features and updates.
             <br/> - Keep up with all the news and announcements.
-            <br/> - Hang out with the members of our fast growing community!
+            <br/> - Hangout with the members of our fast growing community!
             <br/> - Suggest new features for The Protector.
             <br/> - Get support from our Staff members.
             <br/>
-            <br/> <b>Note:</b> For an invite to The Protector's Discord server (This is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
+            <br/> <b>Note:</b> For an invite to The Protector's Discord server (this is the same server as Rythm), use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
 Basics:
     What users can use The Protector's commands?: |
         <br/> The Protector operates based on the Discord permissions system. This is further explained in the Commands section.
@@ -75,15 +75,15 @@ Commands:
     Muting Users: |
         <br/> <code>-mute [@user]</code>
         <br/> Adds the <u>Muted</u> role to the mentioned user,
-        <br/> Which revokes the permission to send messages.
+        <br/> which revokes their permission to send messages.
         <br/> This role will get re-applied if the user leaves the server and then rejoins.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
         <br/>
         <br/>
         <br/> <code>-unmute [@user]</code>
-        <br/> Removes the <u>Muted</u> role from the mentioned user.
-        <br/> Which grants the permission to send messages again.
+        <br/> Removes the <u>Muted</u> role from the mentioned user,
+        <br/> which grants them permission to send messages again.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
         <br/>
@@ -93,11 +93,11 @@ Commands:
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Mute Members</u></b> permission to use this command.
         <br/>
-        <br/> <b>Note:</b> This command is currently broken if the message length exceeds 2000 characters and is currently being moved into a page system,
+        <br/> <b>Important:</b> This command is currently broken if the message length exceeds 2000 characters and is currently being moved into a page system,
         <br/> in the meantime we ask that you use Discord's server settings to view the member list and check muted members until this issue is resolved
     Discord Link Removal: |
         <br/> <code>-antilink</code>
-        <br/> This toggles The Protector's anti-advertisment mode. Any posted Discord invite link will be instantly removed and the user that posted it will be warned.
+        <br/> This toggles The Protector's anti-advertisment mode. Any posted Discord invite link will be instantly removed and the user that posted it will be warned by The Protector with a message.
         <br/>
         <br/> <b>Note:</b> You need the <u><b>Manage Server</b></u> permission in order to enable it.
     Kicking Users: |
@@ -117,6 +117,8 @@ Commands:
         <br/>
         <br/> <code>-hackban [user ID]</code>
         <br/> Bans the the user without the requirement of the user being present in the server.
+        <br/> <b>How To:</b> To get the ID of a user (on PC), you need to enable Developer Mode <code>(User Settings -> Appearance -> Developer Mode)</code>
+        <br/> Once enabled, right-click the user (e.g. from a mention or message of theirs) and select <code>Copy ID</code>
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Ban Members</u></b> permission to use this command.
         <br/>
@@ -134,7 +136,7 @@ Commands:
         <br/>
         <br/>
         <br/> <code>-prune [@user]</code>
-        <br/> Deletes all messages from the mentioned user in the current channel.
+        <br/> Deletes all messages from the mentioned user within the last 100 sent messages in the current channel.
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
         <br/>
@@ -171,5 +173,7 @@ Commands:
         <br/>
         <br/> <code>-prune after [message ID]</code>
         <br/> Deletes messages sent after a certain message in the current channel.
+        <br/> <b>How To:</b> To get the ID of a message (on PC), you need to enable Developer Mode <code>(User Settings -> Appearance -> Developer Mode)</code>
+        <br/> Once enabled, right-click the message and select <code>Copy ID</code>
         <br/>
         <br/> <b>Note:</b> You need to have the <b><u>Manage Messages</u></b> permission to use this command.
