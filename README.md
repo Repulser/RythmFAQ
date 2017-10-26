@@ -6,7 +6,7 @@ For any suggestions or feedback regarding the FAQ or the troubleshooting pages, 
 
 Make sure that you are descriptive in your issue so that we may have a better idea as to what the problem/feedback is and act accordingly.
 
-For suggestions of new FAQs or troubleshooting steps, we request you to provide the title and a description in the issue so that we know what you intend it to be.
+For suggestions of new FAQs or troubleshooting steps, we request that you provide the title and a description in the issue we know what you intend it to be.
 
 ## Pull Requests
 If you decide to make a pull request please make sure that you have strictly followed the YAML format.
