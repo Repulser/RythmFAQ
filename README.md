@@ -11,4 +11,4 @@ For suggestions of new FAQs or troubleshooting steps, we request you to provide 
 ## Pull Requests
 If you decide to make a pull request please make sure that you have strictly followed the YAML format.
 
-This also **includes you using four (4) spaces for each indent** and **not using TAB characters**.
+This also **includes you using four (4) spaces** and **not using using TAB characters** for each indent.
