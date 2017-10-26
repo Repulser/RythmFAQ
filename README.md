@@ -1,14 +1,14 @@
-# RythmFAQ
-This is the home of the data files that supply both the Rythm Discord Bot FAQ & troubleshooting pages.
+# Rythm FAQ
+This is the home of the data files for the Rythm Bot FAQ & Troubleshooting alongside the Protector FAQ and a couple of other bots' FAQs.
 
 ## Suggestions/Feedback
-For any suggestions or feedback regarding the FAQ or troubleshooting pages please create a new issue.
+For any suggestions or feedback regarding the FAQ or the troubleshooting pages, please create a new issue.
 
-Please be descriptive when making an issue so we can quickly act on your issue.
+Make sure that you are descriptive in your issue so that we may have a better idea as to what the problem/feedback is and act accordingly.
 
-For suggestions of new FAQs or troubleshooting steps, we ask that you provide the title and a description so we know what you intend it to be.
+For suggestions of new FAQs or troubleshooting steps, we request that you provide the title and a description in the issue we know what you intend it to be.
 
 ## Pull Requests
-If you decide to make a pull request please ensure you have strictly followed the YAML format.
+If you decide to make a pull request please make sure that you have strictly followed the YAML format.
 
-This includes ensuring that you use no tab characters and instead use 4 spaces for each indent.
+This also **includes you using four (4) spaces** and **not using using TAB characters** for each indent.
