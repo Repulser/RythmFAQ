@@ -50,7 +50,7 @@ Commands:
     Intro: |
         <br/> This is a list of Protector's commands and explanation of what they do.
         <br/>
-        <br/> <b><u>Note</u></b> Do not include [ ] in the commands.
+        <br/> <b><u>Note</u></b> Do not include <b>[ ]</b> in the commands.
         <br/> <b><u>Note</u></b> The <b><u>Administrator</u></b> permission grants full control of The Protector.
     Moderation Logging: |
         <br/> <code>-modlog [#channel]</code>
