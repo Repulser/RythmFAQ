@@ -100,6 +100,12 @@ Commands:
         <br/> This toggles The Protector's anti-advertisment mode. Any posted Discord invite link will be instantly removed and the user that posted it will be warned by The Protector with a message.
         <br/>
         <br/> <b>Note:</b> You need the <u><b>Manage Server</b></u> permission in order to enable it.
+        <br/>
+        <br/> <b>Important Note:</b> Protector will not remove invite links from people with either one of these permissions: 
+        <br/> <b>- Manage server</b>
+        <br/> <b>- Manage Roles</b>
+        <br/> <b>- Ban Members</b> 
+        <br/> <b>- Kick Members</b>
     Kicking Users: |
         <br/> <code>-kick [@user]</code>
         <br/> Kicks the mentioned user from the server.
