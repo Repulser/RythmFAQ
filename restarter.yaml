@@ -2,15 +2,15 @@
 ---
 Introduction: 
     What is Restarter?: |
-        <br/> The Protector is a Utility bot that is still actively developed.
-        <br/> It is being developed by <a href="https://unreal-designs.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm developement team.
+        <br/> Restarter is a Utility bot that is still actively developed.
+        <br/> It is being developed by <a href="https://mattcowley.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm developement team.
         <br/>
-        <br/> Restarter is a simple utility bot originally created for the Rythm discord server, now public.
-        <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles.
-        <br/> The bot also provides a custom vote channels feature where users can vote on a post via reactions alongside an alt alert feature and a decancer nick/username function.
+        <br/> Restarter is a simple utility bot originally created for the Rythm Bot discord guild, now public. 
+        <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles. 
+        <br/> Restarter also provides a custom vote channels feature where users can vote on a post via reactions alongside an alt alert feature and a nick/username cleaning function.
     How do I add Restarter to my server?: |
         <br/> Restarter can be added to your server via the following link:
-        <br/> <a href="https://botz.mattcowley.co.uk/restarter/?invite">https://botz.mattcowley.co.uk/restarter/?invite</a>
+        <br/> <a href="https://botz.mattcowley.co.uk/restarter/invite">https://botz.mattcowley.co.uk/restarter/invite</a>
         <br/>
         <br/> <b>Note:</b> You must have a role with "Administrator" or "Manage Server" permissions to be able to add Restarter to a Discord Server.
         <br/> You can check you have either of the above permissions by checking whether you can edit the name of your discord server.
@@ -89,13 +89,13 @@ User Commands:
         <br/> <b>Command usage:</b> - <code>r.download [song_name/url]</code>
         <br/>
     Decancer: |
-        <br/> <code>r.softclean</code>
+        <br/> <code>r.softclean</code> <i>Alias: <code>r.softdecancer</code></i>
         <br/>
         <br/> Runs a simulation of what the nickname of the mentioned user would look like without special characters.
         <br/> <b>Command usage:</b> - <code>r.softclean [@member]</code>
         <br/>
         <br/>
-        <br/> <code>r.decancer</code>
+        <br/> <code>r.clean</code> <i>Alias: <code>r.decancer</code></i>
         <br/>
         <br/> Removes any special characters from the mentioned user and makes that their nickname.
         <br/> <b>Command usage:</b> - <code>r.clean [@member]</code>
@@ -108,61 +108,61 @@ User Commands:
         <br/>
 Admin Commands:
     Finding Role IDs: |
-        <br/> <code>findrole</code>
+        <br/> <code>e.findrole</code>
         <br/>
         <br/> Searches the guild for any role with the given name and gives the ID of that role.
         <br/> <b>Command usage:</b> - <code>r.findrole [role_name]</code>
         <br/>
     Voting: |
-        <br/> <code>voteadd</code>
+        <br/> <code>r.voteadd</code>
         <br/>
         <br/> Adds the mentioned text-channel as a vote-channel.
         <br/> <b>Command usage:</b> - <code>r.voteadd [#text-channel]</code>
         <br/>
         <br/>
-        <br/> <code>voteremove</code>
+        <br/> <code>r.voteremove</code>
         <br/>
         <br/> Removes the mentioned text-channel as a vote-channel.
         <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
         <br/>
     Auto Role Addition: |
-        <br/> <code>autoroleadd</code>
+        <br/> <code>r.autoroleadd</code>
         <br/>
         <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
         <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
         <br/>
         <br/>
-        <br/> <code>autoroledelete </code>
+        <br/> <code>r.autoroledelete</code>
         <br/>
         <br/> Removes the entered role ID from the automaticly added roles upon joining the guild.
         <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
         <br/>
     Role Adding / Deletion: |
-        <br/> <code>rolesadd</code>
+        <br/> <code>r.rolesadd</code>
         <br/>
         <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
         <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
         <br/>
         <br/>
-        <br/> <code>rolesdelete</code>
+        <br/> <code>r.rolesdelete</code>
         <br/> 
         <br/> Deletes a self-assignable role.
         <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
         <br/>
     Possible Alt Accounts: |
-        <br/> <code>altalert</code>
+        <br/> <code>r.altalert</code>
         <br/>
         <br/> Sets the alt-alert channel using Channel ID.
-        <br/> <b>Command usage:</b> - <code>r.alt-alert [channel_id]</code>
+        <br/> <b>Command usage:</b> - <code>r.altalert [channel_id]</code>
         <br/>
         <br/>
-        <br/> <code>altdiff</code>
+        <br/> <code>r.altdiff</code>
         <br/>
         <br/> Sets the time difference (Minutes) needed between creation date and join date.
         <br/> <b>Command usage:</b> - <code>r.altdiff [minutes]</code>
         <br/>
         <br/>
-        <br/> <code>altrecord</code>
+        <br/> <code>r.altrecord</code>
         <br/>
         <br/> Shows a list of the shortest times between creation date and join date.
         <br/> <b>Command usage:</b> - <code>r.altrecord</code>
