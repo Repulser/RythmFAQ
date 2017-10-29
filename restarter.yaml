@@ -34,7 +34,7 @@ User Commands:
         <br/> <code>r.adminhelp</code>
         <br/>
         <br/> Messages a short list of admin-commands to the user that requested them.
-        <br/> The user <b>must>/b> have "" permissions to use this command.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/>
         <br/>
         <br/> <code>r.invite</code>
@@ -98,6 +98,7 @@ User Commands:
         <br/> <code>r.clean</code> <i>Alias: <code>r.decancer</code></i>
         <br/>
         <br/> Removes any special characters from the mentioned user and makes that their nickname.
+        <br/> The user <b>must</b> have "manage_nicknames" permission to use this command.
         <br/> <b>Command usage:</b> - <code>r.clean [@member]</code>
         <br/>
     Feedback: |
@@ -108,7 +109,7 @@ User Commands:
         <br/>
 Admin Commands:
     Finding Role IDs: |
-        <br/> <code>e.findrole</code>
+        <br/> <code>r.findrole</code>
         <br/>
         <br/> Searches the guild for any role with the given name and gives the ID of that role.
         <br/> <b>Command usage:</b> - <code>r.findrole [role_name]</code>
@@ -117,53 +118,62 @@ Admin Commands:
         <br/> <code>r.voteadd</code>
         <br/>
         <br/> Adds the mentioned text-channel as a vote-channel.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.voteadd [#text-channel]</code>
         <br/>
         <br/>
         <br/> <code>r.voteremove</code>
         <br/>
         <br/> Removes the mentioned text-channel as a vote-channel.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
         <br/>
     Auto Role Addition: |
         <br/> <code>r.autoroleadd</code>
         <br/>
         <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
         <br/>
         <br/>
         <br/> <code>r.autoroledelete</code>
         <br/>
         <br/> Removes the entered role ID from the automaticly added roles upon joining the guild.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
         <br/>
     Role Adding / Deletion: |
         <br/> <code>r.rolesadd</code>
         <br/>
         <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
         <br/>
         <br/>
         <br/> <code>r.rolesdelete</code>
         <br/> 
         <br/> Deletes a self-assignable role.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
         <br/>
     Possible Alt Accounts: |
         <br/> <code>r.altalert</code>
         <br/>
         <br/> Sets the alt-alert channel using Channel ID.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.altalert [channel_id]</code>
         <br/>
         <br/>
         <br/> <code>r.altdiff</code>
         <br/>
         <br/> Sets the time difference (Minutes) needed between creation date and join date.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.altdiff [minutes]</code>
         <br/>
         <br/>
         <br/> <code>r.altrecord</code>
         <br/>
         <br/> Shows a list of the shortest times between creation date and join date.
+        <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.altrecord</code>
         <br/>
