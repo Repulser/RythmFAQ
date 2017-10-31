@@ -118,6 +118,8 @@ Sound issues:
         <br/>
         <br/> <b>8.</b> Try changing your Discord server's region a few times until you find a server where Rythm plays music.
         <br/> Server settings --> Overview --> Server Region
+        <br/>
+        <br/> <b>9.</b> Ensure that the music is not paused. You can check this by using <b>!pause</b>. If the bot replies with <code>The player is already paused</code>, use <b>!play</b> to start the music again.
 Mobile:
     Rythm keeps muting itself: |
         <br/> If you are on mobile and find that Rythm keeps muting itself after each song
