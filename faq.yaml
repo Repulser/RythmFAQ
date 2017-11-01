@@ -306,6 +306,12 @@ Settings:
         <br/>
         <br/> To access this menu use the command <b>!settings</b>
         <br/>
+        <br/> Rythm should then display a menu showing the settings that can be changed.
+        <br/>
+        <br/> For more information on a setting just type: <b>!settings</b> <code>Setting Name</code>
+        <br/>
+        <br/> <b><u>Example<b><u>: !settings blacklist
+        <br/>
         <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive
     Rythm Prefix: |
         <br/> <b><u>Changing Rythm’s prefix</u> </b>
@@ -314,7 +320,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings prefix</b> <code>NewPrefix</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings prefix +
+        <br/> <b><u>Example</u></b>: !settings prefix +
     Text Channel Blacklist: |
         <br/> <b><u>Blacklisting text channels</u> </b>
         <br/> 
@@ -322,7 +328,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings blacklist</b> <code>#channel</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings blacklist #general
+        <br/> <b><u>Example</u></b>: !settings blacklist #general
         <br/> 
         <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
     Announcing Songs: |
@@ -332,7 +338,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings announcesongs</b> <code>on/off</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings announcesongs on
+        <br/> <b><u>Example</u></b>: !settings announcesongs on
     Queue Length Limit: |
         <br/> <b><u>Limiting queue length</u> </b>
         <br/> 
@@ -340,7 +346,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings maxqueuelength</b> <code>Number</code>/<code>disable</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings maxqueuelength 25
+        <br/> <b><u>Example</u></b>: !settings maxqueuelength 25
     User Songs Limit: |
         <br/> <b><u>Limiting the amount of songs a single user can request</u> </b>
         <br/> 
@@ -348,7 +354,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings maxusersongs</b> <code>Number</code>/<code>disable</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings maxusersongs 5
+        <br/> <b><u>Example</u></b>: !settings maxusersongs 5
     Duplicate Song Removal: |
         <br/> <b><u>Getting Rythm to automatically remove duplicate songs</u> </b>
         <br/> 
@@ -356,7 +362,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings preventduplicates on
+        <br/> <b><u>Example</u></b>: !settings preventduplicates on
     Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/> 
@@ -365,7 +371,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings autoplay</b> <code>URL/disable</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b>!settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
+        <br/> <b><u>Example</u></b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/> 
         <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
     Server Default Volume*: |
@@ -375,7 +381,7 @@ Settings:
         <br/> 
         <br/> <u>Command format</u> <b>!settings defaultvolume</b> <code>Number</code>
         <br/> 
-        <br/> <b> <u>Example</u> </b> !settings defaultvolume 100
+        <br/> <b><u>Example</u></b>: !settings defaultvolume 100
         <br/>
         <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
 Links:
