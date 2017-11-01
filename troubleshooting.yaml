@@ -123,6 +123,12 @@ Mobile:
         <br/> If you are on mobile and find that Rythm keeps muting itself after each song
         <br/>
         <br/> This is a problem with Discord on mobile and the only found way to fix it is to uninstall and reinstall Discord.
+    The screen to add Rythm to my server is gray: |
+        <br/> If you are on mobile and you find that you cannot add Rythm due to the fact that the link to add Rythm produces a gray screen.
+        <br/>
+        <br/> In short: You will need to use a Computer and web browser to add Rythm.
+        <br/>
+        <br/> Why: Discord have recently disabled Oauth2 for mobile and so all authorisations for bots must be done via Desktop
 Links:
     I still have questions about how Rythm works: |
         <br/> If you find that your issues with Rythm have been fixed but you still have questions.
