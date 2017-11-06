@@ -310,7 +310,7 @@ Settings:
         <br/>
         <br/> For more information on a setting just type: <b>!settings</b> <code>Setting Name</code>
         <br/>
-        <br/> <b><u>Example<b><u>: !settings blacklist
+        <br/> <b><u>Example<b></u>: !settings blacklist
         <br/>
         <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive
     Rythm Prefix: |
