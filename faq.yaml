@@ -310,9 +310,9 @@ Settings:
         <br/>
         <br/> For more information on a setting just type: <b>!settings</b> <code>Setting Name</code>
         <br/>
-        <br/> <b><u>Example<b></u>: !settings blacklist
+        <br/> <b><u>Example</u></b>: !settings blacklist
         <br/>
-        <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive
+        <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive.
     Rythm Prefix: |
         <br/> <b><u>Changing Rythm’s prefix</u> </b>
         <br/> 
@@ -322,15 +322,16 @@ Settings:
         <br/> 
         <br/> <b><u>Example</u></b>: !settings prefix +
     Text Channel Blacklist: |
-        <br/> <b><u>Blacklisting text channels</u> </b>
+        <br/> <b><u>Blacklisting text channels</u></b>
         <br/> 
-        <br/> By blacklisting a text channel, you make it impossible for <br/> anyone to access music commands through that channel.
+        <br/> By blacklisting a text channel, you make it impossible for anyone to access music commands through that channel.
         <br/> 
         <br/> <u>Command format</u> <b>!settings blacklist</b> <code>#channel</code>
         <br/> 
-        <br/> <b><u>Example</u></b>: !settings blacklist #general
+        <br/> <b>Note</b>: You can blacklist multiple channels at once. 
+        <br/> <b><u>Example</u></b>: !settings blacklist <code>#channel1 #channel2</code>
         <br/> 
-        <br/> <b>Note</b>: To "Whitelist" a text channel and put it back <br/> to normal, just run the Blacklist command on it again.
+        <br/> <b>Note</b>: To "Whitelist" a text channel and put it back to normal, just run the Blacklist command on it again.
     Announcing Songs: |
         <br/> <b><u>Turning On/Off Announcesongs</u> </b>
         <br/> 
@@ -340,7 +341,7 @@ Settings:
         <br/> 
         <br/> <b><u>Example</u></b>: !settings announcesongs on
     Queue Length Limit: |
-        <br/> <b><u>Limiting queue length</u> </b>
+        <br/> <b><u>Limiting queue length</u></b>
         <br/> 
         <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
         <br/> 
@@ -348,7 +349,7 @@ Settings:
         <br/> 
         <br/> <b><u>Example</u></b>: !settings maxqueuelength 25
     User Songs Limit: |
-        <br/> <b><u>Limiting the amount of songs a single user can request</u> </b>
+        <br/> <b><u>Limiting the amount of songs a single user can request</u></b>
         <br/> 
         <br/> Limits how many songs the user can queue at one time, can be disabled by typing <code>disable</code> instead of a number.
         <br/> 
