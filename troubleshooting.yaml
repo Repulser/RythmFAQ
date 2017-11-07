@@ -118,11 +118,18 @@ Sound issues:
         <br/>
         <br/> <b>8.</b> Try changing your Discord server's region a few times until you find a server where Rythm plays music.
         <br/> Server settings --> Overview --> Server Region
+        <br/>
+        <br/> <b>9.</b> Ensure that the music is not paused. You can check this by using <b>!pause</b>. If the bot replies with <code>The player is already paused</code>, use <b>!resume</b> to start the music again.
 Mobile:
     Rythm keeps muting itself: |
         <br/> If you are on mobile and find that Rythm keeps muting itself after each song
         <br/>
         <br/> This is a problem with Discord on mobile and the only found way to fix it is to uninstall and reinstall Discord.
+    The screen to add Rythm to my server is gray and empty: |
+        <br/> If you are on mobile and you find that you cannot add Rythm due to the fact that the link to add Rythm produces a gray screen please try first heading to <a href="https://discordapp.com/login">https://discordapp.com/login</a>, logging in and then using the invite link again.
+        <br/> If that does not work, we recommend using a desktop device to invite Rythm.
+        <br/>
+        <br/> In short: You may want to try refreshing the website to add Rythm or use a desktop device.
 Links:
     I still have questions about how Rythm works: |
         <br/> If you find that your issues with Rythm have been fixed but you still have questions.
