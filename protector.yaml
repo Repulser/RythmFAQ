@@ -122,7 +122,7 @@ Commands:
         <br/>
         <br/>
         <br/> <code>-hackban [user ID]</code>
-        <br/> Bans the the user without the requirement of the user being present in the server.
+        <br/> Bans the user without the requirement of the user being present in the server.
         <br/> <b>How To:</b> To get the ID of a user (on PC), you need to enable Developer Mode <code>(User Settings -> Appearance -> Developer Mode)</code>
         <br/> Once enabled, right-click the user (e.g. from a mention or message of theirs) and select <code>Copy ID</code>
         <br/>
