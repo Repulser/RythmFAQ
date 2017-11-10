@@ -88,7 +88,7 @@ User Commands:
         <br/> Downloads a song from Youtube and converts it to a .mp3 file.
         <br/> <b>Command usage:</b> - <code>r.download [song_name/url]</code>
         <br/>
-    Decancer: |
+    Nickname Cleaning: |
         <br/> <code>r.softclean</code> <i>Alias: <code>r.softdecancer</code></i>
         <br/>
         <br/> Runs a simulation of what the nickname of the mentioned user would look like without special characters.
