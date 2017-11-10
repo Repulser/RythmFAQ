@@ -7,17 +7,16 @@ Introduction:
         <br/>
         <br/> Restarter is a simple utility bot originally created for the Rythm Bot discord guild, now public. 
         <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles. 
-        <br/> Restarter also provides a custom vote channels feature where users can vote on a post via reactions alongside an alt alert feature and a nick/username cleaning function.
-    How do I add Restarter to my server?: |
-        <br/> Restarter can be added to your server via the following link:
+        <br/> Restarter also provides a custom vote channels feature where users can vote on a post via reactions alongside an new accounts alert feature and a nickname cleaning function.
+    How do I add Restarter to my guild?: |
+        <br/> Restarter can be added to your guild via the following link:
         <br/> <a href="https://botz.mattcowley.co.uk/restarter/invite">https://botz.mattcowley.co.uk/restarter/invite</a>
         <br/>
         <br/> <b>Note:</b> You must have a role with <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to be able to add Restarter to a Discord Server.
-        <br/> You can check you have either of the above permissions by checking whether you can edit the name of your discord server.
         <br/>
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Restarter, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
     How do I access the commands for Restarter?: |
-        <br/> To access the commands for restarter, first ensure you have invited restarter you your server.
+        <br/> To access the commands for restarter, first ensure you have invited restarter you your guild.
         <br/>
         <br/> Once this is complete for regular commands type the following command:
         <br/> <code>r.help</code>
@@ -49,17 +48,16 @@ User Commands:
     Roles: |
         <br/> <code>r.roles</code>
         <br/> Shows a list of the self-assignable roles in the guild/server.
-        <br/> These roles can be self-assigned using the following command:
-        <br/> <code>r.rolename</code>
+        <br/> These roles can be self-assigned using the commands listed in the r.roles response.
         <br/>
         <br/>
         <br/> <code>r.autoroles</code>
         <br/> Shows a list of the roles that are automatically applied to a member upon joining.
-        <br/> <i>all of these roles will be added 5 seconds after a user joins the server</i>
+        <br/> <i>All of these roles will be added to a user 5 seconds after they joined the server.</i>
         <br/>
     Voting: |
         <br/> <code>r.votechannels</code>
-        <br/> Shows a list of the active vote channels in the guild/server.
+        <br/> Shows a list of the active vote channels in the guild.
         <br/> <i>Vote channels are channels in which restarter will add a <img src="https://i.imgur.com/wOfQqDh.png"/> and <img src="https://i.imgur.com/xWGengK.png"/> to each message posted there</i>
         <br/>
         <br/>
@@ -139,11 +137,13 @@ Admin Commands:
         <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
         <br/>
     New Account Notifications: |
-        <br/> <code>r.newnotify</code>
+        <br/> <code>r.newnotify [channel_id]</code>
         <br/>
-        <br/> Sets the new-notify channel using Channel ID.
+        <br/> Sets the new-notify channel using the channel ID.
+        <br/> <b>How To:</b> To get the ID of a a channel (on PC), you need to enable Developer Mode <code>(User Settings -> Appearance -> Developer Mode)</code>
+        <br/> Once enabled, right-click the channel and select <code>Copy ID</code>
+        <br/>
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
-        <br/> <b>Command usage:</b> - <code>r.newnotify [channel_id]</code>
         <br/>
         <br/>
         <br/> <code>r.newdiff</code>
