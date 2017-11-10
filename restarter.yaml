@@ -2,7 +2,6 @@
 ---
 Introduction: 
     What is Restarter?: |
-        <br/>
         <br/> Restarter is a Utility bot that is still actively developed.
         <br/> It is being developed by <a href="https://mattcowley.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm development team.
         <br/>
@@ -10,7 +9,6 @@ Introduction:
         <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles. 
         <br/> Restarter also provides a custom vote channels feature where users can vote on a post via reactions alongside an alt alert feature and a nick/username cleaning function.
     How do I add Restarter to my server?: |
-        <br/>
         <br/> Restarter can be added to your server via the following link:
         <br/> <a href="https://botz.mattcowley.co.uk/restarter/invite">https://botz.mattcowley.co.uk/restarter/invite</a>
         <br/>
@@ -19,7 +17,6 @@ Introduction:
         <br/>
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Restarter, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
     How do I access the commands for Restarter?: |
-        <br/>
         <br/> To access the commands for restarter, first ensure you have invited restarter you your server.
         <br/>
         <br/> Once this is complete for regular commands type the following command:
@@ -29,7 +26,6 @@ Introduction:
         <br/> <code>r.adminhelp</code>
 User Commands:
     Basic Commands: |
-        <br/>
         <br/> <code>r.help</code>
         <br/> Messages a short list of commands to the user that requested them.
         <br/>
@@ -51,7 +47,6 @@ User Commands:
         <br/> Measures the ping to Discord (<img src="https://i.imgur.com/CdIXrwJ.png"/>), and the ping of the websocket (<img src="https://i.imgur.com/2XkzXMp.png"/>).
         <br/>
     Roles: |
-        <br/>
         <br/> <code>r.roles</code>
         <br/> Shows a list of the self-assignable roles in the guild/server.
         <br/> These roles can be self-assigned using the following command:
@@ -63,7 +58,6 @@ User Commands:
         <br/> <i>all of these roles will be added 5 seconds after a user joins the server</i>
         <br/>
     Voting: |
-        <br/>
         <br/> <code>r.votechannels</code>
         <br/> Shows a list of the active vote channels in the guild/server.
         <br/> <i>Vote channels are channels in which restarter will add a <img src="https://i.imgur.com/wOfQqDh.png"/> and <img src="https://i.imgur.com/xWGengK.png"/> to each message posted there</i>
@@ -79,13 +73,11 @@ User Commands:
         <br/> <b>Command usage:</b> - <code>r.votebottom [#text-channel]</code>
         <br/>
     Youtube Downloader: |
-        <br/>
         <br/> <code>r.download</code>
         <br/> Downloads a song from Youtube and converts it to a .mp3 file.
         <br/> <b>Command usage:</b> - <code>r.download [song_name/url]</code>
         <br/>
     Nickname Cleaning: |
-        <br/>
         <br/> <code>r.softclean</code> <i>Alias: <code>r.softdecancer</code></i>
         <br/> Runs a simulation of what the nickname of the mentioned user would look like without special characters.
         <br/> <b>Command usage:</b> - <code>r.softclean [@member]</code>
@@ -97,20 +89,17 @@ User Commands:
         <br/> <b>Command usage:</b> - <code>r.clean [@member]</code>
         <br/>
     Feedback: |
-        <br/>
         <br/> <code>r.rrf</code>
         <br/> The official way to make Requests, Reports or give Feedback. 
         <br/> <b>Command usage:</b> - <code>r.rrf</code>
         <br/>
 Admin Commands:
     Finding Role IDs: |
-        <br/>
         <br/> <code>r.findrole</code>
         <br/> Searches the guild for any role with the given name and gives the ID of that role.
         <br/> <b>Command usage:</b> - <code>r.findrole [role_name]</code>
         <br/>
     Voting: |
-        <br/>
         <br/> <code>r.voteadd</code>
         <br/> Adds the mentioned text-channel as a vote-channel.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
@@ -124,7 +113,6 @@ Admin Commands:
         <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
         <br/>
     Auto Role Addition: |
-        <br/>
         <br/> <code>r.autoroleadd</code>
         <br/>
         <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
@@ -139,7 +127,6 @@ Admin Commands:
         <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
         <br/>
     Role Adding / Deletion: |
-        <br/>
         <br/> <code>r.rolesadd</code>
         <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
@@ -152,7 +139,6 @@ Admin Commands:
         <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
         <br/>
     New Account Notifications: |
-        <br/>
         <br/> <code>r.newnotify</code>
         <br/>
         <br/> Sets the new-notify channel using Channel ID.
