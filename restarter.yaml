@@ -161,7 +161,7 @@ Admin Commands:
         <br/>
         <br/> Sets the new-notify channel using Channel ID.
         <br/> The user <b>must</b> have "administrator" or "manage_server" permissions to use this command.
-        <br/> <b>Command usage:</b> - <code>r.altalert [channel_id]</code>
+        <br/> <b>Command usage:</b> - <code>r.newnotify [channel_id]</code>
         <br/>
         <br/>
         <br/> <code>r.newdiff</code>
