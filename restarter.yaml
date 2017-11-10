@@ -16,7 +16,7 @@ Introduction:
         <br/>
         <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Restarter, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
     How do I access the commands for Restarter?: |
-        <br/> To access the commands for restarter, first ensure you have invited restarter you your guild.
+        <br/> To access the commands for Restarter, first ensure you have invited Restarter to your guild.
         <br/>
         <br/> Once this is complete for regular commands type the following command:
         <br/> <code>r.help</code>
@@ -58,7 +58,7 @@ User Commands:
     Voting: |
         <br/> <code>r.votechannels</code>
         <br/> Shows a list of the active vote channels in the guild.
-        <br/> <i>Vote channels are channels in which restarter will add a <img src="https://i.imgur.com/wOfQqDh.png"/> and <img src="https://i.imgur.com/xWGengK.png"/> to each message posted there</i>
+        <br/> <i>Vote channels are channels in which Restarter will add a <img src="https://i.imgur.com/wOfQqDh.png"/> and <img src="https://i.imgur.com/xWGengK.png"/> to each message posted there</i>
         <br/>
         <br/>
         <br/> <code>r.votetop</code>
