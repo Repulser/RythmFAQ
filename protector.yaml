@@ -41,7 +41,7 @@ Basics:
         <br/> Done.
     How is the data for -history created?: |
         <br/> All data in the history command for a user is global.
-        <br/> If a user advertises on any server and The Protector removes it, it will incriment the count.
+        <br/> If a user advertises on any server and The Protector removes it, it will increment the count.
         <br/> In the same way if a user gets banned from any server this will increment the ban count for the user in their history.
     Is The Protector open-source?: |
         <br/> Yes it is!
