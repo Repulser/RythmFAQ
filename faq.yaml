@@ -364,6 +364,14 @@ Settings:
         <br/> <u>Command format</u> <b>!settings preventduplicates</b> <code>on</code>/<code>off</code>
         <br/> 
         <br/> <b><u>Example</u></b>: !settings preventduplicates on
+    DJ Only Mode: |
+        <br/> <b><u>Enabling DJ only mode</u> </b>
+        <br/>
+        <br/> Sets the server to run in DJ only mode, allowing only users with the DJ role or the Manage Server permission to use Rythm's commands.
+        <br/>
+        <br/> <u>Command format</u> <b>!settings djonly</b> <code>on</code>/<code>off</code>
+        <br/>
+        <br/> <b><u>Example</u></b>: !settings djonly on
     Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/> 
