@@ -367,7 +367,7 @@ Settings:
     DJ Only Mode: |
         <br/> <b><u>Enabling DJ only mode</u> </b>
         <br/>
-        <br/> Sets the server to run in DJ only mode.
+        <br/> Sets the server to run in DJ only mode, allowing only users with the DJ role or the Manage Server permission to use Rythm's commands.
         <br/>
         <br/> <u>Command format</u> <b>!settings djonly</b> <code>on</code>/<code>off</code>
         <br/>
