@@ -1,0 +1,161 @@
+# YAML does not support tab characters. Ensure each tab is represented as 4 spaces.
+---
+Introduction: 
+    What is Restarter?: |
+        <br/> Restarter is a Utility bot that is still actively developed.
+        <br/> It is being developed by <a href="https://mattcowley.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm development team.
+        <br/>
+        <br/> Restarter is a simple utility bot originally created for the Rythm Bot discord guild, now public. 
+        <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles. 
+        <br/> Restarter also provides a custom vote channels feature where users can vote on a post via reactions alongside an new accounts alert feature and a nickname cleaning function.
+    How do I add Restarter to my guild?: |
+        <br/> Restarter can be added to your guild via the following link:
+        <br/> <a href="https://botz.mattcowley.co.uk/restarter/invite">https://botz.mattcowley.co.uk/restarter/invite</a>
+        <br/>
+        <br/> <b>Note:</b> You must have a role with <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to be able to add Restarter to a Discord Guild.
+        <br/>
+        <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Restarter, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
+    How do I access the commands for Restarter?: |
+        <br/> To access the commands for Restarter, first ensure you have invited Restarter to your guild.
+        <br/>
+        <br/> Once this is complete for regular commands type the following command:
+        <br/> <code>r.help</code>
+        <br/>
+        <br/> For admin commands type the following command:
+        <br/> <code>r.adminhelp</code>
+User Commands:
+    Basic Commands: |
+        <br/> <code>r.help</code>
+        <br/> Messages a short list of commands to the user that requested them.
+        <br/>
+        <br/>
+        <br/> <code>r.adminhelp</code>
+        <br/> Messages a short list of admin-commands to the user that requested them.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/>
+        <br/>
+        <br/> <code>r.invite</code>
+        <br/> Messages a link to invite Restarter to a discord server to the user that requested it.
+        <br/>
+        <br/>
+        <br/> <code>r.info</code>
+        <br/> Messages Information about Restarter to the user that requested it.
+        <br/>
+        <br/>
+        <br/> <code>r.ping</code>
+        <br/> Measures the ping to Discord (<img src="https://i.imgur.com/CdIXrwJ.png"/>), and the ping of the websocket (<img src="https://i.imgur.com/2XkzXMp.png"/>).
+        <br/>
+    Roles: |
+        <br/> <code>r.roles</code>
+        <br/> Shows a list of the self-assignable roles in the guild/server.
+        <br/> These roles can be self-assigned using the commands listed in the r.roles response.
+        <br/>
+        <br/>
+        <br/> <code>r.autoroles</code>
+        <br/> Shows a list of the roles that are automatically applied to a member upon joining.
+        <br/> <i>All of these roles will be added to a user 5 seconds after they joined the server.</i>
+        <br/>
+    Voting: |
+        <br/> <code>r.votechannels</code>
+        <br/> Shows a list of the active vote channels in the guild.
+        <br/> <i>Vote channels are channels in which Restarter will add a <img src="https://i.imgur.com/wOfQqDh.png"/> and <img src="https://i.imgur.com/xWGengK.png"/> to each message posted there</i>
+        <br/>
+        <br/>
+        <br/> <code>r.votetop</code>
+        <br/> Shows a list of the most upvoted items in the mentioned text-channel.
+        <br/> <b>Command usage:</b> - <code>r.votetop [#text-channel]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.votebottom</code>
+        <br/> Shows a list of the most downvoted items in the mentioned text-channel.
+        <br/> <b>Command usage:</b> - <code>r.votebottom [#text-channel]</code>
+        <br/>
+    Youtube Downloader: |
+        <br/> <code>r.download</code>
+        <br/> Downloads a song from Youtube and converts it to a .mp3 file.
+        <br/> <b>Command usage:</b> - <code>r.download [song_name/url]</code>
+        <br/>
+    Nickname Cleaning: |
+        <br/> <code>r.softclean</code> <i>Alias: <code>r.softdecancer</code></i>
+        <br/> Runs a simulation of what the nickname of the mentioned user would look like without special characters.
+        <br/> <b>Command usage:</b> - <code>r.softclean [@member]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.clean</code> <i>Alias: <code>r.decancer</code></i>
+        <br/> Removes any special characters from the mentioned user and makes that their nickname.
+        <br/> The user <b>must</b> have <b><u>Manage Nicknames</u></b> permission to use this command.
+        <br/> <b>Command usage:</b> - <code>r.clean [@member]</code>
+        <br/>
+    Feedback: |
+        <br/> <code>r.rrf</code>
+        <br/> The official way to make Requests, Reports or give Feedback. 
+        <br/> <b>Command usage:</b> - <code>r.rrf</code>
+        <br/>
+Admin Commands:
+    Finding Role IDs: |
+        <br/> <code>r.findrole</code>
+        <br/> Searches the guild for any role with the given name and gives the ID of that role.
+        <br/> <b>Command usage:</b> - <code>r.findrole [role_name]</code>
+        <br/>
+    Voting: |
+        <br/> <code>r.voteadd</code>
+        <br/> Adds the mentioned text-channel as a vote-channel.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.voteadd [#text-channel]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.voteremove</code>
+        <br/>
+        <br/> Removes the mentioned text-channel as a vote-channel.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
+        <br/>
+    Auto Role Addition: |
+        <br/> <code>r.autoroleadd</code>
+        <br/>
+        <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.autoroledelete</code>
+        <br/>
+        <br/> Removes the entered role ID from the automaticly added roles upon joining the guild.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
+        <br/>
+    Role Adding / Deletion: |
+        <br/> <code>r.rolesadd</code>
+        <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.rolesdelete</code>
+        <br/> Deletes a self-assignable role.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
+        <br/>
+    New Account Notifications: |
+        <br/> <code>r.newnotify [channel_id]</code>
+        <br/>
+        <br/> Sets the new-notify channel using the channel ID.
+        <br/> <b>How To:</b> To get the ID of a a channel (on PC), you need to enable Developer Mode <code>(User Settings -> Appearance -> Developer Mode)</code>
+        <br/> Once enabled, right-click the channel and select <code>Copy ID</code>
+        <br/>
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/>
+        <br/>
+        <br/> <code>r.newdiff</code>
+        <br/>
+        <br/> Sets the time difference (minutes) needed between creation date and join date.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.newdiff [minutes]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.newrecord</code>
+        <br/>
+        <br/> Shows a list of users with the shortest times between creation date and join date.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.newrecord</code>
+        <br/>
