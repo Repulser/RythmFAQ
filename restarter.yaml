@@ -18,20 +18,12 @@ Introduction:
     How do I access the commands for Restarter?: |
         <br/> To access the commands for Restarter, first ensure you have invited Restarter to your guild.
         <br/>
-        <br/> Once this is complete for regular commands type the following command:
+        <br/> Once this is complete for commands type the following command:
         <br/> <code>r.help</code>
-        <br/>
-        <br/> For admin commands type the following command:
-        <br/> <code>r.adminhelp</code>
 User Commands:
     Basic Commands: |
         <br/> <code>r.help</code>
         <br/> Messages a short list of commands to the user that requested them.
-        <br/>
-        <br/>
-        <br/> <code>r.adminhelp</code>
-        <br/> Messages a short list of admin-commands to the user that requested them.
-        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
         <br/>
         <br/>
         <br/> <code>r.invite</code>
