@@ -50,7 +50,16 @@ Troubleshooting:
     When I mute people, they can send messages in channels!: |
         <br/> If they can send messages in some channels, it's likely an override issue.
         <br/>
-        <br/> <b>1.</b> <b>Ensure that the channel overrides are not allowing them to send messages</b>. For every channel, go to <b>Edit Channel</b> &gt; <b>Permissions</b> &gt; Go though every role and member override, that isn't the muted role, and ensure that the <b>Send Messages</b> isn't checked.
+        <br/> <b>Ensure that the channel overrides are not allowing them to send messages</b>.
+        <br/>
+        <br/> For each channel:
+        <br/> go to <b>Edit Channel</b> &gt; <b>Permissions</b> &gt; Go though every role and member override <b>(that isn't the muted role)</b>, and ensure that the <b>Send Messages</b> permission isn't checked.
+        <br/>
+        <br/> <u>For every role except muted:</u>
+        <br/> <img src="https://i.imgur.com/6xgvAL0.png"/>
+        <br/>
+        <br/> <u>For the muted role:</u>
+        <br/> <img src="https://i.imgur.com/egXjlgm.png"/>
 Commands:
     Intro: |
         <br/> This is a list of Protector's commands and explanation of what they do.
