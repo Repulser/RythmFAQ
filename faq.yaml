@@ -59,6 +59,14 @@ Basics:
         <br/> <b>1)</b> <b>Right Click on Rythm</b> > <b> Change nickname</b> > <b>Save</b>.
         <br/> 
         <br/> Done.
+    Where does Rythm get the lyrics from?: |
+        <br/>Rythm gets the lyrics from the <a href="https://genius.com">Genius Lyrics and Knowledge website.</a>
+        <br/> 
+        <br/> <b>Note</b>: Sometimes a song's lyrics can be inaccurate or from a different song. 
+        <br/>This is because that song's lyrics isn't in the Genius database.
+        <br/>
+        <br/>Feel free to add it here though: <a href="https://genius.com/new">Add a song to Genius</a>.
+        <br/>Make sure you use the correct metadata such as Title, Artist, Genre.
     Can I make a playlist with Rythm?: |
         <br/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud.
         <br/> 
