@@ -5,7 +5,7 @@ Introduction:
         <br/> Restarter is a Utility bot that is still actively developed.
         <br/> It is being developed by <a href="https://mattcowley.co.uk/">IPv4 (IPv4#6434)</a> of the Rythm development team.
         <br/>
-        <br/> Restarter is a simple utility bot originally created for the Rythm Bot discord guild, now public. 
+        <br/> Restarter is a simple utility bot originally created for the Rythm Bot Discord guild, now public. 
         <br/> The bot provides autoroles (roles on user join) as well as custom commands to gain/remove roles. 
         <br/> Restarter also provides a custom vote channels feature where users can vote on a post via reactions alongside an new accounts alert feature and a nickname cleaning function.
     How do I add Restarter to my guild?: |
@@ -27,7 +27,7 @@ User Commands:
         <br/>
         <br/>
         <br/> <code>r.invite</code>
-        <br/> Messages a link to invite Restarter to a discord server to the user that requested it.
+        <br/> Messages a link to invite Restarter to a Discord guild to the user that requested it.
         <br/>
         <br/>
         <br/> <code>r.info</code>
@@ -39,13 +39,13 @@ User Commands:
         <br/>
     Roles: |
         <br/> <code>r.roles</code>
-        <br/> Shows a list of the self-assignable roles in the guild/server.
+        <br/> Shows a list of the self-assignable roles in the guild.
         <br/> These roles can be self-assigned using the commands listed in the r.roles response.
         <br/>
         <br/>
         <br/> <code>r.autoroles</code>
         <br/> Shows a list of the roles that are automatically applied to a member upon joining.
-        <br/> <i>All of these roles will be added to a user 5 seconds after they joined the server.</i>
+        <br/> <i>All of these roles will be added to a user 5 seconds after they joined the guild.</i>
         <br/>
     Voting: |
         <br/> <code>r.votechannels</code>
@@ -105,28 +105,28 @@ Admin Commands:
     Auto Role Addition: |
         <br/> <code>r.autoroleadd</code>
         <br/>
-        <br/> Adds the entered role ID to the automaticly added roles upon joining the guild.
+        <br/> Adds the entered role name/ID to the automaticly added roles upon joining the guild.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
-        <br/> <b>Command usage:</b> - <code>r.autoroleadd [role_id]</code>
+        <br/> <b>Command usage:</b> - <code>r.autoroleadd [role]</code>
         <br/>
         <br/>
         <br/> <code>r.autoroledelete</code>
         <br/>
-        <br/> Removes the entered role ID from the automaticly added roles upon joining the guild.
+        <br/> Removes the entered role name/ID from the automaticly added roles upon joining the guild.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
-        <br/> <b>Command usage:</b> - <code>r.autoroledelete [role_id]</code>
+        <br/> <b>Command usage:</b> - <code>r.autoroledelete [role]</code>
         <br/>
     Role Adding / Deletion: |
         <br/> <code>r.rolesadd</code>
-        <br/> Creates a self-assignable role. <code>r.rolesadd [role_id] [alias]</code>
+        <br/> Creates a self-assignable role by role name/ID and command alias.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
-        <br/> <b>Command usage:</b> - <code>r.rolesadd [role_id] [alias]</code>
+        <br/> <b>Command usage:</b> - <code>r.rolesadd [role] [alias]</code>
         <br/>
         <br/>
         <br/> <code>r.rolesdelete</code>
-        <br/> Deletes a self-assignable role.
+        <br/> Deletes a self-assignable role by role name/ID.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
-        <br/> <b>Command usage:</b> - <code>r.rolesdelete [role_id]</code>
+        <br/> <b>Command usage:</b> - <code>r.rolesdelete [role]</code>
         <br/>
     New Account Notifications: |
         <br/> <code>r.newnotify [channel_id]</code>
