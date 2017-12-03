@@ -93,7 +93,6 @@ Basics:
         <br/>
         <br/> To change the channel where it’ll show the messages, just <b>!disconnect</b> Rythm from the current channel and <b>!summon</b> it in the channel you want the songs to be announced in.
     How can I view more than one page using the queue command?: |
-        <br/>
         <br/> <b>!play <code>queue [page number]</code></b>
         <br/>
         <br/> Example: <b>!queue 2</b>
