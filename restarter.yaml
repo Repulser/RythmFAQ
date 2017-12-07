@@ -102,7 +102,7 @@ Admin Commands:
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
         <br/>
-    Auto Role Addition: |
+    Auto Roles: |
         <br/> <code>r.autoroleadd</code>
         <br/>
         <br/> Adds the entered role name/ID to the automaticly added roles upon joining the guild.
@@ -116,7 +116,7 @@ Admin Commands:
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.autoroledelete [role]</code>
         <br/>
-    Role Adding / Deletion: |
+    Role Commands: |
         <br/> <code>r.rolesadd</code>
         <br/> Creates a self-assignable role by role name/ID and command alias.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
