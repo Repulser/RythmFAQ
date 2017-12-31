@@ -86,7 +86,7 @@ User Commands:
     Info: |
         <br/> <code>r.guildinfo</code>
         <br/> Provides a vast array of information about the current guild.
-        <br/> <b>Command usage:</b> - <code>r.rrf</code>
+        <br/> <b>Command usage:</b> - <code>r.guildinfo</code>
         <br/>
         <br/>
         <br/> <code>r.memberinfo</code>
