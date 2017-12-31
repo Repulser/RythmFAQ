@@ -83,6 +83,36 @@ User Commands:
         <br/> The official way to make Requests, Reports or give Feedback. 
         <br/> <b>Command usage:</b> - <code>r.rrf</code>
         <br/>
+    Info: |
+        <br/> <code>r.guildinfo</code>
+        <br/> Provides a vast array of information about the current guild.
+        <br/> <b>Command usage:</b> - <code>r.rrf</code>
+        <br/>
+        <br/>
+        <br/> <code>r.memberinfo</code>
+        <br/> Allows you to view information about a specified member in the current guild.
+        <br/> <b>Command usage:</b> - <code>r.memberinfo [@member]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.memberpermissions</code>
+        <br/> Allows you to view the permissions the member has in the current guild.
+        <br/> <b>Command usage:</b> - <code>r.memberpermissions [@member]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.uid</code>
+        <br/> Returns the user id of the member given.
+        <br/> <b>Command usage:</b> - <code>r.uid [@member]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.joindate</code>
+        <br/> Shows the guild & Discord join dates from memberinfo.
+        <br/> <b>Command usage:</b> - <code>r.joindate [@member]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.roleinfo</code>
+        <br/> Provides information about a role specified in the current guild.
+        <br/> <b>Command usage:</b> - <code>r.roleinfo [role]</code>
+        <br/>
 Admin Commands:
     Finding Role IDs: |
         <br/> <code>r.findrole</code>
@@ -101,6 +131,27 @@ Admin Commands:
         <br/> Removes the mentioned text-channel as a vote-channel.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.voteremove [#text-channel]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.voteup</code>
+        <br/>
+        <br/> Allows the setting of a custom emoji as the up-vote reaction.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.voteup [#text-channel] [emoji]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.votedown</code>
+        <br/>
+        <br/> Allows the setting of a custom emoji as the down-vote reaction.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.votedown [#text-channel] [emoji]</code>
+        <br/>
+        <br/>
+        <br/> <code>r.votefix</code>
+        <br/>
+        <br/> Fixes a vote channel, adding up & down-vote reactions to every message.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.votefix [#text-channel]</code>
         <br/>
     Auto Roles: |
         <br/> <code>r.autoroleadd</code>
@@ -129,13 +180,14 @@ Admin Commands:
         <br/> <b>Command usage:</b> - <code>r.rolesdelete [role]</code>
         <br/>
     New Account Notifications: |
-        <br/> <code>r.newnotify [channel_id]</code>
+        <br/> <code>r.newnotify</code>
         <br/>
         <br/> Sets the new-notify channel using the channel ID.
         <br/> <b>How To:</b> To get the ID of a a channel (on PC), you need to enable Developer Mode <code>(User Settings -> Appearance -> Developer Mode)</code>
         <br/> Once enabled, right-click the channel and select <code>Copy ID</code>
         <br/>
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.newnotify [channel_id]</code>
         <br/>
         <br/>
         <br/> <code>r.newdiff</code>
@@ -150,4 +202,11 @@ Admin Commands:
         <br/> Shows a list of users with the shortest times between creation date and join date.
         <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
         <br/> <b>Command usage:</b> - <code>r.newrecord</code>
+        <br/>
+    Settings: |
+        <br/> <code>r.restoresettings</code>
+        <br/>
+        <br/> Resets all guild settings to their defaults.
+        <br/> The user <b>must</b> have <b><u>Administrator</u></b> or <b><u>Manage Server</u></b> permissions to use this command.
+        <br/> <b>Command usage:</b> - <code>r.restoresettings</code>
         <br/>
