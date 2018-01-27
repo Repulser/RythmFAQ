@@ -16,7 +16,7 @@ Basics:
         <br/> For performance reasons, Rythm will clear/reset the queue when it leaves the voice channel.
         <br/> To get around this we suggest creating a Youtube playlist of the songs you wish to re-queue.
     Rythm messages come out blank: |
-        <br/> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled</b> on your client. Make sure to <b>enable</b> it!
+        <br/> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled</b> on your client. Make sure it's <b>enabled</b>!
         <br/>
         <br/> To do so:
         <br/>
