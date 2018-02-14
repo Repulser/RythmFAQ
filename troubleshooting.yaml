@@ -22,7 +22,7 @@ Basics:
         <br/>
         <br/> Go to your <b>discord settings</b> > click on "<b>Text & Images</b>" > <b>Enable</b> "Show website preview info from links pasted into chat”.
         <br/>
-        <br/> <img src="https://i.imgur.com/dvmYgs9.png" alt="" style="width:500px;height:330px;" />
+        <br/> <img src="https://i.imgur.com/dvmYgs9.png" alt="Link Preview" style="width:500px;height:330px;" />
     Rythm does not respond to commands: |
         <br/> If Rythm isn’t responding to commands, try the following:
         <br/>
@@ -36,9 +36,9 @@ Basics:
         <br/>
         <br/> <b>4.</b> If the above methods do not work send your server ID to one of the members of the support team like so:
         <br/> - enable developer mode as shown below <code>(User Settings -> Appearance -> Developer Mode)</code>
-        <br/> <img src="https://i.imgur.com/nAIWAPa.png"/>
+        <br/> <img src="https://i.imgur.com/nAIWAPa.png" alt="Developer Mode" />
         <br/> - Right-click on your server name at the top left and select <code>Copy ID</code>
-        <br/> <img src="https://i.imgur.com/CxXP2Ch.png"/>
+        <br/> <img src="https://i.imgur.com/CxXP2Ch.png" alt="Server ID" />
     How can I reset Rythm's prefix: |
         <br/> If you have changed the default Rythm prefix to a custom one and now can’t make Rythm work or aren’t able to change the prefix back, do the following:
         <br/>
@@ -57,7 +57,7 @@ Basics:
         <br/>
         <br/> After mentioning Rythm, it should give you a message similar to this:
         <br/>
-        <br/> <img src="https://i.imgur.com/JLpuLHX.png" alt="" style="width:573px;height:150px;" >
+        <br/> <img src="https://i.imgur.com/JLpuLHX.png" alt="Prefix Example" style="width:573px;height:150px;" />
         <br/>
         <br/> <b>You must Copy the part that is marked in red</b>.
         <br/>
@@ -98,11 +98,11 @@ Sound issues:
         <br/> If you find that Rythm does not play any sound, perform the following checks in order:
         <br/>
         <br/> <b>1.</b> Ensure that Rythm is not muted, if you right click on Rythm while it is in a music channel <b>ensure the options in red are not ticked</b>:
-        <br/> <img src="https://i.imgur.com/zBOKzpF.png">
+        <br/> <img src="https://i.imgur.com/zBOKzpF.png" alt="Muted" />
         <br/>
         <br/> <b>2.</b> Ensure that Rythm's volume is not set to 0, if you right click on Rythm while it is in a music channel <b>ensure the slider in red is not set to 0</b>:
-        <br/> <img src="https://i.imgur.com/9AnLpgR.png">
-        <br/> <img src="https://i.imgur.com/omXLR57.png">
+        <br/> <img src="https://i.imgur.com/9AnLpgR.png" alt="User Volume" />
+        <br/> <img src="https://i.imgur.com/omXLR57.png" alt="User Volume" />
         <br/> <b>N.B: For donators:</b> use the <b>!vol</b> command to check that the server's volume has not been set to 0.
         <br/>
         <br/> <b>3.</b> <b>Disconnect</b> from the voice channel and <b>Reconnect</b>.
