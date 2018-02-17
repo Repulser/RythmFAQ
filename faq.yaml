@@ -325,7 +325,7 @@ Settings:
         <br/>
         <br/> Any setting marked with an asterisk <code>*</code> is donator exclusive.
     Rythm Prefix: |
-        <br/> <b><u>Changing Rythm’s prefix</u> </b>
+        <br/> <b><u>Changing Rythm’s prefix</u></b>
         <br/>
         <br/> Makes Rythm respond to a different prefix.
         <br/>
@@ -368,7 +368,7 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings maxusersongs 5
     Duplicate Song Removal: |
-        <br/> <b><u>Getting Rythm to automatically remove duplicate songs</u> </b>
+        <br/> <b><u>Getting Rythm to automatically remove duplicate songs</u></b>
         <br/>
         <br/> Prevents users from adding songs to the queue that are already in the current queue.
         <br/>
@@ -376,13 +376,21 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings preventduplicates on
     DJ Only Mode: |
-        <br/> <b><u>Enabling DJ only mode</u> </b>
+        <br/> <b><u>Enabling DJ only mode</u></b>
         <br/>
-        <br/> Sets the server to run in DJ only mode, allowing only users with the DJ role or the Manage Server permission to use Rythm's commands.
+        <br/> Sets the server to run in DJ only mode, allowing only users with the DJ role or the Manage Server permission to use Rythm's music commands.
         <br/>
         <br/> <u>Command format</u> <b>!settings djonly</b> <code>on</code>/<code>off</code>
         <br/>
         <br/> <b><u>Example</u></b>: !settings djonly on
+    Setting a custom DJ role: |
+        <br/> <b><u>Setting a custom DJ role</u></b>
+        <br/>
+        <br/> Sets a custom DJ role to also work with Rythm, This allows users with that role to act as DJ.
+        <br/>
+        <br/> <u>Command format</u> <b>!settings setdj</b> <code>role-name</code>
+        <br/>
+        <br/> <b><u>Example</u></b>: !settings setdj Admin
     Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/>
@@ -395,7 +403,7 @@ Settings:
         <br/>
         <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
     Server Default Volume*: |
-        <br/> <b><u>Setting Rythm's default volume</u>* </b>
+        <br/> <b><u>Setting Rythm's default volume</u>*</b>
         <br/>
         <br/> Sets the default volume for Rythm when joining a channel after being summoned.
         <br/>
@@ -403,7 +411,7 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings defaultvolume 100
         <br/>
-        <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
+        <br/> Note: <b><u>This feature is donator exclusive</u></b>.
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
