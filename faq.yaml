@@ -378,7 +378,7 @@ Settings:
     DJ Only Mode: |
         <br/> <b><u>Enabling DJ only mode</u></b>
         <br/>
-        <br/> Sets the server to run in DJ only mode, allowing only users with the DJ role or the Manage Server permission to use Rythm's commands.
+        <br/> Sets the server to run in DJ only mode, allowing only users with the DJ role or the Manage Server permission to use Rythm's music commands.
         <br/>
         <br/> <u>Command format</u> <b>!settings djonly</b> <code>on</code>/<code>off</code>
         <br/>
@@ -386,7 +386,7 @@ Settings:
     Setting a custom DJ role: |
         <br/> <b><u>Setting a custom DJ role</u></b>
         <br/>
-        <br/> Sets a custom DJ role to work with Rythm, This allows users with that role to act as DJ.
+        <br/> Sets a custom DJ role to also work with Rythm, This allows users with that role to act as DJ.
         <br/>
         <br/> <u>Command format</u> <b>!settings setdj</b> <code>role-name</code>
         <br/>
