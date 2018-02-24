@@ -61,7 +61,7 @@ Basics:
     How do I change Rythm's Nickname?: |
         <br/> To change Rythm’s nickname in your server you must:
         <br/>
-        <br/> <b>1)</b> <b>Right Click on Rythm</b> > <b> Change nickname</b> > <b>Save</b>.
+        <br/> <b>1)</b> <b>Right Click on Rythm</b> &gt; <b> Change nickname</b> &gt; <b>Save</b>.
         <br/>
         <br/> Done.
     How can I donate to support Rythm?: |
@@ -159,7 +159,7 @@ Limitations/Restrictions:
         <br/>
         <br/> You may set the local volume of Rythm for yourself by selecting Rythm and adjusting the local volume slider as shown below.
         <br/>
-        <br/> <img src="https://i.imgur.com/qd6w5Yd.png" />
+        <br/> <img src="https://i.imgur.com/qd6w5Yd.png" alt="Discord user volume"/>
         <br/>
         <br/> Rythm uses the default volume for videos when using audio streams, for donators we allow for encoding to change the volume of these audio streams.
         <br/> Due to the fact that encoding takes resources and time, this is why we do not roll this feature out to all Rythm users.
@@ -292,7 +292,7 @@ Roles/Permissions:
         <br/>To block Rythm from joining a specific voice channel you must:
         <br/>
         <br/>
-        <br/> <b>1</b>) Go to your Discord <b>Server Settings</b> > <b>Roles</b>.
+        <br/> <b>1</b>) Go to your Discord <b>Server Settings</b> &gt; <b>Roles</b>.
         <br/>
         <br/> <b>2</b>) Find the role that belongs to <b>Rythm</b>.
         <br/>
@@ -302,7 +302,7 @@ Roles/Permissions:
         <br/>
         <br/> <b>5</b>) Go to the voice channel you want to <b>restrict</b> Rythm from connecting to.
         <br/>
-        <br/> <b>6</b>) Click <b>Edit channel</b> > <b>Permissions</b> > <b>Rythm Role</b>.
+        <br/> <b>6</b>) Click <b>Edit channel</b> &gt; <b>Permissions</b> &gt; <b>Rythm Role</b>.
         <br/>
         <br/> <b>7</b>) Turn <b>OFF</b> the "Connect" permission for Rythm. Save.
         <br/>
