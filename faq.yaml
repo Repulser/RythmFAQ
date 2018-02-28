@@ -386,11 +386,13 @@ Settings:
     Setting a custom DJ role: |
         <br/> <b><u>Setting a custom DJ role</u></b>
         <br/>
-        <br/> Sets a custom DJ role to also work with Rythm, This allows users with that role to act as DJ.
+        <br/> Sets a custom role to work as DJ with Rythm.
         <br/>
         <br/> <u>Command format</u> <b>!settings setdj</b> <code>role-name</code>
         <br/>
         <br/> <b><u>Example</u></b>: !settings setdj Admin
+        <br/>
+        <br/> Note: <b><u>Any role called "DJ" will still act as DJ role.</u></b>
     Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/>
