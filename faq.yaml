@@ -392,7 +392,7 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings setdj Admin
         <br/>
-        <br/> Note: <b><u>Any role called DJ will still work with Rythm.</u></b>
+        <br/> Note: <b><u>Any role called "DJ" will still work with Rythm.</u></b>
     Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/>
