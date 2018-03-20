@@ -29,6 +29,8 @@ Basics:
         <br/> You can see the current prefix by mentioning The Protector.
         <br/>
         <br/> <b> @The Protector#3210 </b> OR <b> &lt;@301424917474443264&gt; </b>
+        <br/>
+        <br/> <b> NOTE: Protector won't respond to the mention if it has a nickname! </b>
     Can I change The Protector's Prefix?: |
         <br/> Short answer: <b>Yes</b>
         <br/>
@@ -43,9 +45,6 @@ Basics:
         <br/> All data in the history command for a user is global.
         <br/> If a user advertises on any server and The Protector removes it, it will increment the count.
         <br/> In the same way if a user gets banned from any server this will increment the ban count for the user in their history.
-    Is The Protector open-source?: |
-        <br/> Yes it is!
-        <br/> If you know Java (JDA) and feel like helping out, you can head over to <a href="https://github.com/Repulser/Protector">https://github.com/Repulser/Protector</a> to get started!
 Troubleshooting:
     When I mute people, they can still send messages in channels: |
         <br/> If they can send messages in some channels, it's likely an override issue.
