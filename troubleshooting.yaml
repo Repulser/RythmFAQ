@@ -34,11 +34,9 @@ Basics:
         <br/>
         <br/> <b>3.</b> Check the #outages section of the Rythm bot Discord server to see if there is an outage
         <br/>
-        <br/> <b>4.</b> If the above methods do not work send your server ID to one of the members of the support team like so:
-        <br/> - enable developer mode as shown below <code>(User Settings -> Appearance -> Developer Mode)</code>
-        <br/> <img src="https://i.imgur.com/nAIWAPa.png" alt="Developer Mode" />
-        <br/> - Right-click on your server name at the top left and select <code>Copy ID</code>
-        <br/> <img src="https://i.imgur.com/CxXP2Ch.png" alt="Server ID" />
+        <br/> <b>4.</b> If the above methods do not work, 
+        <br/> Please choose option 8 in our #help-desk channel on the Rythm bot Discord Server to receive assistance from a member of our Support Team.
+        <br/> <a href="https://rythmbot.co/support">Click here for an invite to the Rythm bot Discord Server</a>
     How can I reset Rythm's prefix: |
         <br/> If you have changed the default Rythm prefix to a custom one and now can’t make Rythm work or aren’t able to change the prefix back, do the following:
         <br/>
