@@ -1,5 +1,5 @@
 # Rythm FAQ
-This is the home of the data files for the Rythm Bot FAQ & Troubleshooting alongside the Protector FAQ and a couple of other bots' FAQs.
+This is the home of the data files for the Rythm Bot FAQ & Troubleshooting alongside a couple of other bots' FAQs.
 
 ## Suggestions/Feedback
 For any suggestions or feedback regarding the FAQ or the troubleshooting pages, please create a new issue.
