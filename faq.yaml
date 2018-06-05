@@ -44,10 +44,10 @@ Basics:
         <br/> You can see the current prefix for either bot by mentioning them.
         <br/>
         <br/> For Rythm:
-        <br/> <b> @Rythm#3722 </b> OR <b> <@235088799074484224> </b>
+        <br/> <b> @Rythm#3722 </b> OR <b> <@!235088799074484224> </b>
         <br/>
         <br/> For Rythm 2:
-        <br/> <b> @Rythm 2#2000 </b> OR <b> <@252128902418268161> </b>
+        <br/> <b> @Rythm 2#2000 </b> OR <b> <@!252128902418268161> </b>
         <br/>
         <br/> A message should be returned by Rythm stating its current prefix.
     Can I make a playlist with Rythm?: |
