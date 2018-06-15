@@ -50,7 +50,7 @@ Basics:
         <br/> <b> @Rythm 2#2000 </b> OR <b> <@252128902418268161> </b>
         <br/>
         <br/> A message should be returned by Rythm stating its current prefix.
-    Can I make a playlist with Rythm?: |
+    Can I play a playlist with Rythm?: |
         <br/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud.
         <br/>
         <br/> To add songs to the queue from an online playlist, use the following command format:
