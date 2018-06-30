@@ -393,6 +393,15 @@ Settings:
         <br/> <b><u>Example</u></b>: !settings setdj Admin
         <br/>
         <br/> Note: <b><u>Any role called "DJ" will still act as DJ role.</u></b>
+    DJPlaylists: |
+        <br/> <b><u>Enabling DJ Playlists</u></b>
+        <br/>
+        <br/> When enabled only DJ's are able to queue playlists
+        <br/>
+        <br/> <u>Command format</u> <b>!settings djplaylists</b> <code>on</code>/<code>off</code>
+        <br/>
+        <br/> <b><u>Example</u></b>: !settings djplaylists on
+        <br/>
     Autoplay*: |
         <br/> <b><u>Enabling/disabling autoplay</u>*</b>
         <br/>
