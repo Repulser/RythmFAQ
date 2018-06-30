@@ -394,9 +394,9 @@ Settings:
         <br/>
         <br/> Note: <b><u>Any role called "DJ" will still act as DJ role.</u></b>
     DJPlaylists: |
-        <br/> <b><u>Enabling DJPlaylists</u></b>
+        <br/> <b><u>Enabling DJ Playlists</u></b>
         <br/>
-        <br/> When enabled only DJ's can queue playlists
+        <br/> When enabled only DJ's are able to queue playlists
         <br/>
         <br/> <u>Command format</u> <b>!settings djplaylists</b> <code>on</code>/<code>off</code>
         <br/>
