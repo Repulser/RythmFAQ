@@ -216,7 +216,7 @@ Roles/Permissions:
         <br/>
         <br/>
         <br/> *******************************************<b>NOTICE</b>*******************************************:
-        <br/> If a user is <b>ALONE WITH RYTHM</b> in a voice channel, It <b>WILL</b> have access to <b>ALL</b> music commands
+        <br/> If a user is <b>ALONE WITH RYTHM</b> in a voice channel, they <b>WILL</b> have access to <b>ALL</b> music commands
         <br/> even if the user has <b>NO ROLES</b> in the server. This is because these commands wouldn't affect anyone
         <br/> but the user, as there would be no one else in the channel.
         <br/>
