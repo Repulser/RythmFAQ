@@ -298,7 +298,7 @@ Roles/Permissions:
         <br/>
         <br/> <b>3</b>) Turn <b>OFF</b> the Administrator permission for Rythm.
         <br/>
-        <br/> <b>4</b>)Turn <b>ON</b> Read messages, Send Messages, Connect and Speak Permissions.
+        <br/> <b>4</b>)Turn <b>ON</b> Read Text Channels & See Voice Channels, Send Messages, Embed Links, Connect and Speak Permissions.
         <br/>
         <br/> <b>5</b>) Go to the voice channel you want to <b>restrict</b> Rythm from connecting to.
         <br/>
