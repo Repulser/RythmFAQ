@@ -164,7 +164,7 @@ Limitations/Restrictions:
         <br/> Rythm uses the default volume for videos when using audio streams, for donators we allow for encoding to change the volume of these audio streams.
         <br/> Due to the fact that encoding takes resources and time, this is why we do not roll this feature out to all Rythm users.
         <br/>
-        <br/> for donators the volume command is <b>!volume</b> <code>number</code> <i>(Allowed Values: 1 --> 150)</i>
+        <br/> For donators the volume command is <b>!volume</b> <code>number</code> <i>(Allowed Values: 1 --> 200)</i>
         <br/>
         <br/> Example: <b> !volume 100 </b>
     Can I make custom commands for Rythm?: |
