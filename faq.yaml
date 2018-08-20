@@ -126,14 +126,6 @@ Basics:
         <br/>
         <br/> <b>Note: </b> Vote skip will not be active until there are 3 or more people in the voice channel.
         <br/> (As with one person, insta-skip is enabled and with two the threshold for skipping is 1).
-    Where does Rythm get the lyrics from?: |
-        <br/> Rythm gets the lyrics from the <a href="https://genius.com">Genius Lyrics and Knowledge website.</a>
-        <br/>
-        <br/> <b>Note</b>: Sometimes a song's lyrics can be inaccurate or from a different song.
-        <br/> This is because that song's lyrics are not in the Genius database.
-        <br/>
-        <br/> Feel free to add it here though: <a href="https://genius.com/new">Add a song to Genius</a>
-        <br/> Make sure you use the correct metadata such as Title, Artist, Genre.
 Limitations/Restrictions:
     Can I have 2 Rythms in the same server?: |
         <br/> <b> Short answer</b>: <code>Yes.</code>
