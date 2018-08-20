@@ -54,7 +54,7 @@ Basics:
         <br/>
         <br/> A message should be returned by Rythm stating its current prefix.
     Can I play a playlist with Rythm?: |
-        <br/> Rythm can reproduce playlists from a variety of online audio sources including YouTube and SoundCloud.
+        <br/> Rythm can use playlists from a variety of online audio sources including YouTube and SoundCloud.
         <br/>
         <br/> To add songs to the queue from an online playlist, use the following command format:
         <br/>
