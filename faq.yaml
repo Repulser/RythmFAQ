@@ -5,26 +5,29 @@ Introduction:
         <br/> Rythm is a feature-rich, high-performance music bot for Discord, specially designed to deliver High Quality music, stability and ease of use while also providing advanced music functionalities in order to create the ultimate music bot experience.
     How do I add Rythm to my server?: |
         <br/> You can add Rythm to your Discord server by clicking on the following link:
+        <br/>
         <br/> <a href="https://rythmbot.co/invite">https://rythmbot.co/invite</a>
-        <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permissions to be able to add Rythm to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
-        <br/> Also make sure you’re <b><a href="https://discordapp.com/login">logged in</a></b> to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>.
+        <br/>
+        <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permission to be able to add Rythm to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
+        <br/> Also make sure you’re logged in to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>
     What is Rythm's Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to Rythm.
         <br/>
         <br/> Here you’ll be able to:
         <br/>
-        <br/> • See Information about Rythm’s latest features and updates.
+        <br/> • See information about Rythm’s latest features and updates.
         <br/> • Keep up with all the news and announcements.
         <br/> • Hang out with the members of our fast growing community!
         <br/> • Suggest new features for Rythm.
         <br/> • Get support from our Staff members.
         <br/>
-        <br/> <b>Note:</b> For an invite to Rythm's Discord server, use the following link: <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
+        <br/> <b>Note:</b> For an invite to Rythm's Discord server, use the following link:
+        <br/>
+        <br/> <a href="https://rythmbot.co/support">https://rythmbot.co/support</a>
     How can Rythm be in so many guilds at once?: |
         <br/> Rythm uses a system called "sharding".
         <br/>
-        <br/> For more information by discord's developers <a href="https://discordapp.com/developers/docs/topics/gateway#sharding">click here (https://discordapp.com/developers/docs/topics/gateway)</a>.
-        <br/> (Scroll down until you reach a section titled <code>sharding</code>)
+        <br/> For more information on how sharding works <a href="https://discordapp.com/developers/docs/topics/gateway#sharding">click here (https://discordapp.com/developers/docs/topics/gateway#sharding)</a> to view Discord's developers documentation of it.
 Basics:
     How can I play a song with Rythm?: |
         <br/> To play a song use the following command format:
@@ -51,7 +54,7 @@ Basics:
         <br/>
         <br/> A message should be returned by Rythm stating its current prefix.
     Can I play a playlist with Rythm?: |
-        <br/> Rythm can reproduce playlists from a variety of online audio sources including youtube and soundcloud.
+        <br/> Rythm can reproduce playlists from a variety of online audio sources including YouTube and SoundCloud.
         <br/>
         <br/> To add songs to the queue from an online playlist, use the following command format:
         <br/>
@@ -61,11 +64,11 @@ Basics:
     How do I change Rythm's Nickname?: |
         <br/> To change Rythm’s nickname in your server you must:
         <br/>
-        <br/> <b>1)</b> <b>Right Click on Rythm</b> &gt; <b> Change nickname</b> &gt; <b>Save</b>.
+        <br/> <b>1)</b> <b>Right Click on Rythm</b> &gt; <b> Change Nickname</b> &gt; <b>Save</b>.
         <br/>
         <br/> Done.
     How can I donate to support Rythm?: |
-        <br/> Love Rythm? Want to support its development? you can do so by becoming a donator today! plus, you'll also get access to donator-only features along the way!
+        <br/> Love Rythm? Want to support its development? You can do so by becoming a donator today! Plus, you'll also get access to donator-only features along the way!
         <br/>
         <br/> <b> If you're interested in donating, please visit the following link</b>:
         <br/>
@@ -99,19 +102,19 @@ Basics:
         <br/>
         <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     How can I remove all the duplicate songs in the current queue?: |
-        <br/> To restrict duplicates from Rythm's queue you must use the following command:
+        <br/> To remove duplicates from Rythm's queue you must use the following command:
         <br/>
         <br/> <b>!removedupes</b>
         <br/>
-        <br/> Rythm should then purge its queue of any duplicate songs
+        <br/> Rythm should then purge its queue of any duplicate songs.
     Why can some normal users access moderative music commands?: |
         <br/> Normal users with no special permissions are only allowed to use the <b>!play</b> command to add songs to the queue by default.
         <br/> They can also use other commands that don't affect the playing music in any way. Example: <b>!queue</b> and <b>!lyrics</b>.
         <br/>
-        <br/> However, <b>Normal users can access ALL music commands when they are alone with Rythm in the voice channel</b>.
+        <br/> However, <b>normal users can access ALL music commands when they are alone with Rythm in the voice channel</b>.
         <br/> This is because their commands would not affect anyone but themselves.
         <br/>
-        <br/> For more information about users their command permissions, refer to the <b>>Permissions</b> section in this FAQ.
+        <br/> For more information about users command permissions, refer to the <b>>Roles/Permissions</b> section in this FAQ.
     How many votes are needed for a song to be vote skipped?: |
         <br/> For a vote skip to take effect, 75% of the voice chat's population need to vote yes.
         <br/>
@@ -124,40 +127,42 @@ Basics:
         <br/> <b>Note: </b> Vote skip will not be active until there are 3 or more people in the voice channel.
         <br/> (As with one person, insta-skip is enabled and with two the threshold for skipping is 1).
     Where does Rythm get the lyrics from?: |
-        <br/>Rythm gets the lyrics from the <a href="https://genius.com">Genius Lyrics and Knowledge website.</a>
+        <br/> Rythm gets the lyrics from the <a href="https://genius.com">Genius Lyrics and Knowledge website.</a>
         <br/>
         <br/> <b>Note</b>: Sometimes a song's lyrics can be inaccurate or from a different song.
-        <br/>This is because that song's lyrics are not in the Genius database.
+        <br/> This is because that song's lyrics are not in the Genius database.
         <br/>
-        <br/>Feel free to add it here though: <a href="https://genius.com/new">Add a song to Genius</a>.
-        <br/>Make sure you use the correct metadata such as Title, Artist, Genre.
+        <br/> Feel free to add it here though: <a href="https://genius.com/new">Add a song to Genius</a>
+        <br/> Make sure you use the correct metadata such as Title, Artist, Genre.
 Limitations/Restrictions:
     Can I have 2 Rythms in the same server?: |
         <br/> <b> Short answer</b>: <code>Yes.</code>
         <br/>
-        <br/> We now allow you to get a second version of Rythm at: <a href="https://rythmbot.co/rythm2">https://rythmbot.co/rythm2</a>.
+        <br/> We now allow you to get a second version of Rythm at:
+        <br/>
+        <br/> <a href="https://rythmbot.co/rythm2">https://rythmbot.co/rythm2</a>
     Can I change Rythm's profile picture (avatar) in my server?: |
         <br/> <b> Short answer</b>: <code>No.</code>
         <br/>
-        <br/> Discord doesn’t allow for users or bots to have a different profile pic or avatar per server.
+        <br/> Discord doesn’t allow for users or bots to have a different profile picture per server.
     Can Rythm play from Spotify?: |
         <br/> <b> Short answer</b>: <code>No.</code>
         <br/>
         <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
         <br/>
-        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to Youtube playlist converter (http://playlistbuddy.com)</a> instead.
+        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to YouTube playlist converter (http://playlistbuddy.com)</a> instead.
     Which sites does Rythm allow?: |
         <br/> Rythm currently supports the following audio streaming services:
         <br/>
-        <br/> <b>•</b> Youtube
+        <br/> <b>•</b> YouTube
         <br/> <b>•</b> Twitch
-        <br/> <b>•</b> Soundcloud
+        <br/> <b>•</b> SoundCloud
         <br/> <b>•</b> Vimeo
         <br/> <b>•</b> Mixer
     Can I adjust the volume for everyone on my server for Rythm?: |
         <br/> <b>Short answer</b>: <code>If you donate.</code>
         <br/>
-        <br/> You may set the local volume of Rythm for yourself by selecting Rythm and adjusting the local volume slider as shown below.
+        <br/> You may set the local volume of Rythm for yourself by selecting Rythm and adjusting the user volume slider as shown below.
         <br/>
         <br/> <img src="https://i.imgur.com/qd6w5Yd.png" alt="Discord user volume"/>
         <br/>
@@ -166,13 +171,14 @@ Limitations/Restrictions:
         <br/>
         <br/> For donators the volume command is <b>!volume</b> <code>number</code> <i>(Allowed Values: 1 --> 200)</i>
         <br/>
-        <br/> Example: <b> !volume 100 </b>
+        <br/> Example: <b> !volume 80 </b>
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
         <br/> We do not allow custom commands/aliases however we do allow for suggestions of aliases to be added.
         <br/>
-        <br/> Use the <code>!aliases</code> command to view aliases, you can suggest any you can think of in the server channel <code>#rythm-suggestions</code>
+        <br/> Use the <code>!aliases</code> command to view all the aliases.
+        <br/> You can suggest any that you can think of in the Rythm Bot's server channel <code>#rythm-suggestions</code>
     Can Rythm play 24/7?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
@@ -196,7 +202,7 @@ Roles/Permissions:
         <br/> <b>•</b> Don’t have access to control the music in any way.
         <br/>
         <br/>
-        <br/> <u>Users with a <b>DJ role</b> / <b>Manage Channel</b> permissions</u>:
+        <br/> <u>Users with a <b>DJ role</b> / <b>Manage Channels</b> permission</u>:
         <br/>
         <br/> • Have full access to all music commands.
         <br/> • Can’t change Rythm’s settings.
@@ -205,12 +211,12 @@ Roles/Permissions:
         <br/> with no special permissions assigned and it will still access these features.
         <br/>
         <br/>
-        <br/> <u>Users with <b>Manage Server</b> / <b>Administrator</b> permissions</u>:
+        <br/> <u>Users with <b>Manage Server</b> / <b>Administrator</b> permission</u>:
         <br/>
-        <br/> • <b>Manage Server</b>: Users with Manage server permissions can change Rythm’s settings,
+        <br/> • <b>Manage Server</b>: Users with Manage Server permission can change Rythm’s settings,
         <br/> but are limited to <b>only</b> use the normal user's music commands.
         <br/>
-        <br/> • <b>Administrator</b>: Users with Administrator permissions have full access to all music commands
+        <br/> • <b>Administrator</b>: Users with Administrator permission have full access to all music commands
         <br/> and can also change Rythm’s settings.
         <br/>
         <br/>
@@ -218,7 +224,7 @@ Roles/Permissions:
         <br/> *******************************************<b>NOTICE</b>*******************************************:
         <br/> If a user is <b>ALONE WITH RYTHM</b> in a voice channel, they <b>WILL</b> have access to <b>ALL</b> music commands
         <br/> even if the user has <b>NO ROLES</b> in the server. This is because these commands wouldn't affect anyone
-        <br/> but the user, as there would be no one else in the channel.
+        <br/> but the user, as there would be no one else in the voice channel.
         <br/>
         <br/> If you want all Rythm commands to be only available to people with a specific role, read the next entry in this FAQ.
     How can I make Rythm only respond to Admins/specific roles?: |
@@ -236,30 +242,29 @@ Roles/Permissions:
         <br/>
         <br/> <b>Example</b>: !settings blacklist #general
     How do I give normal users access to all music commands?: |
-        <br/> Users with <b>Manage Channels</b> permissions have access to all music commands by <b>default</b>.
-        <br/> Users with <b>Manage Server</b> permissions <b>don’t</b>.
+        <br/> Users with <b>Manage Channels</b> permission have access to all music commands by <b>default</b>.
+        <br/> Users with <b>Manage Server</b> permission <b>don’t</b>.
         <br/>
         <br/> However, if you wish to give <b>some users</b> access to <b>all music commands</b> without having to give
         <br/> them the <b>Manage Channels</b> permission, you can do so by creating a role named <b>DJ</b> in your server and
-        <br/> assigning it to the users. This role doesn’t need to have any special discord permissions.
+        <br/> assigning it to the users. This role doesn’t need to have any special Discord permissions.
         <br/>
         <br/> The <b>DJ</b> role has to be assigned manually and <b>cannot</b> be given to all users at once.
         <br/>
-        <br/> <b>Users alone in a room with Rythm will be treated as though they have the DJ role until another user is inside the room with them even if they have no roles</b>
+        <br/> <b>Users alone in a voice channel with Rythm will be treated as though they have the DJ role until another user joins the voice channel with them even if they have no roles</b>
         <br/>
-        <br/>
-        <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify Rythm's <b>Settings</b>.
+        <br/> <b>Note</b>: Users with the <b>DJ</b> role <b>will not</b> be able to change or modify Rythm's <b>settings</b>.
     How can I block music commands in a specific text channel?: |
         <br/> To restrict music commands from working in a text channel, you must <b>blacklist</b>
         <br/> the channel with Rythm’s <b>Blacklist</b> function.
         <br/>
-        <br/> To blacklist a channel use the following command format:
+        <br/> To blacklist a text channel use the following command format:
         <br/>
         <br/> <b>!settings blacklist <code>#channel</code></b>
         <br/>
         <br/> <b>Example</b>: !settings blacklist #general
     How can I limit the number of songs that one user can add to the queue?: |
-        <br/> To restrict Rythm's queue to a specific number of songs per user you must use the settings menu
+        <br/> To restrict Rythm's queue to a specific number of songs per user you must use the settings menu.
         <br/>
         <br/> To limit the number of songs per user use the following command format:
         <br/>
@@ -267,9 +272,9 @@ Roles/Permissions:
         <br/>
         <br/> <b>Example</b>: !settings maxusersongs 5
         <br/>
-        <br/> Now any songs added that will put the queue over this number for a specific user will be ignored
+        <br/> Now any songs added that will put the queue over this number for a specific user will be blocked.
     How can I prevent duplicate songs from being added to the queue?: |
-        <br/> To restrict duplicates from Rythm's queue you must use the settings menu
+        <br/> To restrict duplicates from Rythm's queue you must use the settings menu.
         <br/>
         <br/> To prevent duplicate songs from being added to the queue use the following command format:
         <br/>
@@ -277,9 +282,9 @@ Roles/Permissions:
         <br/>
         <br/> <b>Example</b>: !settings preventduplicates on
         <br/>
-        <br/> Now any songs added to the queue that are already in the queue will be ignored
+        <br/> Now any songs added to the queue that are already in the queue will be blocked.
     How can I limit the number of songs that can be added to the queue?: |
-        <br/> To restrict Rythm's queue to a specific number of songs you must use the settings menu
+        <br/> To restrict Rythm's queue to a specific number of songs you must use the settings menu.
         <br/>
         <br/> To limit the number of songs use the following command format:
         <br/>
@@ -287,7 +292,7 @@ Roles/Permissions:
         <br/>
         <br/> <b>Example</b>: !settings maxqueuelength 25
         <br/>
-        <br/> Now any songs added that will put the queue over this number will be ignored
+        <br/> Now any songs added that will put the queue over this number will be blocked.
     How do I restrict Rythm from joining a voice channel?: |
         <br/>To block Rythm from joining a specific voice channel you must:
         <br/>
@@ -298,22 +303,21 @@ Roles/Permissions:
         <br/>
         <br/> <b>3</b>) Turn <b>OFF</b> the Administrator permission for Rythm.
         <br/>
-        <br/> <b>4</b>)Turn <b>ON</b> Read Text Channels & See Voice Channels, Send Messages, Embed Links, Connect and Speak Permissions.
+        <br/> <b>4</b>) Turn <b>ON</b> Read Text Channels & See Voice Channels, Send Messages, Embed Links, Connect and Speak Permissions.
         <br/>
         <br/> <b>5</b>) Go to the voice channel you want to <b>restrict</b> Rythm from connecting to.
         <br/>
         <br/> <b>6</b>) Click <b>Edit channel</b> &gt; <b>Permissions</b> &gt; <b>Rythm Role</b>.
         <br/>
-        <br/> <b>7</b>) Turn <b>OFF</b> the "Connect" permission for Rythm. Save.
+        <br/> <b>7</b>) Turn <b>OFF</b> the "Connect" permission for the Rythm role. Save.
         <br/>
         <br/> Done.
-        <br/>
         <br/>
         <br/> <b>Note</b>: To blacklist multiple channels, just repeat steps 5 to 7
         <br/> separately with all the voice channels you wish to blacklist.
 Settings:
     Intro: |
-        <br/> <strong> These are the options you can access through Rythm’s settings menu </strong>
+        <br/> <strong> These are the options you can access through Rythm’s settings menu. </strong>
         <br/>
         <br/> To access this menu use the command <b>!settings</b>
         <br/>
@@ -354,7 +358,7 @@ Settings:
     Queue Length Limit: |
         <br/> <b><u>Limiting queue length</u></b>
         <br/>
-        <br/> Limits the max number of songs the playlist can hold before refusing to allow users to add any more.
+        <br/> Limits the max number of songs the queue can hold before refusing to allow users to add any more.
         <br/>
         <br/> <u>Command format</u> <b>!settings maxqueuelength</b> <code>Number</code>/<code>disable</code>
         <br/>
@@ -392,18 +396,18 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings setdj Admin
         <br/>
-        <br/> Note: <b><u>Any role called "DJ" will still act as DJ role.</u></b>
+        <br/> Note: <b><u>Any role called "DJ" will still act as a DJ role.</u></b>
     DJPlaylists: |
         <br/> <b><u>Enabling DJ Playlists</u></b>
         <br/>
-        <br/> When enabled only DJ's are able to queue playlists
+        <br/> When enabled only DJ's are able to queue playlists.
         <br/>
         <br/> <u>Command format</u> <b>!settings djplaylists</b> <code>on</code>/<code>off</code>
         <br/>
         <br/> <b><u>Example</u></b>: !settings djplaylists on
         <br/>
     Autoplay*: |
-        <br/> <b><u>Enabling/disabling autoplay</u>*</b>
+        <br/> <b><u>Enabling/Disabling autoplay</u>*</b>
         <br/>
         <br/> <b>Autoplay feature</b> once setup with your own playlist,
         <br/> Rythm will queue songs from it once the queue is empty.
@@ -412,7 +416,7 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/>
-        <br/> Note: <b> <u>This feature is donator exclusive</u> </b>.
+        <br/> Note: <b> <u>This feature is donator exclusive</u></b>.
     Server Default Volume*: |
         <br/> <b><u>Setting Rythm's default volume</u>*</b>
         <br/>
@@ -420,11 +424,11 @@ Settings:
         <br/>
         <br/> <u>Command format</u> <b>!settings defaultvolume</b> <code>Number</code>
         <br/>
-        <br/> <b><u>Example</u></b>: !settings defaultvolume 100
+        <br/> <b><u>Example</u></b>: !settings defaultvolume 80
         <br/>
         <br/> Note: <b><u>This feature is donator exclusive</u></b>.
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
     None of this helped me with my problem: |
-        <br/> If you find that your question was not answered by the FAQ or troubleshooting page, please <a href="https://rythmbot.co/support">click here to join the official Rythm Bot Discord Server</a>.
+        <br/> If you find that your question was not answered by the FAQ or Troubleshooting page, please <a href="https://rythmbot.co/support">click here to join the official Rythm Bot Discord Server</a>.
