@@ -8,7 +8,7 @@ Introduction:
         <br/>
         <br/> <a href="https://rythmbot.co/invite">https://rythmbot.co/invite</a>
         <br/>
-        <br/> <b>Note:</b> You must have a role with “Administrator” or “Manage Server” permission to be able to add Rythm to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
+        <br/> <b>Note:</b> You must have a role with the “Administrator” or the “Manage Server” permission to be able to add Rythm to a Discord Server. If you have either of these permissions you should be able to change the name of your server.
         <br/> Also make sure you’re logged in to the right account in the web browser when adding Rythm, see <a href="https://discordapp.com/login">https://discordapp.com/login</a>
     What is Rythm's Discord Server for?: |
         <br/> Rythm’s Discord server is the official platform for everything related to Rythm.
@@ -27,7 +27,7 @@ Introduction:
     How can Rythm be in so many guilds at once?: |
         <br/> Rythm uses a system called "sharding".
         <br/>
-        <br/> For more information on how sharding works <a href="https://discordapp.com/developers/docs/topics/gateway#sharding">click here (https://discordapp.com/developers/docs/topics/gateway#sharding)</a> to view Discord's developers documentation of it.
+        <br/> For more information on how sharding works <a href="https://discordapp.com/developers/docs/topics/gateway#sharding">click here (https://discordapp.com/developers/docs/topics/gateway#sharding)</a> to view Discord's documentation of it.
 Basics:
     How can I play a song with Rythm?: |
         <br/> To play a song use the following command format:
@@ -213,10 +213,10 @@ Roles/Permissions:
         <br/>
         <br/> <u>Users with <b>Manage Server</b> / <b>Administrator</b> permission</u>:
         <br/>
-        <br/> • <b>Manage Server</b>: Users with Manage Server permission can change Rythm’s settings,
+        <br/> • <b>Manage Server</b>: Users with the Manage Server permission can change Rythm’s settings,
         <br/> but are limited to <b>only</b> use the normal user's music commands.
         <br/>
-        <br/> • <b>Administrator</b>: Users with Administrator permission have full access to all music commands
+        <br/> • <b>Administrator</b>: Users with the Administrator permission have full access to all music commands
         <br/> and can also change Rythm’s settings.
         <br/>
         <br/>
@@ -242,8 +242,8 @@ Roles/Permissions:
         <br/>
         <br/> <b>Example</b>: !settings blacklist #general
     How do I give normal users access to all music commands?: |
-        <br/> Users with <b>Manage Channels</b> permission have access to all music commands by <b>default</b>.
-        <br/> Users with <b>Manage Server</b> permission <b>don’t</b>.
+        <br/> Users with the <b>Manage Channels</b> permission have access to all music commands by <b>default</b>.
+        <br/> Users with the <b>Manage Server</b> permission <b>don’t</b>.
         <br/>
         <br/> However, if you wish to give <b>some users</b> access to <b>all music commands</b> without having to give
         <br/> them the <b>Manage Channels</b> permission, you can do so by creating a role named <b>DJ</b> in your server and
@@ -272,7 +272,7 @@ Roles/Permissions:
         <br/>
         <br/> <b>Example</b>: !settings maxusersongs 5
         <br/>
-        <br/> Now any songs added that will put the queue over this number for a specific user will be blocked.
+        <br/> Now any songs added that will be put the queue over this number for a specific user will be blocked.
     How can I prevent duplicate songs from being added to the queue?: |
         <br/> To restrict duplicates from Rythm's queue you must use the settings menu.
         <br/>
