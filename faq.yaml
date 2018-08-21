@@ -167,7 +167,7 @@ Limitations/Restrictions:
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
-        <br/> We do not allow custom commands/aliases however we do allow for suggestions of aliases to be added.
+        <br/> We do not allow custom commands/aliases, however we do allow for suggestions of aliases to be added.
         <br/>
         <br/> Use the <code>!aliases</code> command to view all the aliases.
         <br/> You can suggest any aliases that you can think of in the Rythm Bot Discord server's <code>#rythm-suggestions</code> channel.
