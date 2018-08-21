@@ -81,7 +81,7 @@ Sound issues:
     Rythm is lagging: |
         <br/> If you find that Rythm's sound has started to lag, perform the following checks in order:
         <br/>
-        <br/> <b>1.</b> Kick Rythm out of the voice channel and resummon him using the commands <b>!dc</b> and then <b>!summon</b>.
+        <br/> <b>1.</b> Kick Rythm out of the voice channel and resummon it using the commands <b>!dc</b> and then <b>!summon</b>.
         <br/>
         <br/> <b>2.</b> Go to your server's <b>Server Settings</b> and change the server region a few times until you find a region where Rythm does not lag.
         <br/>
@@ -126,6 +126,6 @@ Links:
         <br/>
         <br/> <a href="https://rythmbot.co/faq/">Click here to go to the FAQ</a>
     None of this helped me with my problem: |
-        <br/> If you find that your question was not answered by the FAQ or Troubleshooting page.
+        <br/> If you find that your question was not answered by the FAQ or this Troubleshooting page.
         <br/>
         <br/> <a href="https://rythmbot.co/support">Click here to join the official Rythm Bot Discord server</a>
