@@ -2,55 +2,56 @@
 ---
 Basics:
     When adding Rythm I can't see my server on the list: |
-        <br/> You need to have a role with “<b>Administrator</b>” or “<b>Manage server</b>” permissions to be able to add a Bot (Rythm) to a <b>Discord Server</b>.
+        <br/> You must have a role with the “<b>Administrator</b>” or the “<b>Manage Server</b>” permission to be able to add Rythm to a <b>Discord Server</b>. If you have either of these permissions you should be able to change the name of your server.
         <br/>
-        <br/> If you have the right permissions and <b>still can’t see</b> your server in the list, make sure you’re <b>logged in</b> into the correct <b>discord account</b> in your <b>web browser</b>.
+        <br/> If you have the correct permission and <b>still can’t see</b> your server in the list, make sure you’re <b>logged into</b> the correct <b>Discord account</b> in your <b>web browser</b>.
         <br/>
-        <br/> <b>Note</b>: If that still didn't work, We suggest trying a <b>different browser</b> to invite Rythm to your server. <b>(Incognito Mode will not work.)</b>
+        <br/> <b>Note</b>: If that still doesn't work, we suggest trying <b>Incognito Mode</b> in your web browser or a <b>different browser</b> to invite Rythm to your server.
     Rythm left the voice channel while not playing anything: |
         <br/> For performance reasons, Rythm leaves after a while of being alone or unused in a voice channel.
         <br/> This helps Rythm save resources while no one is listening to it and keeps the music quality consistent for all users at any given time!
         <br/>
-        <br/> Don't worry though, as long as you are in a voice channel, just type <b>!summon</b> to make Rythm join your channel!
+        <br/> Don't worry though, as long as you are in a voice channel, just type <b>!summon</b> to make Rythm rejoin your channel!
     Rythm forgets the playlist I queued after it leaves: |
         <br/> For performance reasons, Rythm will clear/reset the queue when it leaves the voice channel.
-        <br/> To get around this we suggest creating a Youtube playlist of the songs you wish to re-queue.
+        <br/> To get around this we suggest creating a YouTube playlist of the songs you wish to re-queue.
     Rythm messages come out blank: |
-        <br/> Rythm uses something called rich embeds for the messages, which is an option that <b>might be disabled</b> on your client. Make sure it's <b>enabled</b>!
+        <br/> Rythm uses something called rich embeds for its messages, which is an option that <b>might be disabled</b> on your client. Make sure it's <b>enabled</b>!
         <br/>
         <br/> To do so:
         <br/>
-        <br/> Go to your <b>discord settings</b> > click on "<b>Text & Images</b>" > <b>Enable</b> "Show website preview info from links pasted into chat”.
+        <br/> Go to your <b>Discord User Settings</b> > click on "<b>Text & Images</b>" > <b>Enable</b> "Show website preview info from links pasted into chat”.
         <br/>
         <br/> <img src="https://i.imgur.com/dvmYgs9.png" alt="Link Preview" style="width:500px;height:330px;" />
     Rythm does not respond to commands: |
         <br/> If Rythm isn’t responding to commands, try the following:
         <br/>
         <br/>
-        <br/> <b>1.</b> <b>Ensure you’re using the correct prefix</b>. You can see the current prefix for Rythm by Mentioning the bot. <u>Example</u>: <b>@Rythm#3722</b> or <b><@235088799074484224> </b>
+        <br/> <b>1.</b> <b>Ensure you’re using the correct prefix</b>. You can see the current prefix for Rythm by mentioning the bot.
+        <br/> Example: <b>@Rythm#3722</b> OR <b><@!235088799074484224></b>
         <br/>
-        <br/> <b>2.</b> <b>Ensure Rythm has permissions to send messages in the text channel.</b>
-        <br/> You can give “<b>Administrator</b>” permissions to the bot to make this easier.
+        <br/> <b>2.</b> <b>Ensure Rythm has permission to send messages in the text channel.</b>
+        <br/> You can give the “<b>Administrator</b>” permission to Rythm to make this easier.
         <br/>
-        <br/> <b>3.</b> Check the #outages section of the Rythm bot Discord server to see if there is an outage
+        <br/> <b>3.</b> Check the <code>#outages</code> channel on the Rythm Bot Discord server to see if there are any known issues.
         <br/>
-        <br/> <b>4.</b> If the above methods do not work, 
-        <br/> Please choose option 7 in our #help-desk channel on the Rythm bot Discord Server to receive assistance from a member of our Support Team.
-        <br/> <a href="https://rythmbot.co/support">Click here for an invite to the Rythm bot Discord Server</a>
+        <br/> <b>4.</b> If the above methods do not work, please choose option 7 in our <code>#help-desk</code> channel on the Rythm Bot Discord server to receive assistance from a member of our Support Team.
+        <br/>
+        <br/> <a href="https://rythmbot.co/support">Click here to join the official Rythm Bot Discord server</a>
     How can I reset Rythm's prefix: |
         <br/> If you have changed the default Rythm prefix to a custom one and now can’t make Rythm work or aren’t able to change the prefix back, do the following:
         <br/>
         <br/>
         <br/>
-        <br/> <b>1.</b> <u>Mention the bot.</u>
+        <br/> <b>1.</b> <u>Mention Rythm.</u>
         <br/>
         <br/> You can do this by typing: <b>@Rythm#3722 </b> or <b><@!235088799074484224> </b>
         <br/>
-        <br/> When you mention the bot, do it in a channel the bot can read in.</b>
+        <br/> When you mention Rythm, do it in a text channel Rythm can send messages in.</b>
         <br/>
-        <br/> <b>2.</b> <u>Copy the Prefix response </u>.
+        <br/> <b>2.</b> <u>Copy the Prefix response.</u>
         <br/>
-        <br/> After mentioning Rythm, it should give you a message similar to this:
+        <br/> After mentioning Rythm, it should give you a message similar to this, but showing the prefix your Rythm is set to:
         <br/>
         <br/> <img src="https://i.imgur.com/JLpuLHX.png" alt="Prefix Example" style="width:573px;height:150px;" />
         <br/>
@@ -65,8 +66,8 @@ Basics:
         <br/> <b>;2Test-)29dsettings prefix ! </b>
         <br/>
         <br/>
-        <br/> Note: You must have a role with “Administrator” or “Manage Server” permissions to be able to change Rythm’s prefix.
-    Rythm is responding to commands but not joining voice channel: |
+        <br/> Note: You must have a role with the “Administrator” or the “Manage Server” permission to be able to change Rythm’s prefix.
+    Rythm is responding to commands but not joining the voice channel: |
         <br/> If you find that Rythm is responding to your commands but not joining a voice channel use the following method:
         <br/>
         <br/> <b>1.</b> Move to a different voice channel.
@@ -75,24 +76,22 @@ Basics:
         <br/> <b>4.</b> <b>!summon</b> the bot back into the original voice channel.
         <br/>
         <br/> If the above method does not work:
-        <br/> Try changing server region or kicking and re-adding Rythm from the discord server.
-        <br/>
-        <br/> This problem can exist due to multiple issues, mostly Discord API lagging.
+        <br/> Try changing the server region of your server or kicking & reinviting Rythm to your Discord server.
 Sound issues:
     Rythm is lagging: |
         <br/> If you find that Rythm's sound has started to lag, perform the following checks in order:
         <br/>
         <br/> <b>1.</b> Kick Rythm out of the voice channel and resummon him using the commands <b>!dc</b> and then <b>!summon</b>.
         <br/>
-        <br/> <b>2.</b> Go to <b>server settings</b> and change the server region a few times until you find a server where Rythm does not lag.
+        <br/> <b>2.</b> Go to your server's <b>Server Settings</b> and change the server region a few times until you find a region where Rythm does not lag.
         <br/>
-        <br/> <b>3.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #outages channel to see if Rythm is currently having an issue with lagging.
+        <br/> <b>3.</b> Check the Rythm Bot Discord server by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and then checking the <code>#outages</code> channel to see if Rythm is currently having any known issues.
         <br/>
-        <br/> <b>4.</b> Kick and reinvite Rythm to your Discord Guild.
+        <br/> <b>4.</b> Kick and reinvite Rythm to your Discord server.
     Rythm doesn't play any sound: |
         <br/> If you find that Rythm does not play any sound, perform the following checks in order:
         <br/>
-        <br/> <b>1.</b> Ensure that Rythm is not muted, if you right click on Rythm while it is in a music channel <b>ensure the options in red are not ticked</b>:
+        <br/> <b>1.</b> Ensure that Rythm is not muted, if you right click on Rythm while it is in a voice channel <b>ensure the options in red are not ticked</b>:
         <br/> <img src="https://i.imgur.com/zBOKzpF.png" alt="Muted" />
         <br/>
         <br/> <b>2.</b> Ensure that Rythm's volume is not set to 0, if you right click on Rythm while it is in a music channel <b>ensure the slider in red is not set to 0</b>:
@@ -102,27 +101,23 @@ Sound issues:
         <br/>
         <br/> <b>3.</b> <b>Disconnect</b> from the voice channel and <b>Reconnect</b>.
         <br/>
-        <br/> <b>4.</b> Check the Rythm Bot Discord Guild by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and checking the #outages channel to see if Rythm is currently having an issue with not playing music.
+        <br/> <b>4.</b> Check the Rythm Bot Discord server by typing <b>!invite</b> and selecting the <b>Official Discord</b> option and then checking the <code>#outages</code> channel to see if Rythm is currently having any known issues.
         <br/>
-        <br/> <b>5.</b> Check your output options in Discord settings.
-        <br/> User settings --> Voice --> Output Device and Output Volume
+        <br/> <b>5.</b> Check your output options in your Discord User Settings.
+        <br/> User Settings > Voice & Video > Output Device and Output Volume
         <br/>
         <br/> <b>6.</b> Check your computer's system volume.
         <br/>
         <br/> <b>7.</b> Try reconnecting Rythm to your voice channel using the <b>!dc</b> and <b>!summon</b> commands.
         <br/>
-        <br/> <b>8.</b> Try changing your Discord server's region a few times until you find a server where Rythm plays music.
-        <br/> Server settings --> Overview --> Server Region
+        <br/> <b>8.</b> Try changing the server region of your server a few times until you find a region where Rythm plays music.
+        <br/> Server Settings > Overview > Server Region
         <br/>
         <br/> <b>9.</b> Ensure that the music is not paused. You can check this by using <b>!pause</b>. If the bot replies with <code>The player is already paused</code>, use <b>!resume</b> to start the music again.
 Mobile:
-    Rythm keeps muting itself: |
-        <br/> If you are on mobile and find that Rythm keeps muting itself after each song
-        <br/>
-        <br/> This is a problem with Discord on mobile and the only found way to fix it is to uninstall and reinstall Discord.
     The screen to add Rythm to my server is gray and empty: |
-        <br/> If you are on mobile and you find that you cannot add Rythm due to the fact that the link to add Rythm produces a gray screen please try first heading to <a href="https://discordapp.com/login">https://discordapp.com/login</a>, logging in and then using the invite link again.
-        <br/> If that does not work, we recommend using a desktop device to invite Rythm.
+        <br/> If you are on mobile and you find that you cannot add Rythm due to the fact that the link to add Rythm produces a gray screen, then please try first heading to <a href="https://discordapp.com/login">https://discordapp.com/login</a>, logging in and then using the invite link again.
+        <br/> If that does not work, we recommend using a desktop device.
         <br/>
         <br/> In short: You may want to try refreshing the website to add Rythm or use a desktop device.
 Links:
@@ -131,6 +126,6 @@ Links:
         <br/>
         <br/> <a href="https://rythmbot.co/faq/">Click here to go to the FAQ</a>
     None of this helped me with my problem: |
-        <br/> If you find that your question was not answered by the FAQ or troubleshooting page.
+        <br/> If you find that your question was not answered by the FAQ or Troubleshooting page.
         <br/>
-        <br/> <a href="https://rythmbot.co/support">Click here to join the official Rythm Bot Discord Server</a>.
+        <br/> <a href="https://rythmbot.co/support">Click here to join the official Rythm Bot Discord server</a>
