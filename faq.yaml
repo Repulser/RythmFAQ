@@ -147,7 +147,6 @@ Limitations/Restrictions:
         <br/> Rythm currently supports the following audio streaming services:
         <br/>
         <br/> <b>•</b> YouTube
-        <br/> <b>•</b> Twitch
         <br/> <b>•</b> SoundCloud
         <br/> <b>•</b> Vimeo
         <br/> <b>•</b> Mixer
@@ -167,10 +166,10 @@ Limitations/Restrictions:
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
-        <br/> We do not allow custom commands/aliases however we do allow for suggestions of aliases to be added.
+        <br/> We do not allow custom commands/aliases, however we do allow for suggestions of aliases to be added.
         <br/>
         <br/> Use the <code>!aliases</code> command to view all the aliases.
-        <br/> You can suggest any that you can think of in the Rythm Bot's server channel <code>#rythm-suggestions</code>
+        <br/> You can suggest any aliases that you can think of in the <code>#rythm-suggestions</code> channel on the Rythm Bot Discord server.
     Can Rythm play 24/7?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
@@ -423,4 +422,4 @@ Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
     None of this helped me with my problem: |
-        <br/> If you find that your question was not answered by the FAQ or Troubleshooting page, please <a href="https://rythmbot.co/support">click here to join the official Rythm Bot Discord Server</a>.
+        <br/> If you find that your question was not answered by this FAQ or the Troubleshooting page, please <a href="https://rythmbot.co/support">click here to join the official Rythm Bot Discord server</a>.
