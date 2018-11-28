@@ -7,6 +7,11 @@ Basics:
         <br/> If you have the correct permission and <b>still can’t see</b> your server in the list, make sure you’re <b>logged into</b> the correct <b>Discord account</b> in your <b>web browser</b>.
         <br/>
         <br/> <b>Note</b>: If that still doesn't work, we suggest trying <b>Incognito Mode</b> in your web browser or a <b>different browser</b> to invite Rythm to your server.
+    Rythm won't play my playlist!: |
+        <br/> If when adding a playlist Rythm responds with "Failed to load, Something went wrong when looking up the track"
+        <br/> If this occurs, the playlist you were trying to play is likely a YouTube Mix, which is currently not supported on Rythm.
+        <br/>
+        <br/> You can still play them on Rythm 2. which you can invite at <a href="https://rythmbot.co/releases">Rythm 2 Invite</a>
     Rythm left the voice channel while not playing anything: |
         <br/> For performance reasons, Rythm leaves after a while of being alone or unused in a voice channel.
         <br/> This helps Rythm save resources while no one is listening to it and keeps the music quality consistent for all users at any given time!
