@@ -56,17 +56,16 @@ Basics:
         <br/>
         <br/> After mentioning Rythm, it should give you a message similar to this, but showing the prefix your Rythm is set to:
         <br/>
-        <br/> <img src="https://i.imgur.com/JLpuLHX.png" alt="Prefix Example" style="width:573px;height:150px;" />
+        <br/> <img src="https://i.imgur.com/NNXTGPO.png" alt="Prefix Example"/>
         <br/>
         <br/> <b>You must Copy the part that is marked in red</b>.
-        <br/>
         <br/>
         <br/>
         <br/> <b>3.</b> <u>Run the prefix command.</u>
         <br/>
         <br/> Paste the copied text in the chat box and <b>right next to it</b> with <b>no spaces</b> type: settings prefix ! <br/> <br/> <u>Example</u>: To set the prefix back to <b>!</b> in the above picture, the command would be this:
         <br/>
-        <br/> <b>;2Test-)29dsettings prefix ! </b>
+        <br/> <b>DJsettings prefix ! </b>
         <br/>
         <br/>
         <br/> Note: You must have a role with the “Administrator” or the “Manage Server” permission to be able to change Rythm’s prefix.
