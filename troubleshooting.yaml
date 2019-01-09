@@ -95,7 +95,8 @@ Sound issues:
         <br/> If you find that Rythm does not play any sound, perform the following checks in order:
         <br/>
         <br/> <b>1.</b> Ensure that Rythm is not muted, if you right click on Rythm while it is in a voice channel <b>ensure the options in red are not ticked</b>:
-        <br/> <img src="https://i.imgur.com/zBOKzpF.png" alt="Muted" />
+        <br/> <img src="https://i.imgur.com/dnQfh6N.png" alt="Muted" />
+        <br/> <img src="https://i.imgur.com/fti5bPa.png" alt="Muted" />
         <br/>
         <br/> <b>2.</b> Ensure that Rythm's volume is not set to 0, if you right click on Rythm while it is in a music channel <b>ensure the slider in red is not set to 0</b>:
         <br/> <img src="https://i.imgur.com/9AnLpgR.png" alt="User Volume" />
