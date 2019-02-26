@@ -34,7 +34,7 @@ Basics:
         <br/>
         <br/> <b>!play <code>songname/URL</code></b>
         <br/>
-        <br/> Example: <b>!play retrograde</b>
+        <br/> <b><u>Example</b></u>: !play retrograde
         <br/>
         <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     How do I change Rythm's Prefix?: |
@@ -42,7 +42,7 @@ Basics:
         <br/>
         <br/> <b>!settings prefix <code>NewPrefix</code></b>
         <br/>
-        <br/> Example: <b> !settings prefix +</b>
+        <br/> <b><u>Example</b></u>: !settings prefix +
     How can I see the current prefix for Rythm or Rythm 2?: |
         <br/> You can see the current prefix for either bot by mentioning them.
         <br/>
@@ -60,7 +60,7 @@ Basics:
         <br/>
         <br/> <b> !play <code>URL</code> </b>
         <br/>
-        <br/> Example: <b> !play https://www.youtube.com/playlist?list=PLm_7fYxKwa6Ww1bKoPhV79VqxIjB4BZJv </b>
+        <br/> <b><u>Example</b></u>: !play https://www.youtube.com/playlist?list=PLm_7fYxKwa6Ww1bKoPhV79VqxIjB4BZJv
     How do I change Rythm's Nickname?: |
         <br/> To change Rythm’s nickname in your server you must:
         <br/>
@@ -98,7 +98,7 @@ Basics:
     How can I view more than one page using the queue command?: |
         <br/> <b><code>!queue [page number]</code></b>
         <br/>
-        <br/> Example: <b>!queue 2</b>
+        <br/> <b><u>Example</b></u>: !queue 2
         <br/>
         <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     How can I remove all the duplicate songs in the current queue?: |
@@ -163,7 +163,7 @@ Limitations/Restrictions:
         <br/>
         <br/> For donators the volume command is <b>!volume</b> <code>number</code> <i>(Allowed Values: 1 --> 200)</i>
         <br/>
-        <br/> Example: <b> !volume 80 </b>
+        <br/> <b><u>Example</b></u>: <!volume 80
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
@@ -388,7 +388,9 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings setdj Admin
         <br/>
-        <br/> Note: <b><u>Any role called "DJ" will still act as a DJ role.</u></b>
+        <br/> <b>Important</b>: Do <b>NOT</b> mention the role, its name must be typed out.
+        <br/>
+        <br/> <b>Note</b>: Any role called "DJ" will still act as a DJ role.
     DJPlaylists: |
         <br/> <b><u>Enabling DJ Playlists</u></b>
         <br/>
@@ -408,7 +410,7 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings autoplay https://www.youtube.com/watch?v=P2l0lbn5TVg&list=PL2788304DC59DBEB4
         <br/>
-        <br/> Note: <b> <u>This feature is donator exclusive</u></b>.
+        <br/> <b>Note</b>: This feature is donator exclusive.
     Server Default Volume*: |
         <br/> <b><u>Setting Rythm's default volume</u>*</b>
         <br/>
@@ -418,7 +420,7 @@ Settings:
         <br/>
         <br/> <b><u>Example</u></b>: !settings defaultvolume 80
         <br/>
-        <br/> Note: <b><u>This feature is donator exclusive</u></b>.
+        <br/> <b>Note</b>: This feature is donator exclusive.
 Links:
     I have encountered an issue with Rythm: |
         <br/> If you find that you have encountered an issue with Rythm, please <a href="https://rythmbot.co/troubleshooting/">click here to go to the Troubleshooting page</a>.
