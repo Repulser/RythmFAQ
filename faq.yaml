@@ -163,7 +163,7 @@ Limitations/Restrictions:
         <br/>
         <br/> For donators the volume command is <b>!volume</b> <code>number</code> <i>(Allowed Values: 1 --> 200)</i>
         <br/>
-        <br/> <b><u>Example</b></u>: <!volume 80
+        <br/> <b><u>Example</b></u>: !volume 80
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
