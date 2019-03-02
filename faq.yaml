@@ -34,7 +34,7 @@ Basics:
         <br/>
         <br/> <b>!play <code>songname/URL</code></b>
         <br/>
-        <br/> <b><u>Example</b></u>: !play retrograde
+        <br/> <b><u>Example</u></b>: !play retrograde
         <br/>
         <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     How do I change Rythm's Prefix?: |
@@ -42,7 +42,7 @@ Basics:
         <br/>
         <br/> <b>!settings prefix <code>NewPrefix</code></b>
         <br/>
-        <br/> <b><u>Example</b></u>: !settings prefix +
+        <br/> <b><u>Example</u></b>: !settings prefix +
     How can I see the current prefix for Rythm or Rythm 2?: |
         <br/> You can see the current prefix for either bot by mentioning them.
         <br/>
@@ -60,7 +60,7 @@ Basics:
         <br/>
         <br/> <b> !play <code>URL</code> </b>
         <br/>
-        <br/> <b><u>Example</b></u>: !play https://www.youtube.com/playlist?list=PLm_7fYxKwa6Ww1bKoPhV79VqxIjB4BZJv
+        <br/> <b><u>Example</u></b>: !play https://www.youtube.com/playlist?list=PLm_7fYxKwa6Ww1bKoPhV79VqxIjB4BZJv
     How do I change Rythm's Nickname?: |
         <br/> To change Rythm’s nickname in your server you must:
         <br/>
@@ -98,7 +98,7 @@ Basics:
     How can I view more than one page using the queue command?: |
         <br/> <b><code>!queue [page number]</code></b>
         <br/>
-        <br/> <b><u>Example</b></u>: !queue 2
+        <br/> <b><u>Example</u></b>: !queue 2
         <br/>
         <br/> For a full list of commands type <b>!help</b> in your server with Rythm in it.
     How can I remove all the duplicate songs in the current queue?: |
@@ -163,7 +163,7 @@ Limitations/Restrictions:
         <br/>
         <br/> For donators the volume command is <b>!volume</b> <code>number</code> <i>(Allowed Values: 1 --> 200)</i>
         <br/>
-        <br/> <b><u>Example</b></u>: !volume 80
+        <br/> <b><u>Example</u></b>: !volume 80
     Can I make custom commands for Rythm?: |
         <br/> <b>Short answer</b>: <code>No.</code>
         <br/>
