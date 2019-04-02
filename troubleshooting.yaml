@@ -117,6 +117,10 @@ Sound issues:
         <br/> Server Settings > Overview > Server Region
         <br/>
         <br/> <b>9.</b> Ensure that the music is not paused. You can check this by using <b>!pause</b>. If the bot replies with <code>The player is already paused</code>, use <b>!resume</b> to start the music again.
+        <br/>
+        <br/> <b>10.</b> Invite Rythm into a voice channel, and while still in the channel, delete the channel. After, create a new voice channel and attempt to play music from the new channel.
+        <br/>
+        <br/> <b>11.</b> Try to summon Rythm from a different text channel.
 Mobile:
     The screen to add Rythm to my server is gray and empty: |
         <br/> If you are on mobile and you find that you cannot add Rythm due to the fact that the link to add Rythm produces a gray screen, then please try first heading to <a href="https://discordapp.com/login">https://discordapp.com/login</a>, logging in and then using the invite link again.
