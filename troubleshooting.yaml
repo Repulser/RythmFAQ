@@ -109,7 +109,7 @@ Sound issues:
         <br/> <b>5.</b> Check your output options in your Discord User Settings.
         <br/> User Settings > Voice & Video > Output Device and Output Volume
         <br/>
-        <br/> <b>6.</b> Check your computer's system volume.
+        <br/> <b>6.</b> Check your computer's system volume and make sure the Discord master volume is not 0, in the Volume Mixer.
         <br/>
         <br/> <b>7.</b> Try reconnecting Rythm to your voice channel using the <b>!dc</b> and <b>!summon</b> commands.
         <br/>
