@@ -137,12 +137,6 @@ Limitations/Restrictions:
         <br/> <b> Short answer</b>: <code>No.</code>
         <br/>
         <br/> Discord doesn’t allow for users or bots to have a different profile picture per server.
-    Can Rythm play from Spotify?: |
-        <br/> <b> Short answer</b>: <code>No.</code>
-        <br/>
-        <br/> Playing from Spotify is illegal and both the API for Rythm and Spotify doesn't support it.
-        <br/>
-        <br/> However, you can use a <a href="http://playlistbuddy.com">Spotify to YouTube playlist converter (http://playlistbuddy.com)</a> instead.
     Which sites does Rythm allow?: |
         <br/> Rythm currently supports the following audio streaming services:
         <br/>
